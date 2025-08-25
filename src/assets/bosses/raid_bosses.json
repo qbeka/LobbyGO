@@ -1,0 +1,285 @@
+[
+    {
+      "id": "zacian_crowned_sword",
+      "name": "Zacian (Crowned Sword)",
+      "tier": "5",
+      "raid_type": "Legendary",
+      "catch_cp_100_no_weather": 2188,
+      "catch_cp_100_weather": 2735,
+      "sprite": "assets/sprites/888.png",
+      "aliases": ["Zacian Crowned", "Crowned Sword Zacian", "Zacian (Hero of Many Battles)"]
+    },
+    {
+      "id": "zamazenta_crowned_shield",
+      "name": "Zamazenta (Crowned Shield)",
+      "tier": "5",
+      "raid_type": "Legendary",
+      "catch_cp_100_no_weather": 2188,
+      "catch_cp_100_weather": 2735,
+      "sprite": "assets/sprites/889.png",
+      "aliases": ["Zamazenta Crowned", "Crowned Shield Zamazenta", "Zamazenta (Hero of Many Battles)"]
+    },
+    {
+      "id": "pidgeot_mega",
+      "name": "Mega Pidgeot",
+      "tier": "Mega",
+      "raid_type": "Mega",
+      "catch_cp_100_no_weather": 1216,
+      "catch_cp_100_weather": 1521,
+      "sprite": "assets/sprites/18.png",
+      "aliases": ["Mega Pidgeot"]
+    },
+    {
+      "id": "falinks",
+      "name": "Falinks",
+      "tier": "3",
+      "raid_type": "Regular",
+      "catch_cp_100_no_weather": 1347,
+      "catch_cp_100_weather": 1683,
+      "sprite": "assets/sprites/870.png",
+      "aliases": ["Train Conductor Falinks"]
+    },
+    {
+      "id": "pikachu_dapper",
+      "name": "Pikachu (Dapper)",
+      "tier": "1",
+      "raid_type": "Special",
+      "catch_cp_100_no_weather": 536,
+      "catch_cp_100_weather": 670,
+      "sprite": "assets/sprites/25.png",
+      "aliases": ["Dapper Pikachu"]
+    },
+
+    {
+      "id": "shadow_bellsprout",
+      "name": "Shadow Bellsprout",
+      "tier": "Shadow 1",
+      "raid_type": "Shadow",
+      "catch_cp_100_no_weather": 590,
+      "catch_cp_100_weather": 738,
+      "sprite": "assets/sprites/69.png",
+      "aliases": []
+    },
+    {
+      "id": "shadow_aipom",
+      "name": "Shadow Aipom",
+      "tier": "Shadow 1",
+      "raid_type": "Shadow",
+      "catch_cp_100_no_weather": 770,
+      "catch_cp_100_weather": 963,
+      "sprite": "assets/sprites/190.png",
+      "aliases": []
+    },
+    {
+      "id": "shadow_teddiursa",
+      "name": "Shadow Teddiursa",
+      "tier": "Shadow 1",
+      "raid_type": "Shadow",
+      "catch_cp_100_no_weather": 759,
+      "catch_cp_100_weather": 949,
+      "sprite": "assets/sprites/216.png",
+      "aliases": []
+    },
+    {
+      "id": "shadow_seedot",
+      "name": "Shadow Seedot",
+      "tier": "Shadow 1",
+      "raid_type": "Shadow",
+      "catch_cp_100_no_weather": 342,
+      "catch_cp_100_weather": 427,
+      "sprite": "assets/sprites/273.png",
+      "aliases": []
+    },
+    {
+      "id": "shadow_girafarig",
+      "name": "Shadow Girafarig",
+      "tier": "Shadow 3",
+      "raid_type": "Shadow",
+      "catch_cp_100_no_weather": 1169,
+      "catch_cp_100_weather": 1462,
+      "sprite": "assets/sprites/203.png",
+      "aliases": []
+    },
+    {
+      "id": "shadow_absol",
+      "name": "Shadow Absol",
+      "tier": "Shadow 3",
+      "raid_type": "Shadow",
+      "catch_cp_100_no_weather": 1443,
+      "catch_cp_100_weather": 1805,
+      "sprite": "assets/sprites/359.png",
+      "aliases": []
+    },
+    {
+      "id": "shadow_whirlipede",
+      "name": "Shadow Whirlipede",
+      "tier": "Shadow 3",
+      "raid_type": "Shadow",
+      "catch_cp_100_no_weather": 653,
+      "catch_cp_100_weather": 817,
+      "sprite": "assets/sprites/544.png",
+      "aliases": []
+    },
+    {
+      "id": "shadow_regirock",
+      "name": "Shadow Regirock",
+      "tier": "Shadow 5",
+      "raid_type": "Shadow",
+      "catch_cp_100_no_weather": 1784,
+      "catch_cp_100_weather": 2230,
+      "sprite": "assets/sprites/377.png",
+      "aliases": []
+    },
+  
+    {
+      "id": "eternatus_max",
+      "name": "Eternamax Eternatus",
+      "tier": "Max",
+      "raid_type": "Max",
+      "catch_cp_100_no_weather": 2435,
+      "catch_cp_100_weather": 2530,
+      "sprite": "assets/sprites/890.png",
+      "aliases": ["Eternamax", "Eternatus Max"]
+    },
+    {
+      "id": "lapras_gmax",
+      "name": "Gigantamax Lapras",
+      "tier": "Max",
+      "raid_type": "Gigantamax",
+      "catch_cp_100_no_weather": 0,
+      "catch_cp_100_weather": 0,
+      "sprite": "assets/sprites/131.png",
+      "aliases": ["G-max Lapras"]
+    },
+    {
+      "id": "snorlax_gmax",
+      "name": "Gigantamax Snorlax",
+      "tier": "Max",
+      "raid_type": "Gigantamax",
+      "catch_cp_100_no_weather": 0,
+      "catch_cp_100_weather": 0,
+      "sprite": "assets/sprites/143.png",
+      "aliases": ["G-max Snorlax"]
+    },
+    {
+      "id": "gengar_gmax",
+      "name": "Gigantamax Gengar",
+      "tier": "Max",
+      "raid_type": "Gigantamax",
+      "catch_cp_100_no_weather": 0,
+      "catch_cp_100_weather": 0,
+      "sprite": "assets/sprites/94.png",
+      "aliases": ["G-max Gengar"]
+    },
+    {
+      "id": "inteleon_gmax",
+      "name": "Gigantamax Inteleon",
+      "tier": "Max",
+      "raid_type": "Gigantamax",
+      "catch_cp_100_no_weather": 0,
+      "catch_cp_100_weather": 0,
+      "sprite": "assets/sprites/818.png",
+      "aliases": ["G-max Inteleon"]
+    },
+    {
+      "id": "venusaur_gmax",
+      "name": "Gigantamax Venusaur",
+      "tier": "Max",
+      "raid_type": "Gigantamax",
+      "catch_cp_100_no_weather": 0,
+      "catch_cp_100_weather": 0,
+      "sprite": "assets/sprites/3.png",
+      "aliases": ["G-max Venusaur"]
+    },
+    {
+      "id": "machamp_gmax",
+      "name": "Gigantamax Machamp",
+      "tier": "Max",
+      "raid_type": "Gigantamax",
+      "catch_cp_100_no_weather": 0,
+      "catch_cp_100_weather": 0,
+      "sprite": "assets/sprites/68.png",
+      "aliases": ["G-max Machamp"]
+    },
+    {
+      "id": "toxtricity_amped_gmax",
+      "name": "Gigantamax Toxtricity (Amped Form)",
+      "tier": "Max",
+      "raid_type": "Gigantamax",
+      "catch_cp_100_no_weather": 0,
+      "catch_cp_100_weather": 0,
+      "sprite": "assets/sprites/849.png",
+      "aliases": ["G-max Toxtricity (Amped)"]
+    },
+    {
+      "id": "rillaboom_gmax",
+      "name": "Gigantamax Rillaboom",
+      "tier": "Max",
+      "raid_type": "Gigantamax",
+      "catch_cp_100_no_weather": 0,
+      "catch_cp_100_weather": 0,
+      "sprite": "assets/sprites/812.png",
+      "aliases": ["G-max Rillaboom"]
+    },
+    {
+      "id": "charizard_gmax",
+      "name": "Gigantamax Charizard",
+      "tier": "Max",
+      "raid_type": "Gigantamax",
+      "catch_cp_100_no_weather": 0,
+      "catch_cp_100_weather": 0,
+      "sprite": "assets/sprites/6.png",
+      "aliases": ["G-max Charizard"]
+    },
+    {
+      "id": "butterfree_gmax",
+      "name": "Gigantamax Butterfree",
+      "tier": "Max",
+      "raid_type": "Gigantamax",
+      "catch_cp_100_no_weather": 0,
+      "catch_cp_100_weather": 0,
+      "sprite": "assets/sprites/12.png",
+      "aliases": ["G-max Butterfree"]
+    },
+    {
+      "id": "kingler_gmax",
+      "name": "Gigantamax Kingler",
+      "tier": "Max",
+      "raid_type": "Gigantamax",
+      "catch_cp_100_no_weather": 0,
+      "catch_cp_100_weather": 0,
+      "sprite": "assets/sprites/99.png",
+      "aliases": ["G-max Kingler"]
+    },
+    {
+      "id": "blastoise_gmax",
+      "name": "Gigantamax Blastoise",
+      "tier": "Max",
+      "raid_type": "Gigantamax",
+      "catch_cp_100_no_weather": 0,
+      "catch_cp_100_weather": 0,
+      "sprite": "assets/sprites/9.png",
+      "aliases": ["G-max Blastoise"]
+    },
+    {
+      "id": "cinderace_gmax",
+      "name": "Gigantamax Cinderace",
+      "tier": "Max",
+      "raid_type": "Gigantamax",
+      "catch_cp_100_no_weather": 0,
+      "catch_cp_100_weather": 0,
+      "sprite": "assets/sprites/815.png",
+      "aliases": ["G-max Cinderace"]
+    },
+    {
+      "id": "toxtricity_low_key_gmax",
+      "name": "Gigantamax Toxtricity (Low Key Form)",
+      "tier": "Max",
+      "raid_type": "Gigantamax",
+      "catch_cp_100_no_weather": 0,
+      "catch_cp_100_weather": 0,
+      "sprite": "assets/sprites/849.png",
+      "aliases": ["G-max Toxtricity (Low Key)"]
+    }
+  ]
+  

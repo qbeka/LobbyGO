@@ -1,0 +1,10780 @@
+[
+    {
+      "id": "bulbasaur",
+      "name": "Bulbasaur",
+      "forms": [
+        "Bulbasaur",
+        "✨ Bulbasaur",
+        "Shadow Bulbasaur",
+        "Purified Bulbasaur",
+        "Party Hat Bulbasaur",
+        "Flower Crown Bulbasaur"
+      ]
+    },
+    {
+      "id": "ivysaur",
+      "name": "Ivysaur",
+      "forms": [
+        "Ivysaur",
+        "✨ Ivysaur",
+        "Shadow Ivysaur",
+        "Purified Ivysaur",
+        "Flower Crown Ivysaur"
+      ]
+    },
+    {
+      "id": "venusaur",
+      "name": "Venusaur",
+      "forms": [
+        "Venusaur",
+        "✨ Venusaur",
+        "Shadow Venusaur",
+        "Purified Venusaur",
+        "Mega Venusaur",
+        "G-max Venusaur",
+        "Flower Crown Venusaur"
+      ]
+    },
+    {
+      "id": "charmander",
+      "name": "Charmander",
+      "forms": [
+        "Charmander",
+        "✨ Charmander",
+        "Shadow Charmander",
+        "Purified Charmander",
+        "Party Hat Charmander",
+        "Flower Crown Charmander"
+      ]
+    },
+    {
+      "id": "charmeleon",
+      "name": "Charmeleon",
+      "forms": [
+        "Charmeleon",
+        "✨ Charmeleon",
+        "Shadow Charmeleon",
+        "Purified Charmeleon"
+      ]
+    },
+    {
+      "id": "charizard",
+      "name": "Charizard",
+      "forms": [
+        "Charizard",
+        "✨ Charizard",
+        "Shadow Charizard",
+        "Purified Charizard",
+        "Mega Charizard X",
+        "Mega Charizard Y",
+        "G-max Charizard"
+      ]
+    },
+    {
+      "id": "squirtle",
+      "name": "Squirtle",
+      "forms": [
+        "Squirtle",
+        "✨ Squirtle",
+        "Shadow Squirtle",
+        "Purified Squirtle",
+        "Sunglasses Squirtle",
+        "Party Hat Squirtle",
+        "Flower Crown Squirtle"
+      ]
+    },
+    {
+      "id": "wartortle",
+      "name": "Wartortle",
+      "forms": [
+        "Wartortle",
+        "✨ Wartortle",
+        "Shadow Wartortle",
+        "Purified Wartortle",
+        "Sunglasses Wartortle"
+      ]
+    },
+    {
+      "id": "blastoise",
+      "name": "Blastoise",
+      "forms": [
+        "Blastoise",
+        "✨ Blastoise",
+        "Shadow Blastoise",
+        "Purified Blastoise",
+        "Mega Blastoise",
+        "G-max Blastoise",
+        "Sunglasses Blastoise"
+      ]
+    },
+    {
+      "id": "caterpie",
+      "name": "Caterpie",
+      "forms": [
+        "Caterpie",
+        "✨ Caterpie",
+        "Shadow Caterpie",
+        "Purified Caterpie"
+      ]
+    },
+    {
+      "id": "metapod",
+      "name": "Metapod",
+      "forms": [
+        "Metapod",
+        "✨ Metapod",
+        "Shadow Metapod",
+        "Purified Metapod"
+      ]
+    },
+    {
+      "id": "butterfree",
+      "name": "Butterfree",
+      "forms": [
+        "Butterfree",
+        "✨ Butterfree",
+        "Shadow Butterfree",
+        "Purified Butterfree",
+        "G-max Butterfree",
+        "Bow Butterfree"
+      ]
+    },
+    {
+      "id": "weedle",
+      "name": "Weedle",
+      "forms": [
+        "Weedle",
+        "✨ Weedle",
+        "Shadow Weedle",
+        "Purified Weedle"
+      ]
+    },
+    {
+      "id": "kakuna",
+      "name": "Kakuna",
+      "forms": [
+        "Kakuna",
+        "✨ Kakuna",
+        "Shadow Kakuna",
+        "Purified Kakuna"
+      ]
+    },
+    {
+      "id": "beedrill",
+      "name": "Beedrill",
+      "forms": [
+        "Beedrill",
+        "✨ Beedrill",
+        "Shadow Beedrill",
+        "Purified Beedrill",
+        "Mega Beedrill"
+      ]
+    },
+    {
+      "id": "pidgey",
+      "name": "Pidgey",
+      "forms": [
+        "Pidgey",
+        "✨ Pidgey",
+        "Shadow Pidgey",
+        "Purified Pidgey"
+      ]
+    },
+    {
+      "id": "pidgeotto",
+      "name": "Pidgeotto",
+      "forms": [
+        "Pidgeotto",
+        "✨ Pidgeotto",
+        "Shadow Pidgeotto",
+        "Purified Pidgeotto"
+      ]
+    },
+    {
+      "id": "pidgeot",
+      "name": "Pidgeot",
+      "forms": [
+        "Pidgeot",
+        "✨ Pidgeot",
+        "Shadow Pidgeot",
+        "Purified Pidgeot",
+        "Mega Pidgeot"
+      ]
+    },
+    {
+      "id": "rattata",
+      "name": "Rattata",
+      "forms": [
+        "Rattata",
+        "✨ Rattata",
+        "Shadow Rattata",
+        "Purified Rattata",
+        "Alolan Rattata",
+        "✨ Alolan Rattata"
+      ]
+    },
+    {
+      "id": "raticate",
+      "name": "Raticate",
+      "forms": [
+        "Raticate",
+        "✨ Raticate",
+        "Shadow Raticate",
+        "Purified Raticate",
+        "Alolan Raticate",
+        "✨ Alolan Raticate"
+      ]
+    },
+    {
+      "id": "spearow",
+      "name": "Spearow",
+      "forms": [
+        "Spearow",
+        "✨ Spearow",
+        "Shadow Spearow",
+        "Purified Spearow"
+      ]
+    },
+    {
+      "id": "fearow",
+      "name": "Fearow",
+      "forms": [
+        "Fearow",
+        "✨ Fearow",
+        "Shadow Fearow",
+        "Purified Fearow"
+      ]
+    },
+    {
+      "id": "ekans",
+      "name": "Ekans",
+      "forms": [
+        "Ekans",
+        "✨ Ekans",
+        "Shadow Ekans",
+        "Purified Ekans"
+      ]
+    },
+    {
+      "id": "arbok",
+      "name": "Arbok",
+      "forms": [
+        "Arbok",
+        "✨ Arbok",
+        "Shadow Arbok",
+        "Purified Arbok"
+      ]
+    },
+    {
+      "id": "pikachu",
+      "name": "Pikachu",
+      "forms": [
+        "Pikachu",
+        "✨ Pikachu",
+        "Shadow Pikachu",
+        "Purified Pikachu",
+        "G-max Pikachu",
+        "Party Hat Pikachu",
+        "Santa Hat Pikachu",
+        "Witch Hat Pikachu",
+        "Summer Style Pikachu",
+        "Libre Pikachu",
+        "Rock Star Pikachu",
+        "Pop Star Pikachu",
+        "Detective Pikachu",
+        "Flying Pikachu",
+        "Original Cap Pikachu",
+        "Hoenn Cap Pikachu",
+        "Sinnoh Cap Pikachu",
+        "Unova Cap Pikachu",
+        "Kalos Cap Pikachu",
+        "Alola Cap Pikachu",
+        "World Cap Pikachu",
+        "Birthday Hat Pikachu",
+        "New Year Hat Pikachu",
+        "TCG Hat Pikachu"
+      ]
+    },
+    {
+      "id": "raichu",
+      "name": "Raichu",
+      "forms": [
+        "Raichu",
+        "✨ Raichu",
+        "Shadow Raichu",
+        "Purified Raichu",
+        "Alolan Raichu",
+        "✨ Alolan Raichu"
+      ]
+    },
+    {
+      "id": "sandshrew",
+      "name": "Sandshrew",
+      "forms": [
+        "Sandshrew",
+        "✨ Sandshrew",
+        "Shadow Sandshrew",
+        "Purified Sandshrew",
+        "Alolan Sandshrew",
+        "✨ Alolan Sandshrew"
+      ]
+    },
+    {
+      "id": "sandslash",
+      "name": "Sandslash",
+      "forms": [
+        "Sandslash",
+        "✨ Sandslash",
+        "Shadow Sandslash",
+        "Purified Sandslash",
+        "Alolan Sandslash",
+        "✨ Alolan Sandslash"
+      ]
+    },
+    {
+      "id": "nidoran_f",
+      "name": "Nidoran♀",
+      "forms": [
+        "Nidoran♀",
+        "✨ Nidoran♀",
+        "Shadow Nidoran♀",
+        "Purified Nidoran♀"
+      ]
+    },
+    {
+      "id": "nidorina",
+      "name": "Nidorina",
+      "forms": [
+        "Nidorina",
+        "✨ Nidorina",
+        "Shadow Nidorina",
+        "Purified Nidorina"
+      ]
+    },
+    {
+      "id": "nidoqueen",
+      "name": "Nidoqueen",
+      "forms": [
+        "Nidoqueen",
+        "✨ Nidoqueen",
+        "Shadow Nidoqueen",
+        "Purified Nidoqueen"
+      ]
+    },
+    {
+      "id": "nidoran_m",
+      "name": "Nidoran♂",
+      "forms": [
+        "Nidoran♂",
+        "✨ Nidoran♂",
+        "Shadow Nidoran♂",
+        "Purified Nidoran♂"
+      ]
+    },
+    {
+      "id": "nidorino",
+      "name": "Nidorino",
+      "forms": [
+        "Nidorino",
+        "✨ Nidorino",
+        "Shadow Nidorino",
+        "Purified Nidorino",
+        "Party Hat Nidorino"
+      ]
+    },
+    {
+      "id": "nidoking",
+      "name": "Nidoking",
+      "forms": [
+        "Nidoking",
+        "✨ Nidoking",
+        "Shadow Nidoking",
+        "Purified Nidoking"
+      ]
+    },
+    {
+      "id": "clefairy",
+      "name": "Clefairy",
+      "forms": [
+        "Clefairy",
+        "✨ Clefairy",
+        "Shadow Clefairy",
+        "Purified Clefairy"
+      ]
+    },
+    {
+      "id": "clefable",
+      "name": "Clefable",
+      "forms": [
+        "Clefable",
+        "✨ Clefable",
+        "Shadow Clefable",
+        "Purified Clefable"
+      ]
+    },
+    {
+      "id": "vulpix",
+      "name": "Vulpix",
+      "forms": [
+        "Vulpix",
+        "✨ Vulpix",
+        "Shadow Vulpix",
+        "Purified Vulpix",
+        "Alolan Vulpix",
+        "✨ Alolan Vulpix"
+      ]
+    },
+    {
+      "id": "ninetales",
+      "name": "Ninetales",
+      "forms": [
+        "Ninetales",
+        "✨ Ninetales",
+        "Shadow Ninetales",
+        "Purified Ninetales",
+        "Alolan Ninetales",
+        "✨ Alolan Ninetales"
+      ]
+    },
+    {
+      "id": "jigglypuff",
+      "name": "Jigglypuff",
+      "forms": [
+        "Jigglypuff",
+        "✨ Jigglypuff",
+        "Shadow Jigglypuff",
+        "Purified Jigglypuff"
+      ]
+    },
+    {
+      "id": "wigglytuff",
+      "name": "Wigglytuff",
+      "forms": [
+        "Wigglytuff",
+        "✨ Wigglytuff",
+        "Shadow Wigglytuff",
+        "Purified Wigglytuff"
+      ]
+    },
+    {
+      "id": "zubat",
+      "name": "Zubat",
+      "forms": [
+        "Zubat",
+        "✨ Zubat",
+        "Shadow Zubat",
+        "Purified Zubat"
+      ]
+    },
+    {
+      "id": "golbat",
+      "name": "Golbat",
+      "forms": [
+        "Golbat",
+        "✨ Golbat",
+        "Shadow Golbat",
+        "Purified Golbat"
+      ]
+    },
+    {
+      "id": "oddish",
+      "name": "Oddish",
+      "forms": [
+        "Oddish",
+        "✨ Oddish",
+        "Shadow Oddish",
+        "Purified Oddish"
+      ]
+    },
+    {
+      "id": "gloom",
+      "name": "Gloom",
+      "forms": [
+        "Gloom",
+        "✨ Gloom",
+        "Shadow Gloom",
+        "Purified Gloom"
+      ]
+    },
+    {
+      "id": "vileplume",
+      "name": "Vileplume",
+      "forms": [
+        "Vileplume",
+        "✨ Vileplume",
+        "Shadow Vileplume",
+        "Purified Vileplume"
+      ]
+    },
+    {
+      "id": "paras",
+      "name": "Paras",
+      "forms": [
+        "Paras",
+        "✨ Paras",
+        "Shadow Paras",
+        "Purified Paras"
+      ]
+    },
+    {
+      "id": "parasect",
+      "name": "Parasect",
+      "forms": [
+        "Parasect",
+        "✨ Parasect",
+        "Shadow Parasect",
+        "Purified Parasect"
+      ]
+    },
+    {
+      "id": "venonat",
+      "name": "Venonat",
+      "forms": [
+        "Venonat",
+        "✨ Venonat",
+        "Shadow Venonat",
+        "Purified Venonat"
+      ]
+    },
+    {
+      "id": "venomoth",
+      "name": "Venomoth",
+      "forms": [
+        "Venomoth",
+        "✨ Venomoth",
+        "Shadow Venomoth",
+        "Purified Venomoth"
+      ]
+    },
+    {
+      "id": "diglett",
+      "name": "Diglett",
+      "forms": [
+        "Diglett",
+        "✨ Diglett",
+        "Shadow Diglett",
+        "Purified Diglett",
+        "Alolan Diglett",
+        "✨ Alolan Diglett"
+      ]
+    },
+    {
+      "id": "dugtrio",
+      "name": "Dugtrio",
+      "forms": [
+        "Dugtrio",
+        "✨ Dugtrio",
+        "Shadow Dugtrio",
+        "Purified Dugtrio",
+        "Alolan Dugtrio",
+        "✨ Alolan Dugtrio"
+      ]
+    },
+    {
+      "id": "meowth",
+      "name": "Meowth",
+      "forms": [
+        "Meowth",
+        "✨ Meowth",
+        "Shadow Meowth",
+        "Purified Meowth",
+        "Alolan Meowth",
+        "✨ Alolan Meowth",
+        "Galarian Meowth",
+        "✨ Galarian Meowth",
+        "G-max Meowth"
+      ]
+    },
+    {
+      "id": "persian",
+      "name": "Persian",
+      "forms": [
+        "Persian",
+        "✨ Persian",
+        "Shadow Persian",
+        "Purified Persian",
+        "Alolan Persian",
+        "✨ Alolan Persian"
+      ]
+    },
+    {
+      "id": "psyduck",
+      "name": "Psyduck",
+      "forms": [
+        "Psyduck",
+        "✨ Psyduck",
+        "Shadow Psyduck",
+        "Purified Psyduck"
+      ]
+    },
+    {
+      "id": "golduck",
+      "name": "Golduck",
+      "forms": [
+        "Golduck",
+        "✨ Golduck",
+        "Shadow Golduck",
+        "Purified Golduck"
+      ]
+    },
+    {
+      "id": "mankey",
+      "name": "Mankey",
+      "forms": [
+        "Mankey",
+        "✨ Mankey",
+        "Shadow Mankey",
+        "Purified Mankey"
+      ]
+    },
+    {
+      "id": "primeape",
+      "name": "Primeape",
+      "forms": [
+        "Primeape",
+        "✨ Primeape",
+        "Shadow Primeape",
+        "Purified Primeape"
+      ]
+    },
+    {
+      "id": "growlithe",
+      "name": "Growlithe",
+      "forms": [
+        "Growlithe",
+        "✨ Growlithe",
+        "Shadow Growlithe",
+        "Purified Growlithe",
+        "Hisuian Growlithe",
+        "✨ Hisuian Growlithe"
+      ]
+    },
+    {
+      "id": "arcanine",
+      "name": "Arcanine",
+      "forms": [
+        "Arcanine",
+        "✨ Arcanine",
+        "Shadow Arcanine",
+        "Purified Arcanine",
+        "Hisuian Arcanine",
+        "✨ Hisuian Arcanine"
+      ]
+    },
+    {
+      "id": "poliwag",
+      "name": "Poliwag",
+      "forms": [
+        "Poliwag",
+        "✨ Poliwag",
+        "Shadow Poliwag",
+        "Purified Poliwag"
+      ]
+    },
+    {
+      "id": "poliwhirl",
+      "name": "Poliwhirl",
+      "forms": [
+        "Poliwhirl",
+        "✨ Poliwhirl",
+        "Shadow Poliwhirl",
+        "Purified Poliwhirl"
+      ]
+    },
+    {
+      "id": "poliwrath",
+      "name": "Poliwrath",
+      "forms": [
+        "Poliwrath",
+        "✨ Poliwrath",
+        "Shadow Poliwrath",
+        "Purified Poliwrath"
+      ]
+    },
+    {
+      "id": "abra",
+      "name": "Abra",
+      "forms": [
+        "Abra",
+        "✨ Abra",
+        "Shadow Abra",
+        "Purified Abra"
+      ]
+    },
+    {
+      "id": "kadabra",
+      "name": "Kadabra",
+      "forms": [
+        "Kadabra",
+        "✨ Kadabra",
+        "Shadow Kadabra",
+        "Purified Kadabra"
+      ]
+    },
+    {
+      "id": "alakazam",
+      "name": "Alakazam",
+      "forms": [
+        "Alakazam",
+        "✨ Alakazam",
+        "Shadow Alakazam",
+        "Purified Alakazam",
+        "Mega Alakazam"
+      ]
+    },
+    {
+      "id": "machop",
+      "name": "Machop",
+      "forms": [
+        "Machop",
+        "✨ Machop",
+        "Shadow Machop",
+        "Purified Machop"
+      ]
+    },
+    {
+      "id": "machoke",
+      "name": "Machoke",
+      "forms": [
+        "Machoke",
+        "✨ Machoke",
+        "Shadow Machoke",
+        "Purified Machoke"
+      ]
+    },
+    {
+      "id": "machamp",
+      "name": "Machamp",
+      "forms": [
+        "Machamp",
+        "✨ Machamp",
+        "Shadow Machamp",
+        "Purified Machamp"
+      ]
+    },
+    {
+      "id": "bellsprout",
+      "name": "Bellsprout",
+      "forms": [
+        "Bellsprout",
+        "✨ Bellsprout",
+        "Shadow Bellsprout",
+        "Purified Bellsprout"
+      ]
+    },
+    {
+      "id": "weepinbell",
+      "name": "Weepinbell",
+      "forms": [
+        "Weepinbell",
+        "✨ Weepinbell",
+        "Shadow Weepinbell",
+        "Purified Weepinbell"
+      ]
+    },
+    {
+      "id": "victreebel",
+      "name": "Victreebel",
+      "forms": [
+        "Victreebel",
+        "✨ Victreebel",
+        "Shadow Victreebel",
+        "Purified Victreebel"
+      ]
+    },
+    {
+      "id": "tentacool",
+      "name": "Tentacool",
+      "forms": [
+        "Tentacool",
+        "✨ Tentacool",
+        "Shadow Tentacool",
+        "Purified Tentacool"
+      ]
+    },
+    {
+      "id": "tentacruel",
+      "name": "Tentacruel",
+      "forms": [
+        "Tentacruel",
+        "✨ Tentacruel",
+        "Shadow Tentacruel",
+        "Purified Tentacruel"
+      ]
+    },
+    {
+      "id": "geodude",
+      "name": "Geodude",
+      "forms": [
+        "Geodude",
+        "✨ Geodude",
+        "Shadow Geodude",
+        "Purified Geodude",
+        "Alolan Geodude",
+        "✨ Alolan Geodude"
+      ]
+    },
+    {
+      "id": "graveler",
+      "name": "Graveler",
+      "forms": [
+        "Graveler",
+        "✨ Graveler",
+        "Shadow Graveler",
+        "Purified Graveler",
+        "Alolan Graveler",
+        "✨ Alolan Graveler"
+      ]
+    },
+    {
+      "id": "golem",
+      "name": "Golem",
+      "forms": [
+        "Golem",
+        "✨ Golem",
+        "Shadow Golem",
+        "Purified Golem",
+        "Alolan Golem",
+        "✨ Alolan Golem"
+      ]
+    },
+    {
+      "id": "ponyta",
+      "name": "Ponyta",
+      "forms": [
+        "Ponyta",
+        "✨ Ponyta",
+        "Shadow Ponyta",
+        "Purified Ponyta",
+        "Galarian Ponyta",
+        "✨ Galarian Ponyta"
+      ]
+    },
+    {
+      "id": "rapidash",
+      "name": "Rapidash",
+      "forms": [
+        "Rapidash",
+        "✨ Rapidash",
+        "Shadow Rapidash",
+        "Purified Rapidash",
+        "Galarian Rapidash",
+        "✨ Galarian Rapidash"
+      ]
+    },
+    {
+      "id": "slowpoke",
+      "name": "Slowpoke",
+      "forms": [
+        "Slowpoke",
+        "✨ Slowpoke",
+        "Shadow Slowpoke",
+        "Purified Slowpoke",
+        "Galarian Slowpoke",
+        "✨ Galarian Slowpoke"
+      ]
+    },
+    {
+      "id": "slowbro",
+      "name": "Slowbro",
+      "forms": [
+        "Slowbro",
+        "✨ Slowbro",
+        "Shadow Slowbro",
+        "Purified Slowbro",
+        "Galarian Slowbro",
+        "✨ Galarian Slowbro",
+        "Mega Slowbro"
+      ]
+    },
+    {
+      "id": "magnemite",
+      "name": "Magnemite",
+      "forms": [
+        "Magnemite",
+        "✨ Magnemite",
+        "Shadow Magnemite",
+        "Purified Magnemite"
+      ]
+    },
+    {
+      "id": "magneton",
+      "name": "Magneton",
+      "forms": [
+        "Magneton",
+        "✨ Magneton",
+        "Shadow Magneton",
+        "Purified Magneton"
+      ]
+    },
+    {
+      "id": "farfetchd",
+      "name": "Farfetch’d",
+      "forms": [
+        "Farfetch’d",
+        "✨ Farfetch’d",
+        "Shadow Farfetch’d",
+        "Purified Farfetch’d",
+        "Galarian Farfetch’d",
+        "✨ Galarian Farfetch’d"
+      ]
+    },
+    {
+      "id": "doduo",
+      "name": "Doduo",
+      "forms": [
+        "Doduo",
+        "✨ Doduo",
+        "Shadow Doduo",
+        "Purified Doduo"
+      ]
+    },
+    {
+      "id": "dodrio",
+      "name": "Dodrio",
+      "forms": [
+        "Dodrio",
+        "✨ Dodrio",
+        "Shadow Dodrio",
+        "Purified Dodrio"
+      ]
+    },
+    {
+      "id": "seel",
+      "name": "Seel",
+      "forms": [
+        "Seel",
+        "✨ Seel",
+        "Shadow Seel",
+        "Purified Seel"
+      ]
+    },
+    {
+      "id": "dewgong",
+      "name": "Dewgong",
+      "forms": [
+        "Dewgong",
+        "✨ Dewgong",
+        "Shadow Dewgong",
+        "Purified Dewgong"
+      ]
+    },
+    {
+      "id": "grimer",
+      "name": "Grimer",
+      "forms": [
+        "Grimer",
+        "✨ Grimer",
+        "Shadow Grimer",
+        "Purified Grimer",
+        "Alolan Grimer",
+        "✨ Alolan Grimer"
+      ]
+    },
+    {
+      "id": "muk",
+      "name": "Muk",
+      "forms": [
+        "Muk",
+        "✨ Muk",
+        "Shadow Muk",
+        "Purified Muk",
+        "Alolan Muk",
+        "✨ Alolan Muk"
+      ]
+    },
+    {
+      "id": "shellder",
+      "name": "Shellder",
+      "forms": [
+        "Shellder",
+        "✨ Shellder",
+        "Shadow Shellder",
+        "Purified Shellder"
+      ]
+    },
+    {
+      "id": "cloyster",
+      "name": "Cloyster",
+      "forms": [
+        "Cloyster",
+        "✨ Cloyster",
+        "Shadow Cloyster",
+        "Purified Cloyster"
+      ]
+    },
+    {
+      "id": "gastly",
+      "name": "Gastly",
+      "forms": [
+        "Gastly",
+        "✨ Gastly",
+        "Shadow Gastly",
+        "Purified Gastly"
+      ]
+    },
+    {
+      "id": "haunter",
+      "name": "Haunter",
+      "forms": [
+        "Haunter",
+        "✨ Haunter",
+        "Shadow Haunter",
+        "Purified Haunter"
+      ]
+    },
+    {
+      "id": "gengar",
+      "name": "Gengar",
+      "forms": [
+        "Gengar",
+        "✨ Gengar",
+        "Shadow Gengar",
+        "Purified Gengar",
+        "Mega Gengar",
+        "G-max Gengar",
+        "Party Hat Gengar"
+      ]
+    },
+    {
+      "id": "onix",
+      "name": "Onix",
+      "forms": [
+        "Onix",
+        "✨ Onix",
+        "Shadow Onix",
+        "Purified Onix"
+      ]
+    },
+    {
+      "id": "drowzee",
+      "name": "Drowzee",
+      "forms": [
+        "Drowzee",
+        "✨ Drowzee",
+        "Shadow Drowzee",
+        "Purified Drowzee"
+      ]
+    },
+    {
+      "id": "hypno",
+      "name": "Hypno",
+      "forms": [
+        "Hypno",
+        "✨ Hypno",
+        "Shadow Hypno",
+        "Purified Hypno"
+      ]
+    },
+    {
+      "id": "krabby",
+      "name": "Krabby",
+      "forms": [
+        "Krabby",
+        "✨ Krabby",
+        "Shadow Krabby",
+        "Purified Krabby"
+      ]
+    },
+    {
+      "id": "kingler",
+      "name": "Kingler",
+      "forms": [
+        "Kingler",
+        "✨ Kingler",
+        "Shadow Kingler",
+        "Purified Kingler"
+      ]
+    },
+    {
+      "id": "voltorb",
+      "name": "Voltorb",
+      "forms": [
+        "Voltorb",
+        "✨ Voltorb",
+        "Shadow Voltorb",
+        "Purified Voltorb",
+        "Hisuian Voltorb",
+        "✨ Hisuian Voltorb"
+      ]
+    },
+    {
+      "id": "electrode",
+      "name": "Electrode",
+      "forms": [
+        "Electrode",
+        "✨ Electrode",
+        "Shadow Electrode",
+        "Purified Electrode",
+        "Hisuian Electrode",
+        "✨ Hisuian Electrode"
+      ]
+    },
+    {
+      "id": "exeggcute",
+      "name": "Exeggcute",
+      "forms": [
+        "Exeggcute",
+        "✨ Exeggcute",
+        "Shadow Exeggcute",
+        "Purified Exeggcute"
+      ]
+    },
+    {
+      "id": "exeggutor",
+      "name": "Exeggutor",
+      "forms": [
+        "Exeggutor",
+        "✨ Exeggutor",
+        "Shadow Exeggutor",
+        "Purified Exeggutor",
+        "Alolan Exeggutor",
+        "✨ Alolan Exeggutor"
+      ]
+    },
+    {
+      "id": "cubone",
+      "name": "Cubone",
+      "forms": [
+        "Cubone",
+        "✨ Cubone",
+        "Shadow Cubone",
+        "Purified Cubone"
+      ]
+    },
+    {
+      "id": "marowak",
+      "name": "Marowak",
+      "forms": [
+        "Marowak",
+        "✨ Marowak",
+        "Shadow Marowak",
+        "Purified Marowak",
+        "Alolan Marowak",
+        "✨ Alolan Marowak"
+      ]
+    },
+    {
+      "id": "hitmonlee",
+      "name": "Hitmonlee",
+      "forms": [
+        "Hitmonlee",
+        "✨ Hitmonlee",
+        "Shadow Hitmonlee",
+        "Purified Hitmonlee"
+      ]
+    },
+    {
+      "id": "hitmonchan",
+      "name": "Hitmonchan",
+      "forms": [
+        "Hitmonchan",
+        "✨ Hitmonchan",
+        "Shadow Hitmonchan",
+        "Purified Hitmonchan"
+      ]
+    },
+    {
+      "id": "lickitung",
+      "name": "Lickitung",
+      "forms": [
+        "Lickitung",
+        "✨ Lickitung",
+        "Shadow Lickitung",
+        "Purified Lickitung"
+      ]
+    },
+    {
+      "id": "koffing",
+      "name": "Koffing",
+      "forms": [
+        "Koffing",
+        "✨ Koffing",
+        "Shadow Koffing",
+        "Purified Koffing"
+      ]
+    },
+    {
+      "id": "weezing",
+      "name": "Weezing",
+      "forms": [
+        "Weezing",
+        "✨ Weezing",
+        "Shadow Weezing",
+        "Purified Weezing",
+        "Galarian Weezing",
+        "✨ Galarian Weezing"
+      ]
+    },
+    {
+      "id": "rhyhorn",
+      "name": "Rhyhorn",
+      "forms": [
+        "Rhyhorn",
+        "✨ Rhyhorn",
+        "Shadow Rhyhorn",
+        "Purified Rhyhorn"
+      ]
+    },
+    {
+      "id": "rhydon",
+      "name": "Rhydon",
+      "forms": [
+        "Rhydon",
+        "✨ Rhydon",
+        "Shadow Rhydon",
+        "Purified Rhydon"
+      ]
+    },
+    {
+      "id": "chansey",
+      "name": "Chansey",
+      "forms": [
+        "Chansey",
+        "✨ Chansey",
+        "Shadow Chansey",
+        "Purified Chansey"
+      ]
+    },
+    {
+      "id": "tangela",
+      "name": "Tangela",
+      "forms": [
+        "Tangela",
+        "✨ Tangela",
+        "Shadow Tangela",
+        "Purified Tangela"
+      ]
+    },
+    {
+      "id": "kangaskhan",
+      "name": "Kangaskhan",
+      "forms": [
+        "Kangaskhan",
+        "✨ Kangaskhan",
+        "Shadow Kangaskhan",
+        "Purified Kangaskhan",
+        "Mega Kangaskhan"
+      ]
+    },
+    {
+      "id": "horsea",
+      "name": "Horsea",
+      "forms": [
+        "Horsea",
+        "✨ Horsea",
+        "Shadow Horsea",
+        "Purified Horsea"
+      ]
+    },
+    {
+      "id": "seadra",
+      "name": "Seadra",
+      "forms": [
+        "Seadra",
+        "✨ Seadra",
+        "Shadow Seadra",
+        "Purified Seadra"
+      ]
+    },
+    {
+      "id": "goldeen",
+      "name": "Goldeen",
+      "forms": [
+        "Goldeen",
+        "✨ Goldeen",
+        "Shadow Goldeen",
+        "Purified Goldeen"
+      ]
+    },
+    {
+      "id": "seaking",
+      "name": "Seaking",
+      "forms": [
+        "Seaking",
+        "✨ Seaking",
+        "Shadow Seaking",
+        "Purified Seaking"
+      ]
+    },
+    {
+      "id": "staryu",
+      "name": "Staryu",
+      "forms": [
+        "Staryu",
+        "✨ Staryu",
+        "Shadow Staryu",
+        "Purified Staryu"
+      ]
+    },
+    {
+      "id": "starmie",
+      "name": "Starmie",
+      "forms": [
+        "Starmie",
+        "✨ Starmie",
+        "Shadow Starmie",
+        "Purified Starmie"
+      ]
+    },
+    {
+      "id": "mr_mime",
+      "name": "Mr. Mime",
+      "forms": [
+        "Mr. Mime",
+        "✨ Mr. Mime",
+        "Shadow Mr. Mime",
+        "Purified Mr. Mime",
+        "Galarian Mr. Mime",
+        "✨ Galarian Mr. Mime"
+      ]
+    },
+    {
+      "id": "scyther",
+      "name": "Scyther",
+      "forms": [
+        "Scyther",
+        "✨ Scyther",
+        "Shadow Scyther",
+        "Purified Scyther"
+      ]
+    },
+    {
+      "id": "jynx",
+      "name": "Jynx",
+      "forms": [
+        "Jynx",
+        "✨ Jynx",
+        "Shadow Jynx",
+        "Purified Jynx"
+      ]
+    },
+    {
+      "id": "electabuzz",
+      "name": "Electabuzz",
+      "forms": [
+        "Electabuzz",
+        "✨ Electabuzz",
+        "Shadow Electabuzz",
+        "Purified Electabuzz"
+      ]
+    },
+    {
+      "id": "magmar",
+      "name": "Magmar",
+      "forms": [
+        "Magmar",
+        "✨ Magmar",
+        "Shadow Magmar",
+        "Purified Magmar"
+      ]
+    },
+    {
+      "id": "pinsir",
+      "name": "Pinsir",
+      "forms": [
+        "Pinsir",
+        "✨ Pinsir",
+        "Shadow Pinsir",
+        "Purified Pinsir",
+        "Mega Pinsir"
+      ]
+    },
+    {
+      "id": "tauros",
+      "name": "Tauros",
+      "forms": [
+        "Tauros",
+        "✨ Tauros",
+        "Shadow Tauros",
+        "Purified Tauros"
+      ]
+    },
+    {
+      "id": "magikarp",
+      "name": "Magikarp",
+      "forms": [
+        "Magikarp",
+        "✨ Magikarp",
+        "Shadow Magikarp",
+        "Purified Magikarp"
+      ]
+    },
+    {
+      "id": "gyarados",
+      "name": "Gyarados",
+      "forms": [
+        "Gyarados",
+        "✨ Gyarados",
+        "Shadow Gyarados",
+        "Purified Gyarados",
+        "Mega Gyarados"
+      ]
+    },
+    {
+      "id": "lapras",
+      "name": "Lapras",
+      "forms": [
+        "Lapras",
+        "✨ Lapras",
+        "Shadow Lapras",
+        "Purified Lapras",
+        "G-max Lapras",
+        "Bow Lapras"
+      ]
+    },
+    {
+      "id": "ditto",
+      "name": "Ditto",
+      "forms": [
+        "Ditto",
+        "✨ Ditto",
+        "Shadow Ditto",
+        "Purified Ditto"
+      ]
+    },
+    {
+      "id": "eevee",
+      "name": "Eevee",
+      "forms": [
+        "Eevee",
+        "✨ Eevee",
+        "Shadow Eevee",
+        "Purified Eevee",
+        "G-max Eevee",
+        "Flower Crown Eevee",
+        "TCG Hat Eevee",
+        "Birthday Hat Eevee"
+      ]
+    },
+    {
+      "id": "vaporeon",
+      "name": "Vaporeon",
+      "forms": [
+        "Vaporeon",
+        "✨ Vaporeon",
+        "Shadow Vaporeon",
+        "Purified Vaporeon",
+        "Flower Crown Vaporeon"
+      ]
+    },
+    {
+      "id": "jolteon",
+      "name": "Jolteon",
+      "forms": [
+        "Jolteon",
+        "✨ Jolteon",
+        "Shadow Jolteon",
+        "Purified Jolteon",
+        "Flower Crown Jolteon"
+      ]
+    },
+    {
+      "id": "flareon",
+      "name": "Flareon",
+      "forms": [
+        "Flareon",
+        "✨ Flareon",
+        "Shadow Flareon",
+        "Purified Flareon",
+        "Flower Crown Flareon"
+      ]
+    },
+    {
+      "id": "porygon",
+      "name": "Porygon",
+      "forms": [
+        "Porygon",
+        "✨ Porygon",
+        "Shadow Porygon",
+        "Purified Porygon"
+      ]
+    },
+    {
+      "id": "omanyte",
+      "name": "Omanyte",
+      "forms": [
+        "Omanyte",
+        "✨ Omanyte",
+        "Shadow Omanyte",
+        "Purified Omanyte"
+      ]
+    },
+    {
+      "id": "omastar",
+      "name": "Omastar",
+      "forms": [
+        "Omastar",
+        "✨ Omastar",
+        "Shadow Omastar",
+        "Purified Omastar"
+      ]
+    },
+    {
+      "id": "kabuto",
+      "name": "Kabuto",
+      "forms": [
+        "Kabuto",
+        "✨ Kabuto",
+        "Shadow Kabuto",
+        "Purified Kabuto"
+      ]
+    },
+    {
+      "id": "kabutops",
+      "name": "Kabutops",
+      "forms": [
+        "Kabutops",
+        "✨ Kabutops",
+        "Shadow Kabutops",
+        "Purified Kabutops"
+      ]
+    },
+    {
+      "id": "aerodactyl",
+      "name": "Aerodactyl",
+      "forms": [
+        "Aerodactyl",
+        "✨ Aerodactyl",
+        "Shadow Aerodactyl",
+        "Purified Aerodactyl",
+        "Mega Aerodactyl"
+      ]
+    },
+    {
+      "id": "snorlax",
+      "name": "Snorlax",
+      "forms": [
+        "Snorlax",
+        "✨ Snorlax",
+        "Shadow Snorlax",
+        "Purified Snorlax",
+        "G-max Snorlax",
+        "Cowboy Hat Snorlax"
+      ]
+    },
+    {
+      "id": "articuno",
+      "name": "Articuno",
+      "forms": [
+        "Articuno",
+        "✨ Articuno",
+        "Shadow Articuno",
+        "Purified Articuno",
+        "Galarian Articuno",
+        "✨ Galarian Articuno"
+      ]
+    },
+    {
+      "id": "zapdos",
+      "name": "Zapdos",
+      "forms": [
+        "Zapdos",
+        "✨ Zapdos",
+        "Shadow Zapdos",
+        "Purified Zapdos",
+        "Galarian Zapdos",
+        "✨ Galarian Zapdos"
+      ]
+    },
+    {
+      "id": "moltres",
+      "name": "Moltres",
+      "forms": [
+        "Moltres",
+        "✨ Moltres",
+        "Shadow Moltres",
+        "Purified Moltres",
+        "Galarian Moltres",
+        "✨ Galarian Moltres"
+      ]
+    },
+    {
+      "id": "dratini",
+      "name": "Dratini",
+      "forms": [
+        "Dratini",
+        "✨ Dratini",
+        "Shadow Dratini",
+        "Purified Dratini"
+      ]
+    },
+    {
+      "id": "dragonair",
+      "name": "Dragonair",
+      "forms": [
+        "Dragonair",
+        "✨ Dragonair",
+        "Shadow Dragonair",
+        "Purified Dragonair"
+      ]
+    },
+    {
+      "id": "dragonite",
+      "name": "Dragonite",
+      "forms": [
+        "Dragonite",
+        "✨ Dragonite",
+        "Shadow Dragonite",
+        "Purified Dragonite"
+      ]
+    },
+    {
+      "id": "mewtwo",
+      "name": "Mewtwo",
+      "forms": [
+        "Mewtwo",
+        "✨ Mewtwo",
+        "Shadow Mewtwo",
+        "Purified Mewtwo",
+        "Mega Mewtwo X",
+        "Mega Mewtwo Y",
+        "Armored Mewtwo"
+      ]
+    },
+    {
+      "id": "mew",
+      "name": "Mew",
+      "forms": [
+        "Mew",
+        "✨ Mew",
+        "Shadow Mew",
+        "Purified Mew"
+      ]
+    },
+  {
+    "id": "chikorita",
+    "name": "Chikorita",
+    "forms": [
+      "Chikorita",
+      "✨ Chikorita",
+      "Shadow Chikorita",
+      "Purified Chikorita"
+    ]
+  },
+  {
+    "id": "bayleef",
+    "name": "Bayleef",
+    "forms": [
+      "Bayleef",
+      "✨ Bayleef",
+      "Shadow Bayleef",
+      "Purified Bayleef"
+    ]
+  },
+  {
+    "id": "meganium",
+    "name": "Meganium",
+    "forms": [
+      "Meganium",
+      "✨ Meganium",
+      "Shadow Meganium",
+      "Purified Meganium"
+    ]
+  },
+  {
+    "id": "cyndaquil",
+    "name": "Cyndaquil",
+    "forms": [
+      "Cyndaquil",
+      "✨ Cyndaquil",
+      "Shadow Cyndaquil",
+      "Purified Cyndaquil"
+    ]
+  },
+  {
+    "id": "quilava",
+    "name": "Quilava",
+    "forms": [
+      "Quilava",
+      "✨ Quilava",
+      "Shadow Quilava",
+      "Purified Quilava"
+    ]
+  },
+  {
+    "id": "typhlosion",
+    "name": "Typhlosion",
+    "forms": [
+      "Typhlosion",
+      "✨ Typhlosion",
+      "Shadow Typhlosion",
+      "Purified Typhlosion",
+      "Hisuian Typhlosion",
+      "✨ Hisuian Typhlosion"
+    ]
+  },
+  {
+    "id": "totodile",
+    "name": "Totodile",
+    "forms": [
+      "Totodile",
+      "✨ Totodile",
+      "Shadow Totodile",
+      "Purified Totodile"
+    ]
+  },
+  {
+    "id": "croconaw",
+    "name": "Croconaw",
+    "forms": [
+      "Croconaw",
+      "✨ Croconaw",
+      "Shadow Croconaw",
+      "Purified Croconaw"
+    ]
+  },
+  {
+    "id": "feraligatr",
+    "name": "Feraligatr",
+    "forms": [
+      "Feraligatr",
+      "✨ Feraligatr",
+      "Shadow Feraligatr",
+      "Purified Feraligatr"
+    ]
+  },
+  {
+    "id": "sentret",
+    "name": "Sentret",
+    "forms": [
+      "Sentret",
+      "✨ Sentret",
+      "Shadow Sentret",
+      "Purified Sentret"
+    ]
+  },
+  {
+    "id": "furret",
+    "name": "Furret",
+    "forms": [
+      "Furret",
+      "✨ Furret",
+      "Shadow Furret",
+      "Purified Furret"
+    ]
+  },
+  {
+    "id": "hoothoot",
+    "name": "Hoothoot",
+    "forms": [
+      "Hoothoot",
+      "✨ Hoothoot",
+      "Shadow Hoothoot",
+      "Purified Hoothoot"
+    ]
+  },
+  {
+    "id": "noctowl",
+    "name": "Noctowl",
+    "forms": [
+      "Noctowl",
+      "✨ Noctowl",
+      "Shadow Noctowl",
+      "Purified Noctowl"
+    ]
+  },
+  {
+    "id": "ledyba",
+    "name": "Ledyba",
+    "forms": [
+      "Ledyba",
+      "✨ Ledyba",
+      "Shadow Ledyba",
+      "Purified Ledyba"
+    ]
+  },
+  {
+    "id": "ledian",
+    "name": "Ledian",
+    "forms": [
+      "Ledian",
+      "✨ Ledian",
+      "Shadow Ledian",
+      "Purified Ledian"
+    ]
+  },
+  {
+    "id": "spinarak",
+    "name": "Spinarak",
+    "forms": [
+      "Spinarak",
+      "✨ Spinarak",
+      "Shadow Spinarak",
+      "Purified Spinarak"
+    ]
+  },
+  {
+    "id": "ariados",
+    "name": "Ariados",
+    "forms": [
+      "Ariados",
+      "✨ Ariados",
+      "Shadow Ariados",
+      "Purified Ariados"
+    ]
+  },
+  {
+    "id": "crobat",
+    "name": "Crobat",
+    "forms": [
+      "Crobat",
+      "✨ Crobat",
+      "Shadow Crobat",
+      "Purified Crobat"
+    ]
+  },
+  {
+    "id": "chinchou",
+    "name": "Chinchou",
+    "forms": [
+      "Chinchou",
+      "✨ Chinchou",
+      "Shadow Chinchou",
+      "Purified Chinchou"
+    ]
+  },
+  {
+    "id": "lanturn",
+    "name": "Lanturn",
+    "forms": [
+      "Lanturn",
+      "✨ Lanturn",
+      "Shadow Lanturn",
+      "Purified Lanturn"
+    ]
+  },
+  {
+    "id": "pichu",
+    "name": "Pichu",
+    "forms": [
+      "Pichu",
+      "✨ Pichu",
+      "Shadow Pichu",
+      "Purified Pichu",
+      "Party Hat Pichu",
+      "Santa Hat Pichu",
+      "Witch Hat Pichu",
+      "New Year Hat Pichu",
+      "Flower Crown Pichu",
+      "World Cap Pichu",
+      "Birthday Hat Pichu"
+    ]
+  },
+  {
+    "id": "cleffa",
+    "name": "Cleffa",
+    "forms": [
+      "Cleffa",
+      "✨ Cleffa",
+      "Shadow Cleffa",
+      "Purified Cleffa"
+    ]
+  },
+  {
+    "id": "igglybuff",
+    "name": "Igglybuff",
+    "forms": [
+      "Igglybuff",
+      "✨ Igglybuff",
+      "Shadow Igglybuff",
+      "Purified Igglybuff"
+    ]
+  },
+  {
+    "id": "togepi",
+    "name": "Togepi",
+    "forms": [
+      "Togepi",
+      "✨ Togepi",
+      "Shadow Togepi",
+      "Purified Togepi",
+      "Flower Crown Togepi"
+    ]
+  },
+  {
+    "id": "togetic",
+    "name": "Togetic",
+    "forms": [
+      "Togetic",
+      "✨ Togetic",
+      "Shadow Togetic",
+      "Purified Togetic",
+      "Flower Crown Togetic"
+    ]
+  },
+  {
+    "id": "natu",
+    "name": "Natu",
+    "forms": [
+      "Natu",
+      "✨ Natu",
+      "Shadow Natu",
+      "Purified Natu"
+    ]
+  },
+  {
+    "id": "xatu",
+    "name": "Xatu",
+    "forms": [
+      "Xatu",
+      "✨ Xatu",
+      "Shadow Xatu",
+      "Purified Xatu"
+    ]
+  },
+  {
+    "id": "mareep",
+    "name": "Mareep",
+    "forms": [
+      "Mareep",
+      "✨ Mareep",
+      "Shadow Mareep",
+      "Purified Mareep"
+    ]
+  },
+  {
+    "id": "flaaffy",
+    "name": "Flaaffy",
+    "forms": [
+      "Flaaffy",
+      "✨ Flaaffy",
+      "Shadow Flaaffy",
+      "Purified Flaaffy"
+    ]
+  },
+  {
+    "id": "ampharos",
+    "name": "Ampharos",
+    "forms": [
+      "Ampharos",
+      "✨ Ampharos",
+      "Shadow Ampharos",
+      "Purified Ampharos",
+      "Mega Ampharos"
+    ]
+  },
+  {
+    "id": "bellossom",
+    "name": "Bellossom",
+    "forms": [
+      "Bellossom",
+      "✨ Bellossom",
+      "Shadow Bellossom",
+      "Purified Bellossom"
+    ]
+  },
+  {
+    "id": "marill",
+    "name": "Marill",
+    "forms": [
+      "Marill",
+      "✨ Marill",
+      "Shadow Marill",
+      "Purified Marill"
+    ]
+  },
+  {
+    "id": "azumarill",
+    "name": "Azumarill",
+    "forms": [
+      "Azumarill",
+      "✨ Azumarill",
+      "Shadow Azumarill",
+      "Purified Azumarill"
+    ]
+  },
+  {
+    "id": "sudowoodo",
+    "name": "Sudowoodo",
+    "forms": [
+      "Sudowoodo",
+      "✨ Sudowoodo",
+      "Shadow Sudowoodo",
+      "Purified Sudowoodo",
+      "Party Hat Sudowoodo"
+    ]
+  },
+  {
+    "id": "politoed",
+    "name": "Politoed",
+    "forms": [
+      "Politoed",
+      "✨ Politoed",
+      "Shadow Politoed",
+      "Purified Politoed"
+    ]
+  },
+  {
+    "id": "hoppip",
+    "name": "Hoppip",
+    "forms": [
+      "Hoppip",
+      "✨ Hoppip",
+      "Shadow Hoppip",
+      "Purified Hoppip"
+    ]
+  },
+  {
+    "id": "skiploom",
+    "name": "Skiploom",
+    "forms": [
+      "Skiploom",
+      "✨ Skiploom",
+      "Shadow Skiploom",
+      "Purified Skiploom"
+    ]
+  },
+  {
+    "id": "jumpluff",
+    "name": "Jumpluff",
+    "forms": [
+      "Jumpluff",
+      "✨ Jumpluff",
+      "Shadow Jumpluff",
+      "Purified Jumpluff"
+    ]
+  },
+  {
+    "id": "aipom",
+    "name": "Aipom",
+    "forms": [
+      "Aipom",
+      "✨ Aipom",
+      "Shadow Aipom",
+      "Purified Aipom"
+    ]
+  },
+  {
+    "id": "sunkern",
+    "name": "Sunkern",
+    "forms": [
+      "Sunkern",
+      "✨ Sunkern",
+      "Shadow Sunkern",
+      "Purified Sunkern"
+    ]
+  },
+  {
+    "id": "sunflora",
+    "name": "Sunflora",
+    "forms": [
+      "Sunflora",
+      "✨ Sunflora",
+      "Shadow Sunflora",
+      "Purified Sunflora"
+    ]
+  },
+  {
+    "id": "yanma",
+    "name": "Yanma",
+    "forms": [
+      "Yanma",
+      "✨ Yanma",
+      "Shadow Yanma",
+      "Purified Yanma"
+    ]
+  },
+  {
+    "id": "wooper",
+    "name": "Wooper",
+    "forms": [
+      "Wooper",
+      "✨ Wooper",
+      "Shadow Wooper",
+      "Purified Wooper",
+      "Paldean Wooper",
+      "✨ Paldean Wooper"
+    ]
+  },
+  {
+    "id": "quagsire",
+    "name": "Quagsire",
+    "forms": [
+      "Quagsire",
+      "✨ Quagsire",
+      "Shadow Quagsire",
+      "Purified Quagsire"
+    ]
+  },
+  {
+    "id": "espeon",
+    "name": "Espeon",
+    "forms": [
+      "Espeon",
+      "✨ Espeon",
+      "Shadow Espeon",
+      "Purified Espeon"
+    ]
+  },
+  {
+    "id": "umbreon",
+    "name": "Umbreon",
+    "forms": [
+      "Umbreon",
+      "✨ Umbreon",
+      "Shadow Umbreon",
+      "Purified Umbreon"
+    ]
+  },
+  {
+    "id": "murkrow",
+    "name": "Murkrow",
+    "forms": [
+      "Murkrow",
+      "✨ Murkrow",
+      "Shadow Murkrow",
+      "Purified Murkrow"
+    ]
+  },
+  {
+    "id": "slowking",
+    "name": "Slowking",
+    "forms": [
+      "Slowking",
+      "✨ Slowking",
+      "Shadow Slowking",
+      "Purified Slowking",
+      "Galarian Slowking",
+      "✨ Galarian Slowking"
+    ]
+  },
+  {
+    "id": "misdreavus",
+    "name": "Misdreavus",
+    "forms": [
+      "Misdreavus",
+      "✨ Misdreavus",
+      "Shadow Misdreavus",
+      "Purified Misdreavus"
+    ]
+  },
+  {
+    "id": "unown",
+    "name": "Unown",
+    "forms": [
+      "Unown",
+      "✨ Unown",
+      "Shadow Unown",
+      "Purified Unown"
+    ]
+  },
+  {
+    "id": "wobbuffet",
+    "name": "Wobbuffet",
+    "forms": [
+      "Wobbuffet",
+      "✨ Wobbuffet",
+      "Shadow Wobbuffet",
+      "Purified Wobbuffet",
+      "Female Wobbuffet"
+    ]
+  },
+  {
+    "id": "girafarig",
+    "name": "Girafarig",
+    "forms": [
+      "Girafarig",
+      "✨ Girafarig",
+      "Shadow Girafarig",
+      "Purified Girafarig"
+    ]
+  },
+  {
+    "id": "pineco",
+    "name": "Pineco",
+    "forms": [
+      "Pineco",
+      "✨ Pineco",
+      "Shadow Pineco",
+      "Purified Pineco"
+    ]
+  },
+  {
+    "id": "forretress",
+    "name": "Forretress",
+    "forms": [
+      "Forretress",
+      "✨ Forretress",
+      "Shadow Forretress",
+      "Purified Forretress"
+    ]
+  },
+  {
+    "id": "dunsparce",
+    "name": "Dunsparce",
+    "forms": [
+      "Dunsparce",
+      "✨ Dunsparce",
+      "Shadow Dunsparce",
+      "Purified Dunsparce"
+    ]
+  },
+  {
+    "id": "gligar",
+    "name": "Gligar",
+    "forms": [
+      "Gligar",
+      "✨ Gligar",
+      "Shadow Gligar",
+      "Purified Gligar"
+    ]
+  },
+  {
+    "id": "steelix",
+    "name": "Steelix",
+    "forms": [
+      "Steelix",
+      "✨ Steelix",
+      "Shadow Steelix",
+      "Purified Steelix",
+      "Mega Steelix"
+    ]
+  },
+  {
+    "id": "snubbull",
+    "name": "Snubbull",
+    "forms": [
+      "Snubbull",
+      "✨ Snubbull",
+      "Shadow Snubbull",
+      "Purified Snubbull"
+    ]
+  },
+  {
+    "id": "granbull",
+    "name": "Granbull",
+    "forms": [
+      "Granbull",
+      "✨ Granbull",
+      "Shadow Granbull",
+      "Purified Granbull"
+    ]
+  },
+  {
+    "id": "qwilfish",
+    "name": "Qwilfish",
+    "forms": [
+      "Qwilfish",
+      "✨ Qwilfish",
+      "Shadow Qwilfish",
+      "Purified Qwilfish",
+      "Hisuian Qwilfish",
+      "✨ Hisuian Qwilfish"
+    ]
+  },
+  {
+    "id": "scizor",
+    "name": "Scizor",
+    "forms": [
+      "Scizor",
+      "✨ Scizor",
+      "Shadow Scizor",
+      "Purified Scizor",
+      "Mega Scizor"
+    ]
+  },
+  {
+    "id": "shuckle",
+    "name": "Shuckle",
+    "forms": [
+      "Shuckle",
+      "✨ Shuckle",
+      "Shadow Shuckle",
+      "Purified Shuckle"
+    ]
+  },
+  {
+    "id": "heracross",
+    "name": "Heracross",
+    "forms": [
+      "Heracross",
+      "✨ Heracross",
+      "Shadow Heracross",
+      "Purified Heracross",
+      "Mega Heracross"
+    ]
+  },
+  {
+    "id": "sneasel",
+    "name": "Sneasel",
+    "forms": [
+      "Sneasel",
+      "✨ Sneasel",
+      "Shadow Sneasel",
+      "Purified Sneasel",
+      "Hisuian Sneasel",
+      "✨ Hisuian Sneasel"
+    ]
+  },
+  {
+    "id": "teddiursa",
+    "name": "Teddiursa",
+    "forms": [
+      "Teddiursa",
+      "✨ Teddiursa",
+      "Shadow Teddiursa",
+      "Purified Teddiursa"
+    ]
+  },
+  {
+    "id": "ursaring",
+    "name": "Ursaring",
+    "forms": [
+      "Ursaring",
+      "✨ Ursaring",
+      "Shadow Ursaring",
+      "Purified Ursaring"
+    ]
+  },
+  {
+    "id": "slugma",
+    "name": "Slugma",
+    "forms": [
+      "Slugma",
+      "✨ Slugma",
+      "Shadow Slugma",
+      "Purified Slugma"
+    ]
+  },
+  {
+    "id": "magcargo",
+    "name": "Magcargo",
+    "forms": [
+      "Magcargo",
+      "✨ Magcargo",
+      "Shadow Magcargo",
+      "Purified Magcargo"
+    ]
+  },
+  {
+    "id": "swinub",
+    "name": "Swinub",
+    "forms": [
+      "Swinub",
+      "✨ Swinub",
+      "Shadow Swinub",
+      "Purified Swinub"
+    ]
+  },
+  {
+    "id": "piloswine",
+    "name": "Piloswine",
+    "forms": [
+      "Piloswine",
+      "✨ Piloswine",
+      "Shadow Piloswine",
+      "Purified Piloswine"
+    ]
+  },
+  {
+    "id": "corsola",
+    "name": "Corsola",
+    "forms": [
+      "Corsola",
+      "✨ Corsola",
+      "Shadow Corsola",
+      "Purified Corsola",
+      "Galarian Corsola",
+      "✨ Galarian Corsola"
+    ]
+  },
+  {
+    "id": "remoraid",
+    "name": "Remoraid",
+    "forms": [
+      "Remoraid",
+      "✨ Remoraid",
+      "Shadow Remoraid",
+      "Purified Remoraid"
+    ]
+  },
+  {
+    "id": "octillery",
+    "name": "Octillery",
+    "forms": [
+      "Octillery",
+      "✨ Octillery",
+      "Shadow Octillery",
+      "Purified Octillery"
+    ]
+  },
+  {
+    "id": "delibird",
+    "name": "Delibird",
+    "forms": [
+      "Delibird",
+      "✨ Delibird",
+      "Shadow Delibird",
+      "Purified Delibird",
+      "Holiday Delibird",
+      "Bow Delibird"
+    ]
+  },
+  {
+    "id": "mantine",
+    "name": "Mantine",
+    "forms": [
+      "Mantine",
+      "✨ Mantine",
+      "Shadow Mantine",
+      "Purified Mantine"
+    ]
+  },
+  {
+    "id": "skarmory",
+    "name": "Skarmory",
+    "forms": [
+      "Skarmory",
+      "✨ Skarmory",
+      "Shadow Skarmory",
+      "Purified Skarmory"
+    ]
+  },
+  {
+    "id": "houndour",
+    "name": "Houndour",
+    "forms": [
+      "Houndour",
+      "✨ Houndour",
+      "Shadow Houndour",
+      "Purified Houndour"
+    ]
+  },
+  {
+    "id": "houndoom",
+    "name": "Houndoom",
+    "forms": [
+      "Houndoom",
+      "✨ Houndoom",
+      "Shadow Houndoom",
+      "Purified Houndoom",
+      "Mega Houndoom"
+    ]
+  },
+  {
+    "id": "kingdra",
+    "name": "Kingdra",
+    "forms": [
+      "Kingdra",
+      "✨ Kingdra",
+      "Shadow Kingdra",
+      "Purified Kingdra"
+    ]
+  },
+  {
+    "id": "phanpy",
+    "name": "Phanpy",
+    "forms": [
+      "Phanpy",
+      "✨ Phanpy",
+      "Shadow Phanpy",
+      "Purified Phanpy"
+    ]
+  },
+  {
+    "id": "donphan",
+    "name": "Donphan",
+    "forms": [
+      "Donphan",
+      "✨ Donphan",
+      "Shadow Donphan",
+      "Purified Donphan"
+    ]
+  },
+  {
+    "id": "porygon2",
+    "name": "Porygon2",
+    "forms": [
+      "Porygon2",
+      "✨ Porygon2",
+      "Shadow Porygon2",
+      "Purified Porygon2"
+    ]
+  },
+  {
+    "id": "stantler",
+    "name": "Stantler",
+    "forms": [
+      "Stantler",
+      "✨ Stantler",
+      "Shadow Stantler",
+      "Purified Stantler"
+    ]
+  },
+  {
+    "id": "smeargle",
+    "name": "Smeargle",
+    "forms": [
+      "Smeargle",
+      "✨ Smeargle",
+      "Shadow Smeargle",
+      "Purified Smeargle",
+      "Event Smeargle"
+    ]
+  },
+  {
+    "id": "tyrogue",
+    "name": "Tyrogue",
+    "forms": [
+      "Tyrogue",
+      "✨ Tyrogue",
+      "Shadow Tyrogue",
+      "Purified Tyrogue"
+    ]
+  },
+  {
+    "id": "hitmontop",
+    "name": "Hitmontop",
+    "forms": [
+      "Hitmontop",
+      "✨ Hitmontop",
+      "Shadow Hitmontop",
+      "Purified Hitmontop"
+    ]
+  },
+  {
+    "id": "smoochum",
+    "name": "Smoochum",
+    "forms": [
+      "Smoochum",
+      "✨ Smoochum",
+      "Shadow Smoochum",
+      "Purified Smoochum"
+    ]
+  },
+  {
+    "id": "elekid",
+    "name": "Elekid",
+    "forms": [
+      "Elekid",
+      "✨ Elekid",
+      "Shadow Elekid",
+      "Purified Elekid"
+    ]
+  },
+  {
+    "id": "magby",
+    "name": "Magby",
+    "forms": [
+      "Magby",
+      "✨ Magby",
+      "Shadow Magby",
+      "Purified Magby"
+    ]
+  },
+  {
+    "id": "miltank",
+    "name": "Miltank",
+    "forms": [
+      "Miltank",
+      "✨ Miltank",
+      "Shadow Miltank",
+      "Purified Miltank"
+    ]
+  },
+  {
+    "id": "blissey",
+    "name": "Blissey",
+    "forms": [
+      "Blissey",
+      "✨ Blissey",
+      "Shadow Blissey",
+      "Purified Blissey"
+    ]
+  },
+  {
+    "id": "raikou",
+    "name": "Raikou",
+    "forms": [
+      "Raikou",
+      "✨ Raikou",
+      "Shadow Raikou",
+      "Purified Raikou"
+    ]
+  },
+  {
+    "id": "entei",
+    "name": "Entei",
+    "forms": [
+      "Entei",
+      "✨ Entei",
+      "Shadow Entei",
+      "Purified Entei"
+    ]
+  },
+  {
+    "id": "suicune",
+    "name": "Suicune",
+    "forms": [
+      "Suicune",
+      "✨ Suicune",
+      "Shadow Suicune",
+      "Purified Suicune"
+    ]
+  },
+  {
+    "id": "larvitar",
+    "name": "Larvitar",
+    "forms": [
+      "Larvitar",
+      "✨ Larvitar",
+      "Shadow Larvitar",
+      "Purified Larvitar",
+      "Safari Hat Larvitar"
+    ]
+  },
+  {
+    "id": "pupitar",
+    "name": "Pupitar",
+    "forms": [
+      "Pupitar",
+      "✨ Pupitar",
+      "Shadow Pupitar",
+      "Purified Pupitar"
+    ]
+  },
+  {
+    "id": "tyranitar",
+    "name": "Tyranitar",
+    "forms": [
+      "Tyranitar",
+      "✨ Tyranitar",
+      "Shadow Tyranitar",
+      "Purified Tyranitar",
+      "Mega Tyranitar",
+      "Armored Tyranitar"
+    ]
+  },
+  {
+    "id": "lugia",
+    "name": "Lugia",
+    "forms": [
+      "Lugia",
+      "✨ Lugia",
+      "Shadow Lugia",
+      "Purified Lugia",
+      "Shadow Lugia (Apex)"
+    ]
+  },
+  {
+    "id": "ho_oh",
+    "name": "Ho-Oh",
+    "forms": [
+      "Ho-Oh",
+      "✨ Ho-Oh",
+      "Shadow Ho-Oh",
+      "Purified Ho-Oh",
+      "Shadow Ho-Oh (Apex)"
+    ]
+  },
+  {
+    "id": "celebi",
+    "name": "Celebi",
+    "forms": [
+      "Celebi",
+      "✨ Celebi",
+      "Shadow Celebi",
+      "Purified Celebi"
+    ]
+  },
+  {
+    "id": "treecko",
+    "name": "Treecko",
+    "forms": [
+      "Treecko",
+      "✨ Treecko",
+      "Shadow Treecko",
+      "Purified Treecko"
+    ]
+  },
+  {
+    "id": "grovyle",
+    "name": "Grovyle",
+    "forms": [
+      "Grovyle",
+      "✨ Grovyle",
+      "Shadow Grovyle",
+      "Purified Grovyle"
+    ]
+  },
+  {
+    "id": "sceptile",
+    "name": "Sceptile",
+    "forms": [
+      "Sceptile",
+      "✨ Sceptile",
+      "Shadow Sceptile",
+      "Purified Sceptile",
+      "Mega Sceptile"
+    ]
+  },
+  {
+    "id": "torchic",
+    "name": "Torchic",
+    "forms": [
+      "Torchic",
+      "✨ Torchic",
+      "Shadow Torchic",
+      "Purified Torchic"
+    ]
+  },
+  {
+    "id": "combusken",
+    "name": "Combusken",
+    "forms": [
+      "Combusken",
+      "✨ Combusken",
+      "Shadow Combusken",
+      "Purified Combusken"
+    ]
+  },
+  {
+    "id": "blaziken",
+    "name": "Blaziken",
+    "forms": [
+      "Blaziken",
+      "✨ Blaziken",
+      "Shadow Blaziken",
+      "Purified Blaziken",
+      "Mega Blaziken"
+    ]
+  },
+  {
+    "id": "mudkip",
+    "name": "Mudkip",
+    "forms": [
+      "Mudkip",
+      "✨ Mudkip",
+      "Shadow Mudkip",
+      "Purified Mudkip"
+    ]
+  },
+  {
+    "id": "marshtomp",
+    "name": "Marshtomp",
+    "forms": [
+      "Marshtomp",
+      "✨ Marshtomp",
+      "Shadow Marshtomp",
+      "Purified Marshtomp"
+    ]
+  },
+  {
+    "id": "swampert",
+    "name": "Swampert",
+    "forms": [
+      "Swampert",
+      "✨ Swampert",
+      "Shadow Swampert",
+      "Purified Swampert",
+      "Mega Swampert"
+    ]
+  },
+  {
+    "id": "poochyena",
+    "name": "Poochyena",
+    "forms": [
+      "Poochyena",
+      "✨ Poochyena",
+      "Shadow Poochyena",
+      "Purified Poochyena"
+    ]
+  },
+  {
+    "id": "mightyena",
+    "name": "Mightyena",
+    "forms": [
+      "Mightyena",
+      "✨ Mightyena",
+      "Shadow Mightyena",
+      "Purified Mightyena"
+    ]
+  },
+  {
+    "id": "zigzagoon",
+    "name": "Zigzagoon",
+    "forms": [
+      "Zigzagoon",
+      "✨ Zigzagoon",
+      "Shadow Zigzagoon",
+      "Purified Zigzagoon"
+    ]
+  },
+  {
+    "id": "linoone",
+    "name": "Linoone",
+    "forms": [
+      "Linoone",
+      "✨ Linoone",
+      "Shadow Linoone",
+      "Purified Linoone"
+    ]
+  },
+  {
+    "id": "wurmple",
+    "name": "Wurmple",
+    "forms": [
+      "Wurmple",
+      "✨ Wurmple",
+      "Shadow Wurmple",
+      "Purified Wurmple"
+    ]
+  },
+  {
+    "id": "silcoon",
+    "name": "Silcoon",
+    "forms": [
+      "Silcoon",
+      "✨ Silcoon",
+      "Shadow Silcoon",
+      "Purified Silcoon"
+    ]
+  },
+  {
+    "id": "beautifly",
+    "name": "Beautifly",
+    "forms": [
+      "Beautifly",
+      "✨ Beautifly",
+      "Shadow Beautifly",
+      "Purified Beautifly"
+    ]
+  },
+  {
+    "id": "cascoon",
+    "name": "Cascoon",
+    "forms": [
+      "Cascoon",
+      "✨ Cascoon",
+      "Shadow Cascoon",
+      "Purified Cascoon"
+    ]
+  },
+  {
+    "id": "dustox",
+    "name": "Dustox",
+    "forms": [
+      "Dustox",
+      "✨ Dustox",
+      "Shadow Dustox",
+      "Purified Dustox"
+    ]
+  },
+  {
+    "id": "lotad",
+    "name": "Lotad",
+    "forms": [
+      "Lotad",
+      "✨ Lotad",
+      "Shadow Lotad",
+      "Purified Lotad"
+    ]
+  },
+  {
+    "id": "lombre",
+    "name": "Lombre",
+    "forms": [
+      "Lombre",
+      "✨ Lombre",
+      "Shadow Lombre",
+      "Purified Lombre"
+    ]
+  },
+  {
+    "id": "ludicolo",
+    "name": "Ludicolo",
+    "forms": [
+      "Ludicolo",
+      "✨ Ludicolo",
+      "Shadow Ludicolo",
+      "Purified Ludicolo"
+    ]
+  },
+  {
+    "id": "seedot",
+    "name": "Seedot",
+    "forms": [
+      "Seedot",
+      "✨ Seedot",
+      "Shadow Seedot",
+      "Purified Seedot"
+    ]
+  },
+  {
+    "id": "nuzleaf",
+    "name": "Nuzleaf",
+    "forms": [
+      "Nuzleaf",
+      "✨ Nuzleaf",
+      "Shadow Nuzleaf",
+      "Purified Nuzleaf"
+    ]
+  },
+  {
+    "id": "shiftry",
+    "name": "Shiftry",
+    "forms": [
+      "Shiftry",
+      "✨ Shiftry",
+      "Shadow Shiftry",
+      "Purified Shiftry"
+    ]
+  },
+  {
+    "id": "taillow",
+    "name": "Taillow",
+    "forms": [
+      "Taillow",
+      "✨ Taillow",
+      "Shadow Taillow",
+      "Purified Taillow"
+    ]
+  },
+  {
+    "id": "swellow",
+    "name": "Swellow",
+    "forms": [
+      "Swellow",
+      "✨ Swellow",
+      "Shadow Swellow",
+      "Purified Swellow"
+    ]
+  },
+  {
+    "id": "wingull",
+    "name": "Wingull",
+    "forms": [
+      "Wingull",
+      "✨ Wingull",
+      "Shadow Wingull",
+      "Purified Wingull"
+    ]
+  },
+  {
+    "id": "pelipper",
+    "name": "Pelipper",
+    "forms": [
+      "Pelipper",
+      "✨ Pelipper",
+      "Shadow Pelipper",
+      "Purified Pelipper"
+    ]
+  },
+  {
+    "id": "ralts",
+    "name": "Ralts",
+    "forms": [
+      "Ralts",
+      "✨ Ralts",
+      "Shadow Ralts",
+      "Purified Ralts",
+      "Party Hat Ralts"
+    ]
+  },
+  {
+    "id": "kirlia",
+    "name": "Kirlia",
+    "forms": [
+      "Kirlia",
+      "✨ Kirlia",
+      "Shadow Kirlia",
+      "Purified Kirlia"
+    ]
+  },
+  {
+    "id": "gardevoir",
+    "name": "Gardevoir",
+    "forms": [
+      "Gardevoir",
+      "✨ Gardevoir",
+      "Shadow Gardevoir",
+      "Purified Gardevoir",
+      "Mega Gardevoir"
+    ]
+  },
+  {
+    "id": "gallade",
+    "name": "Gallade",
+    "forms": [
+      "Gallade",
+      "✨ Gallade",
+      "Shadow Gallade",
+      "Purified Gallade"
+    ]
+  },
+  {
+    "id": "surskit",
+    "name": "Surskit",
+    "forms": [
+      "Surskit",
+      "✨ Surskit",
+      "Shadow Surskit",
+      "Purified Surskit"
+    ]
+  },
+  {
+    "id": "masquerain",
+    "name": "Masquerain",
+    "forms": [
+      "Masquerain",
+      "✨ Masquerain",
+      "Shadow Masquerain",
+      "Purified Masquerain"
+    ]
+  },
+  {
+    "id": "shroomish",
+    "name": "Shroomish",
+    "forms": [
+      "Shroomish",
+      "✨ Shroomish",
+      "Shadow Shroomish",
+      "Purified Shroomish"
+    ]
+  },
+  {
+    "id": "breloom",
+    "name": "Breloom",
+    "forms": [
+      "Breloom",
+      "✨ Breloom",
+      "Shadow Breloom",
+      "Purified Breloom"
+    ]
+  },
+  {
+    "id": "slakoth",
+    "name": "Slakoth",
+    "forms": [
+      "Slakoth",
+      "✨ Slakoth",
+      "Shadow Slakoth",
+      "Purified Slakoth"
+    ]
+  },
+  {
+    "id": "vigoroth",
+    "name": "Vigoroth",
+    "forms": [
+      "Vigoroth",
+      "✨ Vigoroth",
+      "Shadow Vigoroth",
+      "Purified Vigoroth"
+    ]
+  },
+  {
+    "id": "slaking",
+    "name": "Slaking",
+    "forms": [
+      "Slaking",
+      "✨ Slaking",
+      "Shadow Slaking",
+      "Purified Slaking"
+    ]
+  },
+  {
+    "id": "nincada",
+    "name": "Nincada",
+    "forms": [
+      "Nincada",
+      "✨ Nincada",
+      "Shadow Nincada",
+      "Purified Nincada"
+    ]
+  },
+  {
+    "id": "ninjask",
+    "name": "Ninjask",
+    "forms": [
+      "Ninjask",
+      "✨ Ninjask",
+      "Shadow Ninjask",
+      "Purified Ninjask"
+    ]
+  },
+  {
+    "id": "shedinja",
+    "name": "Shedinja",
+    "forms": [
+      "Shedinja",
+      "✨ Shedinja",
+      "Shadow Shedinja",
+      "Purified Shedinja"
+    ]
+  },
+  {
+    "id": "whismur",
+    "name": "Whismur",
+    "forms": [
+      "Whismur",
+      "✨ Whismur",
+      "Shadow Whismur",
+      "Purified Whismur"
+    ]
+  },
+  {
+    "id": "loudred",
+    "name": "Loudred",
+    "forms": [
+      "Loudred",
+      "✨ Loudred",
+      "Shadow Loudred",
+      "Purified Loudred"
+    ]
+  },
+  {
+    "id": "exploud",
+    "name": "Exploud",
+    "forms": [
+      "Exploud",
+      "✨ Exploud",
+      "Shadow Exploud",
+      "Purified Exploud"
+    ]
+  },
+  {
+    "id": "makuhita",
+    "name": "Makuhita",
+    "forms": [
+      "Makuhita",
+      "✨ Makuhita",
+      "Shadow Makuhita",
+      "Purified Makuhita"
+    ]
+  },
+  {
+    "id": "hariyama",
+    "name": "Hariyama",
+    "forms": [
+      "Hariyama",
+      "✨ Hariyama",
+      "Shadow Hariyama",
+      "Purified Hariyama"
+    ]
+  },
+  {
+    "id": "azurill",
+    "name": "Azurill",
+    "forms": [
+      "Azurill",
+      "✨ Azurill",
+      "Shadow Azurill",
+      "Purified Azurill"
+    ]
+  },
+  {
+    "id": "nosepass",
+    "name": "Nosepass",
+    "forms": [
+      "Nosepass",
+      "✨ Nosepass",
+      "Shadow Nosepass",
+      "Purified Nosepass"
+    ]
+  },
+  {
+    "id": "skitty",
+    "name": "Skitty",
+    "forms": [
+      "Skitty",
+      "✨ Skitty",
+      "Shadow Skitty",
+      "Purified Skitty"
+    ]
+  },
+  {
+    "id": "delcatty",
+    "name": "Delcatty",
+    "forms": [
+      "Delcatty",
+      "✨ Delcatty",
+      "Shadow Delcatty",
+      "Purified Delcatty"
+    ]
+  },
+  {
+    "id": "sableye",
+    "name": "Sableye",
+    "forms": [
+      "Sableye",
+      "✨ Sableye",
+      "Shadow Sableye",
+      "Purified Sableye",
+      "Mega Sableye"
+    ]
+  },
+  {
+    "id": "mawile",
+    "name": "Mawile",
+    "forms": [
+      "Mawile",
+      "✨ Mawile",
+      "Shadow Mawile",
+      "Purified Mawile",
+      "Mega Mawile"
+    ]
+  },
+  {
+    "id": "aron",
+    "name": "Aron",
+    "forms": [
+      "Aron",
+      "✨ Aron",
+      "Shadow Aron",
+      "Purified Aron"
+    ]
+  },
+  {
+    "id": "lairon",
+    "name": "Lairon",
+    "forms": [
+      "Lairon",
+      "✨ Lairon",
+      "Shadow Lairon",
+      "Purified Lairon"
+    ]
+  },
+  {
+    "id": "aggron",
+    "name": "Aggron",
+    "forms": [
+      "Aggron",
+      "✨ Aggron",
+      "Shadow Aggron",
+      "Purified Aggron",
+      "Mega Aggron"
+    ]
+  },
+  {
+    "id": "meditite",
+    "name": "Meditite",
+    "forms": [
+      "Meditite",
+      "✨ Meditite",
+      "Shadow Meditite",
+      "Purified Meditite"
+    ]
+  },
+  {
+    "id": "medicham",
+    "name": "Medicham",
+    "forms": [
+      "Medicham",
+      "✨ Medicham",
+      "Shadow Medicham",
+      "Purified Medicham",
+      "Mega Medicham"
+    ]
+  },
+  {
+    "id": "electrike",
+    "name": "Electrike",
+    "forms": [
+      "Electrike",
+      "✨ Electrike",
+      "Shadow Electrike",
+      "Purified Electrike"
+    ]
+  },
+  {
+    "id": "manectric",
+    "name": "Manectric",
+    "forms": [
+      "Manectric",
+      "✨ Manectric",
+      "Shadow Manectric",
+      "Purified Manectric",
+      "Mega Manectric"
+    ]
+  },
+  {
+    "id": "plusle",
+    "name": "Plusle",
+    "forms": [
+      "Plusle",
+      "✨ Plusle",
+      "Shadow Plusle",
+      "Purified Plusle"
+    ]
+  },
+  {
+    "id": "minun",
+    "name": "Minun",
+    "forms": [
+      "Minun",
+      "✨ Minun",
+      "Shadow Minun",
+      "Purified Minun"
+    ]
+  },
+  {
+    "id": "volbeat",
+    "name": "Volbeat",
+    "forms": [
+      "Volbeat",
+      "✨ Volbeat",
+      "Shadow Volbeat",
+      "Purified Volbeat"
+    ]
+  },
+  {
+    "id": "illumise",
+    "name": "Illumise",
+    "forms": [
+      "Illumise",
+      "✨ Illumise",
+      "Shadow Illumise",
+      "Purified Illumise"
+    ]
+  },
+  {
+    "id": "roselia",
+    "name": "Roselia",
+    "forms": [
+      "Roselia",
+      "✨ Roselia",
+      "Shadow Roselia",
+      "Purified Roselia"
+    ]
+  },
+  {
+    "id": "gulpin",
+    "name": "Gulpin",
+    "forms": [
+      "Gulpin",
+      "✨ Gulpin",
+      "Shadow Gulpin",
+      "Purified Gulpin"
+    ]
+  },
+  {
+    "id": "swalot",
+    "name": "Swalot",
+    "forms": [
+      "Swalot",
+      "✨ Swalot",
+      "Shadow Swalot",
+      "Purified Swalot"
+    ]
+  },
+  {
+    "id": "carvanha",
+    "name": "Carvanha",
+    "forms": [
+      "Carvanha",
+      "✨ Carvanha",
+      "Shadow Carvanha",
+      "Purified Carvanha"
+    ]
+  },
+  {
+    "id": "sharpedo",
+    "name": "Sharpedo",
+    "forms": [
+      "Sharpedo",
+      "✨ Sharpedo",
+      "Shadow Sharpedo",
+      "Purified Sharpedo",
+      "Mega Sharpedo"
+    ]
+  },
+  {
+    "id": "wailmer",
+    "name": "Wailmer",
+    "forms": [
+      "Wailmer",
+      "✨ Wailmer",
+      "Shadow Wailmer",
+      "Purified Wailmer"
+    ]
+  },
+  {
+    "id": "wailord",
+    "name": "Wailord",
+    "forms": [
+      "Wailord",
+      "✨ Wailord",
+      "Shadow Wailord",
+      "Purified Wailord"
+    ]
+  },
+  {
+    "id": "numel",
+    "name": "Numel",
+    "forms": [
+      "Numel",
+      "✨ Numel",
+      "Shadow Numel",
+      "Purified Numel"
+    ]
+  },
+  {
+    "id": "camerupt",
+    "name": "Camerupt",
+    "forms": [
+      "Camerupt",
+      "✨ Camerupt",
+      "Shadow Camerupt",
+      "Purified Camerupt",
+      "Mega Camerupt"
+    ]
+  },
+  {
+    "id": "torkoal",
+    "name": "Torkoal",
+    "forms": [
+      "Torkoal",
+      "✨ Torkoal",
+      "Shadow Torkoal",
+      "Purified Torkoal"
+    ]
+  },
+  {
+    "id": "spoink",
+    "name": "Spoink",
+    "forms": [
+      "Spoink",
+      "✨ Spoink",
+      "Shadow Spoink",
+      "Purified Spoink"
+    ]
+  },
+  {
+    "id": "grumpig",
+    "name": "Grumpig",
+    "forms": [
+      "Grumpig",
+      "✨ Grumpig",
+      "Shadow Grumpig",
+      "Purified Grumpig"
+    ]
+  },
+  {
+    "id": "spinda",
+    "name": "Spinda",
+    "forms": [
+      "Spinda",
+      "✨ Spinda",
+      "Shadow Spinda",
+      "Purified Spinda"
+    ]
+  },
+  {
+    "id": "trapinch",
+    "name": "Trapinch",
+    "forms": [
+      "Trapinch",
+      "✨ Trapinch",
+      "Shadow Trapinch",
+      "Purified Trapinch"
+    ]
+  },
+  {
+    "id": "vibrava",
+    "name": "Vibrava",
+    "forms": [
+      "Vibrava",
+      "✨ Vibrava",
+      "Shadow Vibrava",
+      "Purified Vibrava"
+    ]
+  },
+  {
+    "id": "flygon",
+    "name": "Flygon",
+    "forms": [
+      "Flygon",
+      "✨ Flygon",
+      "Shadow Flygon",
+      "Purified Flygon"
+    ]
+  },
+  {
+    "id": "cacnea",
+    "name": "Cacnea",
+    "forms": [
+      "Cacnea",
+      "✨ Cacnea",
+      "Shadow Cacnea",
+      "Purified Cacnea"
+    ]
+  },
+  {
+    "id": "cacturne",
+    "name": "Cacturne",
+    "forms": [
+      "Cacturne",
+      "✨ Cacturne",
+      "Shadow Cacturne",
+      "Purified Cacturne"
+    ]
+  },
+  {
+    "id": "swablu",
+    "name": "Swablu",
+    "forms": [
+      "Swablu",
+      "✨ Swablu",
+      "Shadow Swablu",
+      "Purified Swablu"
+    ]
+  },
+  {
+    "id": "altaria",
+    "name": "Altaria",
+    "forms": [
+      "Altaria",
+      "✨ Altaria",
+      "Shadow Altaria",
+      "Purified Altaria",
+      "Mega Altaria"
+    ]
+  },
+  {
+    "id": "zangoose",
+    "name": "Zangoose",
+    "forms": [
+      "Zangoose",
+      "✨ Zangoose",
+      "Shadow Zangoose",
+      "Purified Zangoose"
+    ]
+  },
+  {
+    "id": "seviper",
+    "name": "Seviper",
+    "forms": [
+      "Seviper",
+      "✨ Seviper",
+      "Shadow Seviper",
+      "Purified Seviper"
+    ]
+  },
+  {
+    "id": "lunatone",
+    "name": "Lunatone",
+    "forms": [
+      "Lunatone",
+      "✨ Lunatone",
+      "Shadow Lunatone",
+      "Purified Lunatone"
+    ]
+  },
+  {
+    "id": "solrock",
+    "name": "Solrock",
+    "forms": [
+      "Solrock",
+      "✨ Solrock",
+      "Shadow Solrock",
+      "Purified Solrock"
+    ]
+  },
+  {
+    "id": "barboach",
+    "name": "Barboach",
+    "forms": [
+      "Barboach",
+      "✨ Barboach",
+      "Shadow Barboach",
+      "Purified Barboach"
+    ]
+  },
+  {
+    "id": "whiscash",
+    "name": "Whiscash",
+    "forms": [
+      "Whiscash",
+      "✨ Whiscash",
+      "Shadow Whiscash",
+      "Purified Whiscash"
+    ]
+  },
+  {
+    "id": "corphish",
+    "name": "Corphish",
+    "forms": [
+      "Corphish",
+      "✨ Corphish",
+      "Shadow Corphish",
+      "Purified Corphish"
+    ]
+  },
+  {
+    "id": "crawdaunt",
+    "name": "Crawdaunt",
+    "forms": [
+      "Crawdaunt",
+      "✨ Crawdaunt",
+      "Shadow Crawdaunt",
+      "Purified Crawdaunt"
+    ]
+  },
+  {
+    "id": "baltoy",
+    "name": "Baltoy",
+    "forms": [
+      "Baltoy",
+      "✨ Baltoy",
+      "Shadow Baltoy",
+      "Purified Baltoy"
+    ]
+  },
+  {
+    "id": "claydol",
+    "name": "Claydol",
+    "forms": [
+      "Claydol",
+      "✨ Claydol",
+      "Shadow Claydol",
+      "Purified Claydol"
+    ]
+  },
+  {
+    "id": "lileep",
+    "name": "Lileep",
+    "forms": [
+      "Lileep",
+      "✨ Lileep",
+      "Shadow Lileep",
+      "Purified Lileep"
+    ]
+  },
+  {
+    "id": "cradily",
+    "name": "Cradily",
+    "forms": [
+      "Cradily",
+      "✨ Cradily",
+      "Shadow Cradily",
+      "Purified Cradily"
+    ]
+  },
+  {
+    "id": "anorith",
+    "name": "Anorith",
+    "forms": [
+      "Anorith",
+      "✨ Anorith",
+      "Shadow Anorith",
+      "Purified Anorith"
+    ]
+  },
+  {
+    "id": "armaldo",
+    "name": "Armaldo",
+    "forms": [
+      "Armaldo",
+      "✨ Armaldo",
+      "Shadow Armaldo",
+      "Purified Armaldo"
+    ]
+  },
+  {
+    "id": "feebas",
+    "name": "Feebas",
+    "forms": [
+      "Feebas",
+      "✨ Feebas",
+      "Shadow Feebas",
+      "Purified Feebas"
+    ]
+  },
+  {
+    "id": "milotic",
+    "name": "Milotic",
+    "forms": [
+      "Milotic",
+      "✨ Milotic",
+      "Shadow Milotic",
+      "Purified Milotic"
+    ]
+  },
+  {
+    "id": "castform",
+    "name": "Castform",
+    "forms": [
+      "Castform",
+      "✨ Castform",
+      "Shadow Castform",
+      "Purified Castform",
+      "Castform (Sunny)",
+      "Castform (Rainy)",
+      "Castform (Snowy)"
+    ]
+  },
+  {
+    "id": "kecleon",
+    "name": "Kecleon",
+    "forms": [
+      "Kecleon",
+      "✨ Kecleon",
+      "Shadow Kecleon",
+      "Purified Kecleon"
+    ]
+  },
+  {
+    "id": "shuppet",
+    "name": "Shuppet",
+    "forms": [
+      "Shuppet",
+      "✨ Shuppet",
+      "Shadow Shuppet",
+      "Purified Shuppet"
+    ]
+  },
+  {
+    "id": "banette",
+    "name": "Banette",
+    "forms": [
+      "Banette",
+      "✨ Banette",
+      "Shadow Banette",
+      "Purified Banette",
+      "Mega Banette"
+    ]
+  },
+  {
+    "id": "duskull",
+    "name": "Duskull",
+    "forms": [
+      "Duskull",
+      "✨ Duskull",
+      "Shadow Duskull",
+      "Purified Duskull"
+    ]
+  },
+  {
+    "id": "dusclops",
+    "name": "Dusclops",
+    "forms": [
+      "Dusclops",
+      "✨ Dusclops",
+      "Shadow Dusclops",
+      "Purified Dusclops"
+    ]
+  },
+  {
+    "id": "dusknoir",
+    "name": "Dusknoir",
+    "forms": [
+      "Dusknoir",
+      "✨ Dusknoir",
+      "Shadow Dusknoir",
+      "Purified Dusknoir"
+    ]
+  },
+  {
+    "id": "tropius",
+    "name": "Tropius",
+    "forms": [
+      "Tropius",
+      "✨ Tropius",
+      "Shadow Tropius",
+      "Purified Tropius"
+    ]
+  },
+  {
+    "id": "chimecho",
+    "name": "Chimecho",
+    "forms": [
+      "Chimecho",
+      "✨ Chimecho",
+      "Shadow Chimecho",
+      "Purified Chimecho"
+    ]
+  },
+  {
+    "id": "absol",
+    "name": "Absol",
+    "forms": [
+      "Absol",
+      "✨ Absol",
+      "Shadow Absol",
+      "Purified Absol",
+      "Mega Absol"
+    ]
+  },
+  {
+    "id": "wynaut",
+    "name": "Wynaut",
+    "forms": [
+      "Wynaut",
+      "✨ Wynaut",
+      "Shadow Wynaut",
+      "Purified Wynaut"
+    ]
+  },
+  {
+    "id": "snorunt",
+    "name": "Snorunt",
+    "forms": [
+      "Snorunt",
+      "✨ Snorunt",
+      "Shadow Snorunt",
+      "Purified Snorunt"
+    ]
+  },
+  {
+    "id": "glalie",
+    "name": "Glalie",
+    "forms": [
+      "Glalie",
+      "✨ Glalie",
+      "Shadow Glalie",
+      "Purified Glalie",
+      "Mega Glalie"
+    ]
+  },
+  {
+    "id": "froslass",
+    "name": "Froslass",
+    "forms": [
+      "Froslass",
+      "✨ Froslass",
+      "Shadow Froslass",
+      "Purified Froslass"
+    ]
+  },
+  {
+    "id": "spheal",
+    "name": "Spheal",
+    "forms": [
+      "Spheal",
+      "✨ Spheal",
+      "Shadow Spheal",
+      "Purified Spheal"
+    ]
+  },
+  {
+    "id": "sealeo",
+    "name": "Sealeo",
+    "forms": [
+      "Sealeo",
+      "✨ Sealeo",
+      "Shadow Sealeo",
+      "Purified Sealeo"
+    ]
+  },
+  {
+    "id": "walrein",
+    "name": "Walrein",
+    "forms": [
+      "Walrein",
+      "✨ Walrein",
+      "Shadow Walrein",
+      "Purified Walrein"
+    ]
+  },
+  {
+    "id": "clamperl",
+    "name": "Clamperl",
+    "forms": [
+      "Clamperl",
+      "✨ Clamperl",
+      "Shadow Clamperl",
+      "Purified Clamperl"
+    ]
+  },
+  {
+    "id": "huntail",
+    "name": "Huntail",
+    "forms": [
+      "Huntail",
+      "✨ Huntail",
+      "Shadow Huntail",
+      "Purified Huntail"
+    ]
+  },
+  {
+    "id": "gorebyss",
+    "name": "Gorebyss",
+    "forms": [
+      "Gorebyss",
+      "✨ Gorebyss",
+      "Shadow Gorebyss",
+      "Purified Gorebyss"
+    ]
+  },
+  {
+    "id": "relicanth",
+    "name": "Relicanth",
+    "forms": [
+      "Relicanth",
+      "✨ Relicanth",
+      "Shadow Relicanth",
+      "Purified Relicanth"
+    ]
+  },
+  {
+    "id": "luvdisc",
+    "name": "Luvdisc",
+    "forms": [
+      "Luvdisc",
+      "✨ Luvdisc",
+      "Shadow Luvdisc",
+      "Purified Luvdisc"
+    ]
+  },
+  {
+    "id": "bagon",
+    "name": "Bagon",
+    "forms": [
+      "Bagon",
+      "✨ Bagon",
+      "Shadow Bagon",
+      "Purified Bagon"
+    ]
+  },
+  {
+    "id": "shelgon",
+    "name": "Shelgon",
+    "forms": [
+      "Shelgon",
+      "✨ Shelgon",
+      "Shadow Shelgon",
+      "Purified Shelgon"
+    ]
+  },
+  {
+    "id": "salamence",
+    "name": "Salamence",
+    "forms": [
+      "Salamence",
+      "✨ Salamence",
+      "Shadow Salamence",
+      "Purified Salamence",
+      "Mega Salamence"
+    ]
+  },
+  {
+    "id": "beldum",
+    "name": "Beldum",
+    "forms": [
+      "Beldum",
+      "✨ Beldum",
+      "Shadow Beldum",
+      "Purified Beldum"
+    ]
+  },
+  {
+    "id": "metang",
+    "name": "Metang",
+    "forms": [
+      "Metang",
+      "✨ Metang",
+      "Shadow Metang",
+      "Purified Metang"
+    ]
+  },
+  {
+    "id": "metagross",
+    "name": "Metagross",
+    "forms": [
+      "Metagross",
+      "✨ Metagross",
+      "Shadow Metagross",
+      "Purified Metagross",
+      "Mega Metagross"
+    ]
+  },
+  {
+    "id": "regirock",
+    "name": "Regirock",
+    "forms": [
+      "Regirock",
+      "✨ Regirock",
+      "Shadow Regirock",
+      "Purified Regirock"
+    ]
+  },
+  {
+    "id": "regice",
+    "name": "Regice",
+    "forms": [
+      "Regice",
+      "✨ Regice",
+      "Shadow Regice",
+      "Purified Regice"
+    ]
+  },
+  {
+    "id": "registeel",
+    "name": "Registeel",
+    "forms": [
+      "Registeel",
+      "✨ Registeel",
+      "Shadow Registeel",
+      "Purified Registeel"
+    ]
+  },
+  {
+    "id": "latias",
+    "name": "Latias",
+    "forms": [
+      "Latias",
+      "✨ Latias",
+      "Shadow Latias",
+      "Purified Latias",
+      "Mega Latias"
+    ]
+  },
+  {
+    "id": "latios",
+    "name": "Latios",
+    "forms": [
+      "Latios",
+      "✨ Latios",
+      "Shadow Latios",
+      "Purified Latios",
+      "Mega Latios"
+    ]
+  },
+  {
+    "id": "kyogre",
+    "name": "Kyogre",
+    "forms": [
+      "Kyogre",
+      "✨ Kyogre",
+      "Shadow Kyogre",
+      "Purified Kyogre",
+      "Primal Kyogre"
+    ]
+  },
+  {
+    "id": "groudon",
+    "name": "Groudon",
+    "forms": [
+      "Groudon",
+      "✨ Groudon",
+      "Shadow Groudon",
+      "Purified Groudon",
+      "Primal Groudon"
+    ]
+  },
+  {
+    "id": "rayquaza",
+    "name": "Rayquaza",
+    "forms": [
+      "Rayquaza",
+      "✨ Rayquaza",
+      "Shadow Rayquaza",
+      "Purified Rayquaza",
+      "Mega Rayquaza"
+    ]
+  },
+  {
+    "id": "jirachi",
+    "name": "Jirachi",
+    "forms": [
+      "Jirachi",
+      "✨ Jirachi",
+      "Shadow Jirachi",
+      "Purified Jirachi"
+    ]
+  },
+  {
+    "id": "deoxys",
+    "name": "Deoxys",
+    "forms": [
+      "Deoxys",
+      "✨ Deoxys",
+      "Shadow Deoxys",
+      "Purified Deoxys",
+      "Deoxys (Normal)",
+      "Deoxys (Attack)",
+      "Deoxys (Defense)",
+      "Deoxys (Speed)"
+    ]
+  },
+  {
+    "id": "turtwig",
+    "name": "Turtwig",
+    "forms": [
+      "Turtwig",
+      "✨ Turtwig",
+      "Shadow Turtwig",
+      "Purified Turtwig"
+    ]
+  },
+  {
+    "id": "grotle",
+    "name": "Grotle",
+    "forms": [
+      "Grotle",
+      "✨ Grotle",
+      "Shadow Grotle",
+      "Purified Grotle"
+    ]
+  },
+  {
+    "id": "torterra",
+    "name": "Torterra",
+    "forms": [
+      "Torterra",
+      "✨ Torterra",
+      "Shadow Torterra",
+      "Purified Torterra"
+    ]
+  },
+  {
+    "id": "chimchar",
+    "name": "Chimchar",
+    "forms": [
+      "Chimchar",
+      "✨ Chimchar",
+      "Shadow Chimchar",
+      "Purified Chimchar"
+    ]
+  },
+  {
+    "id": "monferno",
+    "name": "Monferno",
+    "forms": [
+      "Monferno",
+      "✨ Monferno",
+      "Shadow Monferno",
+      "Purified Monferno"
+    ]
+  },
+  {
+    "id": "infernape",
+    "name": "Infernape",
+    "forms": [
+      "Infernape",
+      "✨ Infernape",
+      "Shadow Infernape",
+      "Purified Infernape"
+    ]
+  },
+  {
+    "id": "piplup",
+    "name": "Piplup",
+    "forms": [
+      "Piplup",
+      "✨ Piplup",
+      "Shadow Piplup",
+      "Purified Piplup"
+    ]
+  },
+  {
+    "id": "prinplup",
+    "name": "Prinplup",
+    "forms": [
+      "Prinplup",
+      "✨ Prinplup",
+      "Shadow Prinplup",
+      "Purified Prinplup"
+    ]
+  },
+  {
+    "id": "empoleon",
+    "name": "Empoleon",
+    "forms": [
+      "Empoleon",
+      "✨ Empoleon",
+      "Shadow Empoleon",
+      "Purified Empoleon"
+    ]
+  },
+  {
+    "id": "starly",
+    "name": "Starly",
+    "forms": [
+      "Starly",
+      "✨ Starly",
+      "Shadow Starly",
+      "Purified Starly"
+    ]
+  },
+  {
+    "id": "staravia",
+    "name": "Staravia",
+    "forms": [
+      "Staravia",
+      "✨ Staravia",
+      "Shadow Staravia",
+      "Purified Staravia"
+    ]
+  },
+  {
+    "id": "staraptor",
+    "name": "Staraptor",
+    "forms": [
+      "Staraptor",
+      "✨ Staraptor",
+      "Shadow Staraptor",
+      "Purified Staraptor"
+    ]
+  },
+  {
+    "id": "bidoof",
+    "name": "Bidoof",
+    "forms": [
+      "Bidoof",
+      "✨ Bidoof",
+      "Shadow Bidoof",
+      "Purified Bidoof"
+    ]
+  },
+  {
+    "id": "bibarel",
+    "name": "Bibarel",
+    "forms": [
+      "Bibarel",
+      "✨ Bibarel",
+      "Shadow Bibarel",
+      "Purified Bibarel"
+    ]
+  },
+  {
+    "id": "kricketot",
+    "name": "Kricketot",
+    "forms": [
+      "Kricketot",
+      "✨ Kricketot",
+      "Shadow Kricketot",
+      "Purified Kricketot"
+    ]
+  },
+  {
+    "id": "kricketune",
+    "name": "Kricketune",
+    "forms": [
+      "Kricketune",
+      "✨ Kricketune",
+      "Shadow Kricketune",
+      "Purified Kricketune"
+    ]
+  },
+  {
+    "id": "shinx",
+    "name": "Shinx",
+    "forms": [
+      "Shinx",
+      "✨ Shinx",
+      "Shadow Shinx",
+      "Purified Shinx"
+    ]
+  },
+  {
+    "id": "luxio",
+    "name": "Luxio",
+    "forms": [
+      "Luxio",
+      "✨ Luxio",
+      "Shadow Luxio",
+      "Purified Luxio"
+    ]
+  },
+  {
+    "id": "luxray",
+    "name": "Luxray",
+    "forms": [
+      "Luxray",
+      "✨ Luxray",
+      "Shadow Luxray",
+      "Purified Luxray"
+    ]
+  },
+  {
+    "id": "budew",
+    "name": "Budew",
+    "forms": [
+      "Budew",
+      "✨ Budew",
+      "Shadow Budew",
+      "Purified Budew"
+    ]
+  },
+  {
+    "id": "roserade",
+    "name": "Roserade",
+    "forms": [
+      "Roserade",
+      "✨ Roserade",
+      "Shadow Roserade",
+      "Purified Roserade"
+    ]
+  },
+  {
+    "id": "cranidos",
+    "name": "Cranidos",
+    "forms": [
+      "Cranidos",
+      "✨ Cranidos",
+      "Shadow Cranidos",
+      "Purified Cranidos"
+    ]
+  },
+  {
+    "id": "rampardos",
+    "name": "Rampardos",
+    "forms": [
+      "Rampardos",
+      "✨ Rampardos",
+      "Shadow Rampardos",
+      "Purified Rampardos"
+    ]
+  },
+  {
+    "id": "shieldon",
+    "name": "Shieldon",
+    "forms": [
+      "Shieldon",
+      "✨ Shieldon",
+      "Shadow Shieldon",
+      "Purified Shieldon"
+    ]
+  },
+  {
+    "id": "bastiodon",
+    "name": "Bastiodon",
+    "forms": [
+      "Bastiodon",
+      "✨ Bastiodon",
+      "Shadow Bastiodon",
+      "Purified Bastiodon"
+    ]
+  },
+  {
+    "id": "burmy",
+    "name": "Burmy",
+    "forms": [
+      "Burmy",
+      "✨ Burmy",
+      "Shadow Burmy",
+      "Purified Burmy"
+    ]
+  },
+  {
+    "id": "wormadam",
+    "name": "Wormadam",
+    "forms": [
+      "Wormadam",
+      "✨ Wormadam",
+      "Shadow Wormadam",
+      "Purified Wormadam"
+    ]
+  },
+  {
+    "id": "mothim",
+    "name": "Mothim",
+    "forms": [
+      "Mothim",
+      "✨ Mothim",
+      "Shadow Mothim",
+      "Purified Mothim"
+    ]
+  },
+  {
+    "id": "combee",
+    "name": "Combee",
+    "forms": [
+      "Combee",
+      "✨ Combee",
+      "Shadow Combee",
+      "Purified Combee"
+    ]
+  },
+  {
+    "id": "vespiquen",
+    "name": "Vespiquen",
+    "forms": [
+      "Vespiquen",
+      "✨ Vespiquen",
+      "Shadow Vespiquen",
+      "Purified Vespiquen"
+    ]
+  },
+  {
+    "id": "pachirisu",
+    "name": "Pachirisu",
+    "forms": [
+      "Pachirisu",
+      "✨ Pachirisu",
+      "Shadow Pachirisu",
+      "Purified Pachirisu"
+    ]
+  },
+  {
+    "id": "buizel",
+    "name": "Buizel",
+    "forms": [
+      "Buizel",
+      "✨ Buizel",
+      "Shadow Buizel",
+      "Purified Buizel"
+    ]
+  },
+  {
+    "id": "floatzel",
+    "name": "Floatzel",
+    "forms": [
+      "Floatzel",
+      "✨ Floatzel",
+      "Shadow Floatzel",
+      "Purified Floatzel"
+    ]
+  },
+  {
+    "id": "cherubi",
+    "name": "Cherubi",
+    "forms": [
+      "Cherubi",
+      "✨ Cherubi",
+      "Shadow Cherubi",
+      "Purified Cherubi"
+    ]
+  },
+  {
+    "id": "cherrim",
+    "name": "Cherrim",
+    "forms": [
+      "Cherrim",
+      "✨ Cherrim",
+      "Shadow Cherrim",
+      "Purified Cherrim"
+    ]
+  },
+  {
+    "id": "shellos",
+    "name": "Shellos",
+    "forms": [
+      "Shellos",
+      "✨ Shellos",
+      "Shadow Shellos",
+      "Purified Shellos"
+    ]
+  },
+  {
+    "id": "gastrodon",
+    "name": "Gastrodon",
+    "forms": [
+      "Gastrodon",
+      "✨ Gastrodon",
+      "Shadow Gastrodon",
+      "Purified Gastrodon"
+    ]
+  },
+  {
+    "id": "ambipom",
+    "name": "Ambipom",
+    "forms": [
+      "Ambipom",
+      "✨ Ambipom",
+      "Shadow Ambipom",
+      "Purified Ambipom"
+    ]
+  },
+  {
+    "id": "drifloon",
+    "name": "Drifloon",
+    "forms": [
+      "Drifloon",
+      "✨ Drifloon",
+      "Shadow Drifloon",
+      "Purified Drifloon"
+    ]
+  },
+  {
+    "id": "drifblim",
+    "name": "Drifblim",
+    "forms": [
+      "Drifblim",
+      "✨ Drifblim",
+      "Shadow Drifblim",
+      "Purified Drifblim"
+    ]
+  },
+  {
+    "id": "buneary",
+    "name": "Buneary",
+    "forms": [
+      "Buneary",
+      "✨ Buneary",
+      "Shadow Buneary",
+      "Purified Buneary",
+      "Flower Crown Buneary"
+    ]
+  },
+  {
+    "id": "lopunny",
+    "name": "Lopunny",
+    "forms": [
+      "Lopunny",
+      "✨ Lopunny",
+      "Shadow Lopunny",
+      "Purified Lopunny",
+      "Flower Crown Lopunny"
+    ]
+  },
+  {
+    "id": "mismagius",
+    "name": "Mismagius",
+    "forms": [
+      "Mismagius",
+      "✨ Mismagius",
+      "Shadow Mismagius",
+      "Purified Mismagius"
+    ]
+  },
+  {
+    "id": "honchkrow",
+    "name": "Honchkrow",
+    "forms": [
+      "Honchkrow",
+      "✨ Honchkrow",
+      "Shadow Honchkrow",
+      "Purified Honchkrow"
+    ]
+  },
+  {
+    "id": "glameow",
+    "name": "Glameow",
+    "forms": [
+      "Glameow",
+      "✨ Glameow",
+      "Shadow Glameow",
+      "Purified Glameow"
+    ]
+  },
+  {
+    "id": "purugly",
+    "name": "Purugly",
+    "forms": [
+      "Purugly",
+      "✨ Purugly",
+      "Shadow Purugly",
+      "Purified Purugly"
+    ]
+  },
+  {
+    "id": "chingling",
+    "name": "Chingling",
+    "forms": [
+      "Chingling",
+      "✨ Chingling",
+      "Shadow Chingling",
+      "Purified Chingling"
+    ]
+  },
+  {
+    "id": "stunky",
+    "name": "Stunky",
+    "forms": [
+      "Stunky",
+      "✨ Stunky",
+      "Shadow Stunky",
+      "Purified Stunky"
+    ]
+  },
+  {
+    "id": "skuntank",
+    "name": "Skuntank",
+    "forms": [
+      "Skuntank",
+      "✨ Skuntank",
+      "Shadow Skuntank",
+      "Purified Skuntank"
+    ]
+  },
+  {
+    "id": "bronzor",
+    "name": "Bronzor",
+    "forms": [
+      "Bronzor",
+      "✨ Bronzor",
+      "Shadow Bronzor",
+      "Purified Bronzor"
+    ]
+  },
+  {
+    "id": "bronzong",
+    "name": "Bronzong",
+    "forms": [
+      "Bronzong",
+      "✨ Bronzong",
+      "Shadow Bronzong",
+      "Purified Bronzong"
+    ]
+  },
+  {
+    "id": "bonsly",
+    "name": "Bonsly",
+    "forms": [
+      "Bonsly",
+      "✨ Bonsly",
+      "Shadow Bonsly",
+      "Purified Bonsly"
+    ]
+  },
+  {
+    "id": "mime_jr",
+    "name": "Mime Jr.",
+    "forms": [
+      "Mime Jr.",
+      "✨ Mime Jr.",
+      "Shadow Mime Jr.",
+      "Purified Mime Jr."
+    ]
+  },
+  {
+    "id": "happiny",
+    "name": "Happiny",
+    "forms": [
+      "Happiny",
+      "✨ Happiny",
+      "Shadow Happiny",
+      "Purified Happiny"
+    ]
+  },
+  {
+    "id": "chatot",
+    "name": "Chatot",
+    "forms": [
+      "Chatot",
+      "✨ Chatot",
+      "Shadow Chatot",
+      "Purified Chatot"
+    ]
+  },
+  {
+    "id": "spiritomb",
+    "name": "Spiritomb",
+    "forms": [
+      "Spiritomb",
+      "✨ Spiritomb",
+      "Shadow Spiritomb",
+      "Purified Spiritomb"
+    ]
+  },
+  {
+    "id": "gible",
+    "name": "Gible",
+    "forms": [
+      "Gible",
+      "✨ Gible",
+      "Shadow Gible",
+      "Purified Gible"
+    ]
+  },
+  {
+    "id": "gabite",
+    "name": "Gabite",
+    "forms": [
+      "Gabite",
+      "✨ Gabite",
+      "Shadow Gabite",
+      "Purified Gabite"
+    ]
+  },
+  {
+    "id": "garchomp",
+    "name": "Garchomp",
+    "forms": [
+      "Garchomp",
+      "✨ Garchomp",
+      "Shadow Garchomp",
+      "Purified Garchomp",
+      "Mega Garchomp"
+    ]
+  },
+  {
+    "id": "munchlax",
+    "name": "Munchlax",
+    "forms": [
+      "Munchlax",
+      "✨ Munchlax",
+      "Shadow Munchlax",
+      "Purified Munchlax"
+    ]
+  },
+  {
+    "id": "riolu",
+    "name": "Riolu",
+    "forms": [
+      "Riolu",
+      "✨ Riolu",
+      "Shadow Riolu",
+      "Purified Riolu"
+    ]
+  },
+  {
+    "id": "lucario",
+    "name": "Lucario",
+    "forms": [
+      "Lucario",
+      "✨ Lucario",
+      "Shadow Lucario",
+      "Purified Lucario",
+      "Mega Lucario",
+      "Event Costume Lucario"
+    ]
+  },
+  {
+    "id": "hippopotas",
+    "name": "Hippopotas",
+    "forms": [
+      "Hippopotas",
+      "✨ Hippopotas",
+      "Shadow Hippopotas",
+      "Purified Hippopotas"
+    ]
+  },
+  {
+    "id": "hippowdon",
+    "name": "Hippowdon",
+    "forms": [
+      "Hippowdon",
+      "✨ Hippowdon",
+      "Shadow Hippowdon",
+      "Purified Hippowdon"
+    ]
+  },
+  {
+    "id": "skorupi",
+    "name": "Skorupi",
+    "forms": [
+      "Skorupi",
+      "✨ Skorupi",
+      "Shadow Skorupi",
+      "Purified Skorupi"
+    ]
+  },
+  {
+    "id": "drapion",
+    "name": "Drapion",
+    "forms": [
+      "Drapion",
+      "✨ Drapion",
+      "Shadow Drapion",
+      "Purified Drapion"
+    ]
+  },
+  {
+    "id": "croagunk",
+    "name": "Croagunk",
+    "forms": [
+      "Croagunk",
+      "✨ Croagunk",
+      "Shadow Croagunk",
+      "Purified Croagunk"
+    ]
+  },
+  {
+    "id": "toxicroak",
+    "name": "Toxicroak",
+    "forms": [
+      "Toxicroak",
+      "✨ Toxicroak",
+      "Shadow Toxicroak",
+      "Purified Toxicroak"
+    ]
+  },
+  {
+    "id": "carnivine",
+    "name": "Carnivine",
+    "forms": [
+      "Carnivine",
+      "✨ Carnivine",
+      "Shadow Carnivine",
+      "Purified Carnivine"
+    ]
+  },
+  {
+    "id": "finneon",
+    "name": "Finneon",
+    "forms": [
+      "Finneon",
+      "✨ Finneon",
+      "Shadow Finneon",
+      "Purified Finneon"
+    ]
+  },
+  {
+    "id": "lumineon",
+    "name": "Lumineon",
+    "forms": [
+      "Lumineon",
+      "✨ Lumineon",
+      "Shadow Lumineon",
+      "Purified Lumineon"
+    ]
+  },
+  {
+    "id": "mantyke",
+    "name": "Mantyke",
+    "forms": [
+      "Mantyke",
+      "✨ Mantyke",
+      "Shadow Mantyke",
+      "Purified Mantyke"
+    ]
+  },
+  {
+    "id": "snover",
+    "name": "Snover",
+    "forms": [
+      "Snover",
+      "✨ Snover",
+      "Shadow Snover",
+      "Purified Snover"
+    ]
+  },
+  {
+    "id": "abomasnow",
+    "name": "Abomasnow",
+    "forms": [
+      "Abomasnow",
+      "✨ Abomasnow",
+      "Shadow Abomasnow",
+      "Purified Abomasnow",
+      "Mega Abomasnow"
+    ]
+  },
+  {
+    "id": "weavile",
+    "name": "Weavile",
+    "forms": [
+      "Weavile",
+      "✨ Weavile",
+      "Shadow Weavile",
+      "Purified Weavile"
+    ]
+  },
+  {
+    "id": "magnezone",
+    "name": "Magnezone",
+    "forms": [
+      "Magnezone",
+      "✨ Magnezone",
+      "Shadow Magnezone",
+      "Purified Magnezone"
+    ]
+  },
+  {
+    "id": "lickilicky",
+    "name": "Lickilicky",
+    "forms": [
+      "Lickilicky",
+      "✨ Lickilicky",
+      "Shadow Lickilicky",
+      "Purified Lickilicky"
+    ]
+  },
+  {
+    "id": "rhyperior",
+    "name": "Rhyperior",
+    "forms": [
+      "Rhyperior",
+      "✨ Rhyperior",
+      "Shadow Rhyperior",
+      "Purified Rhyperior"
+    ]
+  },
+  {
+    "id": "tangrowth",
+    "name": "Tangrowth",
+    "forms": [
+      "Tangrowth",
+      "✨ Tangrowth",
+      "Shadow Tangrowth",
+      "Purified Tangrowth"
+    ]
+  },
+  {
+    "id": "electivire",
+    "name": "Electivire",
+    "forms": [
+      "Electivire",
+      "✨ Electivire",
+      "Shadow Electivire",
+      "Purified Electivire"
+    ]
+  },
+  {
+    "id": "magmortar",
+    "name": "Magmortar",
+    "forms": [
+      "Magmortar",
+      "✨ Magmortar",
+      "Shadow Magmortar",
+      "Purified Magmortar"
+    ]
+  },
+  {
+    "id": "togekiss",
+    "name": "Togekiss",
+    "forms": [
+      "Togekiss",
+      "✨ Togekiss",
+      "Shadow Togekiss",
+      "Purified Togekiss"
+    ]
+  },
+  {
+    "id": "yanmega",
+    "name": "Yanmega",
+    "forms": [
+      "Yanmega",
+      "✨ Yanmega",
+      "Shadow Yanmega",
+      "Purified Yanmega"
+    ]
+  },
+  {
+    "id": "leafeon",
+    "name": "Leafeon",
+    "forms": [
+      "Leafeon",
+      "✨ Leafeon",
+      "Shadow Leafeon",
+      "Purified Leafeon"
+    ]
+  },
+  {
+    "id": "glaceon",
+    "name": "Glaceon",
+    "forms": [
+      "Glaceon",
+      "✨ Glaceon",
+      "Shadow Glaceon",
+      "Purified Glaceon"
+    ]
+  },
+  {
+    "id": "gliscor",
+    "name": "Gliscor",
+    "forms": [
+      "Gliscor",
+      "✨ Gliscor",
+      "Shadow Gliscor",
+      "Purified Gliscor"
+    ]
+  },
+  {
+    "id": "mamoswine",
+    "name": "Mamoswine",
+    "forms": [
+      "Mamoswine",
+      "✨ Mamoswine",
+      "Shadow Mamoswine",
+      "Purified Mamoswine"
+    ]
+  },
+  {
+    "id": "porygon_z",
+    "name": "Porygon-Z",
+    "forms": [
+      "Porygon-Z",
+      "✨ Porygon-Z",
+      "Shadow Porygon-Z",
+      "Purified Porygon-Z"
+    ]
+  },
+  {
+    "id": "gallade",
+    "name": "Gallade",
+    "forms": [
+      "Gallade",
+      "✨ Gallade",
+      "Shadow Gallade",
+      "Purified Gallade"
+    ]
+  },
+  {
+    "id": "probopass",
+    "name": "Probopass",
+    "forms": [
+      "Probopass",
+      "✨ Probopass",
+      "Shadow Probopass",
+      "Purified Probopass"
+    ]
+  },
+  {
+    "id": "dusknoir",
+    "name": "Dusknoir",
+    "forms": [
+      "Dusknoir",
+      "✨ Dusknoir",
+      "Shadow Dusknoir",
+      "Purified Dusknoir"
+    ]
+  },
+  {
+    "id": "froslass",
+    "name": "Froslass",
+    "forms": [
+      "Froslass",
+      "✨ Froslass",
+      "Shadow Froslass",
+      "Purified Froslass"
+    ]
+  },
+  {
+    "id": "rotom",
+    "name": "Rotom",
+    "forms": [
+      "Rotom",
+      "✨ Rotom",
+      "Shadow Rotom",
+      "Purified Rotom",
+      "Rotom (Heat)",
+      "Rotom (Wash)",
+      "Rotom (Frost)",
+      "Rotom (Fan)",
+      "Rotom (Mow)"
+    ]
+  },
+  {
+    "id": "uxie",
+    "name": "Uxie",
+    "forms": [
+      "Uxie",
+      "✨ Uxie",
+      "Shadow Uxie",
+      "Purified Uxie"
+    ]
+  },
+  {
+    "id": "mesprit",
+    "name": "Mesprit",
+    "forms": [
+      "Mesprit",
+      "✨ Mesprit",
+      "Shadow Mesprit",
+      "Purified Mesprit"
+    ]
+  },
+  {
+    "id": "azelf",
+    "name": "Azelf",
+    "forms": [
+      "Azelf",
+      "✨ Azelf",
+      "Shadow Azelf",
+      "Purified Azelf"
+    ]
+  },
+  {
+    "id": "dialga",
+    "name": "Dialga",
+    "forms": [
+      "Dialga",
+      "✨ Dialga",
+      "Shadow Dialga",
+      "Purified Dialga",
+      "Origin Dialga"
+    ]
+  },
+  {
+    "id": "palkia",
+    "name": "Palkia",
+    "forms": [
+      "Palkia",
+      "✨ Palkia",
+      "Shadow Palkia",
+      "Purified Palkia",
+      "Origin Palkia"
+    ]
+  },
+  {
+    "id": "heatran",
+    "name": "Heatran",
+    "forms": [
+      "Heatran",
+      "✨ Heatran",
+      "Shadow Heatran",
+      "Purified Heatran"
+    ]
+  },
+  {
+    "id": "regigigas",
+    "name": "Regigigas",
+    "forms": [
+      "Regigigas",
+      "✨ Regigigas",
+      "Shadow Regigigas",
+      "Purified Regigigas"
+    ]
+  },
+  {
+    "id": "giratina",
+    "name": "Giratina",
+    "forms": [
+      "Giratina",
+      "✨ Giratina",
+      "Shadow Giratina",
+      "Purified Giratina",
+      "Giratina (Altered)",
+      "Giratina (Origin)"
+    ]
+  },
+  {
+    "id": "cresselia",
+    "name": "Cresselia",
+    "forms": [
+      "Cresselia",
+      "✨ Cresselia",
+      "Shadow Cresselia",
+      "Purified Cresselia"
+    ]
+  },
+  {
+    "id": "phione",
+    "name": "Phione",
+    "forms": [
+      "Phione",
+      "✨ Phione",
+      "Shadow Phione",
+      "Purified Phione"
+    ]
+  },
+  {
+    "id": "manaphy",
+    "name": "Manaphy",
+    "forms": [
+      "Manaphy",
+      "✨ Manaphy",
+      "Shadow Manaphy",
+      "Purified Manaphy"
+    ]
+  },
+  {
+    "id": "darkrai",
+    "name": "Darkrai",
+    "forms": [
+      "Darkrai",
+      "✨ Darkrai",
+      "Shadow Darkrai",
+      "Purified Darkrai"
+    ]
+  },
+  {
+    "id": "shaymin",
+    "name": "Shaymin",
+    "forms": [
+      "Shaymin",
+      "✨ Shaymin",
+      "Shadow Shaymin",
+      "Purified Shaymin",
+      "Shaymin (Land)",
+      "Shaymin (Sky)"
+    ]
+  },
+  {
+    "id": "arceus",
+    "name": "Arceus",
+    "forms": [
+      "Arceus",
+      "✨ Arceus",
+      "Shadow Arceus",
+      "Purified Arceus"
+    ]
+  },
+  {
+    "id": "victini",
+    "name": "Victini",
+    "forms": [
+      "Victini",
+      "✨ Victini",
+      "Shadow Victini",
+      "Purified Victini"
+    ]
+  },
+  {
+    "id": "snivy",
+    "name": "Snivy",
+    "forms": [
+      "Snivy",
+      "✨ Snivy",
+      "Shadow Snivy",
+      "Purified Snivy"
+    ]
+  },
+  {
+    "id": "servine",
+    "name": "Servine",
+    "forms": [
+      "Servine",
+      "✨ Servine",
+      "Shadow Servine",
+      "Purified Servine"
+    ]
+  },
+  {
+    "id": "serperior",
+    "name": "Serperior",
+    "forms": [
+      "Serperior",
+      "✨ Serperior",
+      "Shadow Serperior",
+      "Purified Serperior"
+    ]
+  },
+  {
+    "id": "tepig",
+    "name": "Tepig",
+    "forms": [
+      "Tepig",
+      "✨ Tepig",
+      "Shadow Tepig",
+      "Purified Tepig"
+    ]
+  },
+  {
+    "id": "pignite",
+    "name": "Pignite",
+    "forms": [
+      "Pignite",
+      "✨ Pignite",
+      "Shadow Pignite",
+      "Purified Pignite"
+    ]
+  },
+  {
+    "id": "emboar",
+    "name": "Emboar",
+    "forms": [
+      "Emboar",
+      "✨ Emboar",
+      "Shadow Emboar",
+      "Purified Emboar"
+    ]
+  },
+  {
+    "id": "oshawott",
+    "name": "Oshawott",
+    "forms": [
+      "Oshawott",
+      "✨ Oshawott",
+      "Shadow Oshawott",
+      "Purified Oshawott"
+    ]
+  },
+  {
+    "id": "dewott",
+    "name": "Dewott",
+    "forms": [
+      "Dewott",
+      "✨ Dewott",
+      "Shadow Dewott",
+      "Purified Dewott"
+    ]
+  },
+  {
+    "id": "samurott",
+    "name": "Samurott",
+    "forms": [
+      "Samurott",
+      "✨ Samurott",
+      "Shadow Samurott",
+      "Purified Samurott"
+    ]
+  },
+  {
+    "id": "patrat",
+    "name": "Patrat",
+    "forms": [
+      "Patrat",
+      "✨ Patrat",
+      "Shadow Patrat",
+      "Purified Patrat"
+    ]
+  },
+  {
+    "id": "watchog",
+    "name": "Watchog",
+    "forms": [
+      "Watchog",
+      "✨ Watchog",
+      "Shadow Watchog",
+      "Purified Watchog"
+    ]
+  },
+  {
+    "id": "lillipup",
+    "name": "Lillipup",
+    "forms": [
+      "Lillipup",
+      "✨ Lillipup",
+      "Shadow Lillipup",
+      "Purified Lillipup"
+    ]
+  },
+  {
+    "id": "herdier",
+    "name": "Herdier",
+    "forms": [
+      "Herdier",
+      "✨ Herdier",
+      "Shadow Herdier",
+      "Purified Herdier"
+    ]
+  },
+  {
+    "id": "stoutland",
+    "name": "Stoutland",
+    "forms": [
+      "Stoutland",
+      "✨ Stoutland",
+      "Shadow Stoutland",
+      "Purified Stoutland"
+    ]
+  },
+  {
+    "id": "purrloin",
+    "name": "Purrloin",
+    "forms": [
+      "Purrloin",
+      "✨ Purrloin",
+      "Shadow Purrloin",
+      "Purified Purrloin"
+    ]
+  },
+  {
+    "id": "liepard",
+    "name": "Liepard",
+    "forms": [
+      "Liepard",
+      "✨ Liepard",
+      "Shadow Liepard",
+      "Purified Liepard"
+    ]
+  },
+  {
+    "id": "pansage",
+    "name": "Pansage",
+    "forms": [
+      "Pansage",
+      "✨ Pansage",
+      "Shadow Pansage",
+      "Purified Pansage"
+    ]
+  },
+  {
+    "id": "simisage",
+    "name": "Simisage",
+    "forms": [
+      "Simisage",
+      "✨ Simisage",
+      "Shadow Simisage",
+      "Purified Simisage"
+    ]
+  },
+  {
+    "id": "pansear",
+    "name": "Pansear",
+    "forms": [
+      "Pansear",
+      "✨ Pansear",
+      "Shadow Pansear",
+      "Purified Pansear"
+    ]
+  },
+  {
+    "id": "simisear",
+    "name": "Simisear",
+    "forms": [
+      "Simisear",
+      "✨ Simisear",
+      "Shadow Simisear",
+      "Purified Simisear"
+    ]
+  },
+  {
+    "id": "panpour",
+    "name": "Panpour",
+    "forms": [
+      "Panpour",
+      "✨ Panpour",
+      "Shadow Panpour",
+      "Purified Panpour"
+    ]
+  },
+  {
+    "id": "simipour",
+    "name": "Simipour",
+    "forms": [
+      "Simipour",
+      "✨ Simipour",
+      "Shadow Simipour",
+      "Purified Simipour"
+    ]
+  },
+  {
+    "id": "munna",
+    "name": "Munna",
+    "forms": [
+      "Munna",
+      "✨ Munna",
+      "Shadow Munna",
+      "Purified Munna"
+    ]
+  },
+  {
+    "id": "musharna",
+    "name": "Musharna",
+    "forms": [
+      "Musharna",
+      "✨ Musharna",
+      "Shadow Musharna",
+      "Purified Musharna"
+    ]
+  },
+  {
+    "id": "pidove",
+    "name": "Pidove",
+    "forms": [
+      "Pidove",
+      "✨ Pidove",
+      "Shadow Pidove",
+      "Purified Pidove"
+    ]
+  },
+  {
+    "id": "tranquill",
+    "name": "Tranquill",
+    "forms": [
+      "Tranquill",
+      "✨ Tranquill",
+      "Shadow Tranquill",
+      "Purified Tranquill"
+    ]
+  },
+  {
+    "id": "unfezant",
+    "name": "Unfezant",
+    "forms": [
+      "Unfezant",
+      "✨ Unfezant",
+      "Shadow Unfezant",
+      "Purified Unfezant"
+    ]
+  },
+  {
+    "id": "blitzle",
+    "name": "Blitzle",
+    "forms": [
+      "Blitzle",
+      "✨ Blitzle",
+      "Shadow Blitzle",
+      "Purified Blitzle"
+    ]
+  },
+  {
+    "id": "zebstrika",
+    "name": "Zebstrika",
+    "forms": [
+      "Zebstrika",
+      "✨ Zebstrika",
+      "Shadow Zebstrika",
+      "Purified Zebstrika"
+    ]
+  },
+  {
+    "id": "roggenrola",
+    "name": "Roggenrola",
+    "forms": [
+      "Roggenrola",
+      "✨ Roggenrola",
+      "Shadow Roggenrola",
+      "Purified Roggenrola"
+    ]
+  },
+  {
+    "id": "boldore",
+    "name": "Boldore",
+    "forms": [
+      "Boldore",
+      "✨ Boldore",
+      "Shadow Boldore",
+      "Purified Boldore"
+    ]
+  },
+  {
+    "id": "gigalith",
+    "name": "Gigalith",
+    "forms": [
+      "Gigalith",
+      "✨ Gigalith",
+      "Shadow Gigalith",
+      "Purified Gigalith"
+    ]
+  },
+  {
+    "id": "woobat",
+    "name": "Woobat",
+    "forms": [
+      "Woobat",
+      "✨ Woobat",
+      "Shadow Woobat",
+      "Purified Woobat"
+    ]
+  },
+  {
+    "id": "swoobat",
+    "name": "Swoobat",
+    "forms": [
+      "Swoobat",
+      "✨ Swoobat",
+      "Shadow Swoobat",
+      "Purified Swoobat"
+    ]
+  },
+  {
+    "id": "drilbur",
+    "name": "Drilbur",
+    "forms": [
+      "Drilbur",
+      "✨ Drilbur",
+      "Shadow Drilbur",
+      "Purified Drilbur"
+    ]
+  },
+  {
+    "id": "excadrill",
+    "name": "Excadrill",
+    "forms": [
+      "Excadrill",
+      "✨ Excadrill",
+      "Shadow Excadrill",
+      "Purified Excadrill"
+    ]
+  },
+  {
+    "id": "audino",
+    "name": "Audino",
+    "forms": [
+      "Audino",
+      "✨ Audino",
+      "Shadow Audino",
+      "Purified Audino"
+    ]
+  },
+  {
+    "id": "timburr",
+    "name": "Timburr",
+    "forms": [
+      "Timburr",
+      "✨ Timburr",
+      "Shadow Timburr",
+      "Purified Timburr"
+    ]
+  },
+  {
+    "id": "gurdurr",
+    "name": "Gurdurr",
+    "forms": [
+      "Gurdurr",
+      "✨ Gurdurr",
+      "Shadow Gurdurr",
+      "Purified Gurdurr"
+    ]
+  },
+  {
+    "id": "conkeldurr",
+    "name": "Conkeldurr",
+    "forms": [
+      "Conkeldurr",
+      "✨ Conkeldurr",
+      "Shadow Conkeldurr",
+      "Purified Conkeldurr"
+    ]
+  },
+  {
+    "id": "tympole",
+    "name": "Tympole",
+    "forms": [
+      "Tympole",
+      "✨ Tympole",
+      "Shadow Tympole",
+      "Purified Tympole"
+    ]
+  },
+  {
+    "id": "palpitoad",
+    "name": "Palpitoad",
+    "forms": [
+      "Palpitoad",
+      "✨ Palpitoad",
+      "Shadow Palpitoad",
+      "Purified Palpitoad"
+    ]
+  },
+  {
+    "id": "seismitoad",
+    "name": "Seismitoad",
+    "forms": [
+      "Seismitoad",
+      "✨ Seismitoad",
+      "Shadow Seismitoad",
+      "Purified Seismitoad"
+    ]
+  },
+  {
+    "id": "throh",
+    "name": "Throh",
+    "forms": [
+      "Throh",
+      "✨ Throh",
+      "Shadow Throh",
+      "Purified Throh"
+    ]
+  },
+  {
+    "id": "sawk",
+    "name": "Sawk",
+    "forms": [
+      "Sawk",
+      "✨ Sawk",
+      "Shadow Sawk",
+      "Purified Sawk"
+    ]
+  },
+  {
+    "id": "sewaddle",
+    "name": "Sewaddle",
+    "forms": [
+      "Sewaddle",
+      "✨ Sewaddle",
+      "Shadow Sewaddle",
+      "Purified Sewaddle"
+    ]
+  },
+  {
+    "id": "swadloon",
+    "name": "Swadloon",
+    "forms": [
+      "Swadloon",
+      "✨ Swadloon",
+      "Shadow Swadloon",
+      "Purified Swadloon"
+    ]
+  },
+  {
+    "id": "leavanny",
+    "name": "Leavanny",
+    "forms": [
+      "Leavanny",
+      "✨ Leavanny",
+      "Shadow Leavanny",
+      "Purified Leavanny"
+    ]
+  },
+  {
+    "id": "venipede",
+    "name": "Venipede",
+    "forms": [
+      "Venipede",
+      "✨ Venipede",
+      "Shadow Venipede",
+      "Purified Venipede"
+    ]
+  },
+  {
+    "id": "whirlipede",
+    "name": "Whirlipede",
+    "forms": [
+      "Whirlipede",
+      "✨ Whirlipede",
+      "Shadow Whirlipede",
+      "Purified Whirlipede"
+    ]
+  },
+  {
+    "id": "scolipede",
+    "name": "Scolipede",
+    "forms": [
+      "Scolipede",
+      "✨ Scolipede",
+      "Shadow Scolipede",
+      "Purified Scolipede"
+    ]
+  },
+  {
+    "id": "cottonee",
+    "name": "Cottonee",
+    "forms": [
+      "Cottonee",
+      "✨ Cottonee",
+      "Shadow Cottonee",
+      "Purified Cottonee"
+    ]
+  },
+  {
+    "id": "whimsicott",
+    "name": "Whimsicott",
+    "forms": [
+      "Whimsicott",
+      "✨ Whimsicott",
+      "Shadow Whimsicott",
+      "Purified Whimsicott"
+    ]
+  },
+  {
+    "id": "petilil",
+    "name": "Petilil",
+    "forms": [
+      "Petilil",
+      "✨ Petilil",
+      "Shadow Petilil",
+      "Purified Petilil"
+    ]
+  },
+  {
+    "id": "lilligant",
+    "name": "Lilligant",
+    "forms": [
+      "Lilligant",
+      "✨ Lilligant",
+      "Shadow Lilligant",
+      "Purified Lilligant"
+    ]
+  },
+  {
+    "id": "basculin",
+    "name": "Basculin",
+    "forms": [
+      "Basculin",
+      "✨ Basculin",
+      "Shadow Basculin",
+      "Purified Basculin"
+    ]
+  },
+  {
+    "id": "sandile",
+    "name": "Sandile",
+    "forms": [
+      "Sandile",
+      "✨ Sandile",
+      "Shadow Sandile",
+      "Purified Sandile"
+    ]
+  },
+  {
+    "id": "krokorok",
+    "name": "Krokorok",
+    "forms": [
+      "Krokorok",
+      "✨ Krokorok",
+      "Shadow Krokorok",
+      "Purified Krokorok"
+    ]
+  },
+  {
+    "id": "krookodile",
+    "name": "Krookodile",
+    "forms": [
+      "Krookodile",
+      "✨ Krookodile",
+      "Shadow Krookodile",
+      "Purified Krookodile"
+    ]
+  },
+  {
+    "id": "darumaka",
+    "name": "Darumaka",
+    "forms": [
+      "Darumaka",
+      "✨ Darumaka",
+      "Shadow Darumaka",
+      "Purified Darumaka"
+    ]
+  },
+  {
+    "id": "darmanitan",
+    "name": "Darmanitan",
+    "forms": [
+      "Darmanitan",
+      "✨ Darmanitan",
+      "Shadow Darmanitan",
+      "Purified Darmanitan",
+      "Darmanitan (Standard)",
+      "Darmanitan (Zen)",
+      "Galarian Darmanitan",
+      "Galarian Darmanitan (Zen)"
+    ]
+  },
+  {
+    "id": "maractus",
+    "name": "Maractus",
+    "forms": [
+      "Maractus",
+      "✨ Maractus",
+      "Shadow Maractus",
+      "Purified Maractus"
+    ]
+  },
+  {
+    "id": "dwebble",
+    "name": "Dwebble",
+    "forms": [
+      "Dwebble",
+      "✨ Dwebble",
+      "Shadow Dwebble",
+      "Purified Dwebble"
+    ]
+  },
+  {
+    "id": "crustle",
+    "name": "Crustle",
+    "forms": [
+      "Crustle",
+      "✨ Crustle",
+      "Shadow Crustle",
+      "Purified Crustle"
+    ]
+  },
+  {
+    "id": "scraggy",
+    "name": "Scraggy",
+    "forms": [
+      "Scraggy",
+      "✨ Scraggy",
+      "Shadow Scraggy",
+      "Purified Scraggy"
+    ]
+  },
+  {
+    "id": "scrafty",
+    "name": "Scrafty",
+    "forms": [
+      "Scrafty",
+      "✨ Scrafty",
+      "Shadow Scrafty",
+      "Purified Scrafty"
+    ]
+  },
+  {
+    "id": "sigilyph",
+    "name": "Sigilyph",
+    "forms": [
+      "Sigilyph",
+      "✨ Sigilyph",
+      "Shadow Sigilyph",
+      "Purified Sigilyph"
+    ]
+  },
+  {
+    "id": "yamask",
+    "name": "Yamask",
+    "forms": [
+      "Yamask",
+      "✨ Yamask",
+      "Shadow Yamask",
+      "Purified Yamask",
+      "Galarian Yamask"
+    ]
+  },
+  {
+    "id": "cofagrigus",
+    "name": "Cofagrigus",
+    "forms": [
+      "Cofagrigus",
+      "✨ Cofagrigus",
+      "Shadow Cofagrigus",
+      "Purified Cofagrigus"
+    ]
+  },
+  {
+    "id": "tirtouga",
+    "name": "Tirtouga",
+    "forms": [
+      "Tirtouga",
+      "✨ Tirtouga",
+      "Shadow Tirtouga",
+      "Purified Tirtouga"
+    ]
+  },
+  {
+    "id": "carracosta",
+    "name": "Carracosta",
+    "forms": [
+      "Carracosta",
+      "✨ Carracosta",
+      "Shadow Carracosta",
+      "Purified Carracosta"
+    ]
+  },
+  {
+    "id": "archen",
+    "name": "Archen",
+    "forms": [
+      "Archen",
+      "✨ Archen",
+      "Shadow Archen",
+      "Purified Archen"
+    ]
+  },
+  {
+    "id": "archeops",
+    "name": "Archeops",
+    "forms": [
+      "Archeops",
+      "✨ Archeops",
+      "Shadow Archeops",
+      "Purified Archeops"
+    ]
+  },
+  {
+    "id": "trubbish",
+    "name": "Trubbish",
+    "forms": [
+      "Trubbish",
+      "✨ Trubbish",
+      "Shadow Trubbish",
+      "Purified Trubbish"
+    ]
+  },
+  {
+    "id": "garbodor",
+    "name": "Garbodor",
+    "forms": [
+      "Garbodor",
+      "✨ Garbodor",
+      "Shadow Garbodor",
+      "Purified Garbodor"
+    ]
+  },
+  {
+    "id": "zorua",
+    "name": "Zorua",
+    "forms": [
+      "Zorua",
+      "✨ Zorua",
+      "Shadow Zorua",
+      "Purified Zorua"
+    ]
+  },
+  {
+    "id": "zoroark",
+    "name": "Zoroark",
+    "forms": [
+      "Zoroark",
+      "✨ Zoroark",
+      "Shadow Zoroark",
+      "Purified Zoroark"
+    ]
+  },
+  {
+    "id": "minccino",
+    "name": "Minccino",
+    "forms": [
+      "Minccino",
+      "✨ Minccino",
+      "Shadow Minccino",
+      "Purified Minccino"
+    ]
+  },
+  {
+    "id": "cinccino",
+    "name": "Cinccino",
+    "forms": [
+      "Cinccino",
+      "✨ Cinccino",
+      "Shadow Cinccino",
+      "Purified Cinccino"
+    ]
+  },
+  {
+    "id": "gothita",
+    "name": "Gothita",
+    "forms": [
+      "Gothita",
+      "✨ Gothita",
+      "Shadow Gothita",
+      "Purified Gothita",
+      "Event Gothita"
+    ]
+  },
+  {
+    "id": "gothorita",
+    "name": "Gothorita",
+    "forms": [
+      "Gothorita",
+      "✨ Gothorita",
+      "Shadow Gothorita",
+      "Purified Gothorita"
+    ]
+  },
+  {
+    "id": "gothitelle",
+    "name": "Gothitelle",
+    "forms": [
+      "Gothitelle",
+      "✨ Gothitelle",
+      "Shadow Gothitelle",
+      "Purified Gothitelle"
+    ]
+  },
+  {
+    "id": "solosis",
+    "name": "Solosis",
+    "forms": [
+      "Solosis",
+      "✨ Solosis",
+      "Shadow Solosis",
+      "Purified Solosis"
+    ]
+  },
+  {
+    "id": "duosion",
+    "name": "Duosion",
+    "forms": [
+      "Duosion",
+      "✨ Duosion",
+      "Shadow Duosion",
+      "Purified Duosion"
+    ]
+  },
+  {
+    "id": "reuniclus",
+    "name": "Reuniclus",
+    "forms": [
+      "Reuniclus",
+      "✨ Reuniclus",
+      "Shadow Reuniclus",
+      "Purified Reuniclus"
+    ]
+  },
+  {
+    "id": "ducklett",
+    "name": "Ducklett",
+    "forms": [
+      "Ducklett",
+      "✨ Ducklett",
+      "Shadow Ducklett",
+      "Purified Ducklett"
+    ]
+  },
+  {
+    "id": "swanna",
+    "name": "Swanna",
+    "forms": [
+      "Swanna",
+      "✨ Swanna",
+      "Shadow Swanna",
+      "Purified Swanna"
+    ]
+  },
+  {
+    "id": "vanillite",
+    "name": "Vanillite",
+    "forms": [
+      "Vanillite",
+      "✨ Vanillite",
+      "Shadow Vanillite",
+      "Purified Vanillite"
+    ]
+  },
+  {
+    "id": "vanillish",
+    "name": "Vanillish",
+    "forms": [
+      "Vanillish",
+      "✨ Vanillish",
+      "Shadow Vanillish",
+      "Purified Vanillish"
+    ]
+  },
+  {
+    "id": "vanilluxe",
+    "name": "Vanilluxe",
+    "forms": [
+      "Vanilluxe",
+      "✨ Vanilluxe",
+      "Shadow Vanilluxe",
+      "Purified Vanilluxe"
+    ]
+  },
+  {
+    "id": "deerling",
+    "name": "Deerling",
+    "forms": [
+      "Deerling",
+      "✨ Deerling",
+      "Shadow Deerling",
+      "Purified Deerling"
+    ]
+  },
+  {
+    "id": "sawsbuck",
+    "name": "Sawsbuck",
+    "forms": [
+      "Sawsbuck",
+      "✨ Sawsbuck",
+      "Shadow Sawsbuck",
+      "Purified Sawsbuck"
+    ]
+  },
+  {
+    "id": "emolga",
+    "name": "Emolga",
+    "forms": [
+      "Emolga",
+      "✨ Emolga",
+      "Shadow Emolga",
+      "Purified Emolga"
+    ]
+  },
+  {
+    "id": "karrablast",
+    "name": "Karrablast",
+    "forms": [
+      "Karrablast",
+      "✨ Karrablast",
+      "Shadow Karrablast",
+      "Purified Karrablast"
+    ]
+  },
+  {
+    "id": "escavalier",
+    "name": "Escavalier",
+    "forms": [
+      "Escavalier",
+      "✨ Escavalier",
+      "Shadow Escavalier",
+      "Purified Escavalier"
+    ]
+  },
+  {
+    "id": "foongus",
+    "name": "Foongus",
+    "forms": [
+      "Foongus",
+      "✨ Foongus",
+      "Shadow Foongus",
+      "Purified Foongus"
+    ]
+  },
+  {
+    "id": "amoonguss",
+    "name": "Amoonguss",
+    "forms": [
+      "Amoonguss",
+      "✨ Amoonguss",
+      "Shadow Amoonguss",
+      "Purified Amoonguss"
+    ]
+  },
+  {
+    "id": "frillish",
+    "name": "Frillish",
+    "forms": [
+      "Frillish",
+      "✨ Frillish",
+      "Shadow Frillish",
+      "Purified Frillish"
+    ]
+  },
+  {
+    "id": "jellicent",
+    "name": "Jellicent",
+    "forms": [
+      "Jellicent",
+      "✨ Jellicent",
+      "Shadow Jellicent",
+      "Purified Jellicent"
+    ]
+  },
+  {
+    "id": "alomomola",
+    "name": "Alomomola",
+    "forms": [
+      "Alomomola",
+      "✨ Alomomola",
+      "Shadow Alomomola",
+      "Purified Alomomola"
+    ]
+  },
+  {
+    "id": "joltik",
+    "name": "Joltik",
+    "forms": [
+      "Joltik",
+      "✨ Joltik",
+      "Shadow Joltik",
+      "Purified Joltik"
+    ]
+  },
+  {
+    "id": "galvantula",
+    "name": "Galvantula",
+    "forms": [
+      "Galvantula",
+      "✨ Galvantula",
+      "Shadow Galvantula",
+      "Purified Galvantula"
+    ]
+  },
+  {
+    "id": "ferroseed",
+    "name": "Ferroseed",
+    "forms": [
+      "Ferroseed",
+      "✨ Ferroseed",
+      "Shadow Ferroseed",
+      "Purified Ferroseed"
+    ]
+  },
+  {
+    "id": "ferrothorn",
+    "name": "Ferrothorn",
+    "forms": [
+      "Ferrothorn",
+      "✨ Ferrothorn",
+      "Shadow Ferrothorn",
+      "Purified Ferrothorn"
+    ]
+  },
+  {
+    "id": "klink",
+    "name": "Klink",
+    "forms": [
+      "Klink",
+      "✨ Klink",
+      "Shadow Klink",
+      "Purified Klink"
+    ]
+  },
+  {
+    "id": "klang",
+    "name": "Klang",
+    "forms": [
+      "Klang",
+      "✨ Klang",
+      "Shadow Klang",
+      "Purified Klang"
+    ]
+  },
+  {
+    "id": "klinklang",
+    "name": "Klinklang",
+    "forms": [
+      "Klinklang",
+      "✨ Klinklang",
+      "Shadow Klinklang",
+      "Purified Klinklang"
+    ]
+  },
+  {
+    "id": "tynamo",
+    "name": "Tynamo",
+    "forms": [
+      "Tynamo",
+      "✨ Tynamo",
+      "Shadow Tynamo",
+      "Purified Tynamo"
+    ]
+  },
+  {
+    "id": "eelektrik",
+    "name": "Eelektrik",
+    "forms": [
+      "Eelektrik",
+      "✨ Eelektrik",
+      "Shadow Eelektrik",
+      "Purified Eelektrik"
+    ]
+  },
+  {
+    "id": "eelektross",
+    "name": "Eelektross",
+    "forms": [
+      "Eelektross",
+      "✨ Eelektross",
+      "Shadow Eelektross",
+      "Purified Eelektross"
+    ]
+  },
+  {
+    "id": "elgyem",
+    "name": "Elgyem",
+    "forms": [
+      "Elgyem",
+      "✨ Elgyem",
+      "Shadow Elgyem",
+      "Purified Elgyem"
+    ]
+  },
+  {
+    "id": "beheeyem",
+    "name": "Beheeyem",
+    "forms": [
+      "Beheeyem",
+      "✨ Beheeyem",
+      "Shadow Beheeyem",
+      "Purified Beheeyem"
+    ]
+  },
+  {
+    "id": "litwick",
+    "name": "Litwick",
+    "forms": [
+      "Litwick",
+      "✨ Litwick",
+      "Shadow Litwick",
+      "Purified Litwick",
+      "Pumpkin Hat Litwick"
+    ]
+  },
+  {
+    "id": "lampent",
+    "name": "Lampent",
+    "forms": [
+      "Lampent",
+      "✨ Lampent",
+      "Shadow Lampent",
+      "Purified Lampent"
+    ]
+  },
+  {
+    "id": "chandelure",
+    "name": "Chandelure",
+    "forms": [
+      "Chandelure",
+      "✨ Chandelure",
+      "Shadow Chandelure",
+      "Purified Chandelure"
+    ]
+  },
+  {
+    "id": "axew",
+    "name": "Axew",
+    "forms": [
+      "Axew",
+      "✨ Axew",
+      "Shadow Axew",
+      "Purified Axew"
+    ]
+  },
+  {
+    "id": "fraxure",
+    "name": "Fraxure",
+    "forms": [
+      "Fraxure",
+      "✨ Fraxure",
+      "Shadow Fraxure",
+      "Purified Fraxure"
+    ]
+  },
+  {
+    "id": "haxorus",
+    "name": "Haxorus",
+    "forms": [
+      "Haxorus",
+      "✨ Haxorus",
+      "Shadow Haxorus",
+      "Purified Haxorus"
+    ]
+  },
+  {
+    "id": "cubchoo",
+    "name": "Cubchoo",
+    "forms": [
+      "Cubchoo",
+      "✨ Cubchoo",
+      "Shadow Cubchoo",
+      "Purified Cubchoo"
+    ]
+  },
+  {
+    "id": "beartic",
+    "name": "Beartic",
+    "forms": [
+      "Beartic",
+      "✨ Beartic",
+      "Shadow Beartic",
+      "Purified Beartic"
+    ]
+  },
+  {
+    "id": "cryogonal",
+    "name": "Cryogonal",
+    "forms": [
+      "Cryogonal",
+      "✨ Cryogonal",
+      "Shadow Cryogonal",
+      "Purified Cryogonal"
+    ]
+  },
+  {
+    "id": "shelmet",
+    "name": "Shelmet",
+    "forms": [
+      "Shelmet",
+      "✨ Shelmet",
+      "Shadow Shelmet",
+      "Purified Shelmet"
+    ]
+  },
+  {
+    "id": "accelgor",
+    "name": "Accelgor",
+    "forms": [
+      "Accelgor",
+      "✨ Accelgor",
+      "Shadow Accelgor",
+      "Purified Accelgor"
+    ]
+  },
+  {
+    "id": "stunfisk",
+    "name": "Stunfisk",
+    "forms": [
+      "Stunfisk",
+      "✨ Stunfisk",
+      "Shadow Stunfisk",
+      "Purified Stunfisk",
+      "Galarian Stunfisk"
+    ]
+  },
+  {
+    "id": "mienfoo",
+    "name": "Mienfoo",
+    "forms": [
+      "Mienfoo",
+      "✨ Mienfoo",
+      "Shadow Mienfoo",
+      "Purified Mienfoo"
+    ]
+  },
+  {
+    "id": "mienshao",
+    "name": "Mienshao",
+    "forms": [
+      "Mienshao",
+      "✨ Mienshao",
+      "Shadow Mienshao",
+      "Purified Mienshao"
+    ]
+  },
+  {
+    "id": "druddigon",
+    "name": "Druddigon",
+    "forms": [
+      "Druddigon",
+      "✨ Druddigon",
+      "Shadow Druddigon",
+      "Purified Druddigon"
+    ]
+  },
+  {
+    "id": "golett",
+    "name": "Golett",
+    "forms": [
+      "Golett",
+      "✨ Golett",
+      "Shadow Golett",
+      "Purified Golett"
+    ]
+  },
+  {
+    "id": "golurk",
+    "name": "Golurk",
+    "forms": [
+      "Golurk",
+      "✨ Golurk",
+      "Shadow Golurk",
+      "Purified Golurk"
+    ]
+  },
+  {
+    "id": "pawniard",
+    "name": "Pawniard",
+    "forms": [
+      "Pawniard",
+      "✨ Pawniard",
+      "Shadow Pawniard",
+      "Purified Pawniard"
+    ]
+  },
+  {
+    "id": "bisharp",
+    "name": "Bisharp",
+    "forms": [
+      "Bisharp",
+      "✨ Bisharp",
+      "Shadow Bisharp",
+      "Purified Bisharp"
+    ]
+  },
+  {
+    "id": "bouffalant",
+    "name": "Bouffalant",
+    "forms": [
+      "Bouffalant",
+      "✨ Bouffalant",
+      "Shadow Bouffalant",
+      "Purified Bouffalant"
+    ]
+  },
+  {
+    "id": "rufflet",
+    "name": "Rufflet",
+    "forms": [
+      "Rufflet",
+      "✨ Rufflet",
+      "Shadow Rufflet",
+      "Purified Rufflet"
+    ]
+  },
+  {
+    "id": "braviary",
+    "name": "Braviary",
+    "forms": [
+      "Braviary",
+      "✨ Braviary",
+      "Shadow Braviary",
+      "Purified Braviary"
+    ]
+  },
+  {
+    "id": "vullaby",
+    "name": "Vullaby",
+    "forms": [
+      "Vullaby",
+      "✨ Vullaby",
+      "Shadow Vullaby",
+      "Purified Vullaby"
+    ]
+  },
+  {
+    "id": "mandibuzz",
+    "name": "Mandibuzz",
+    "forms": [
+      "Mandibuzz",
+      "✨ Mandibuzz",
+      "Shadow Mandibuzz",
+      "Purified Mandibuzz"
+    ]
+  },
+  {
+    "id": "heatmor",
+    "name": "Heatmor",
+    "forms": [
+      "Heatmor",
+      "✨ Heatmor",
+      "Shadow Heatmor",
+      "Purified Heatmor"
+    ]
+  },
+  {
+    "id": "durant",
+    "name": "Durant",
+    "forms": [
+      "Durant",
+      "✨ Durant",
+      "Shadow Durant",
+      "Purified Durant"
+    ]
+  },
+  {
+    "id": "deino",
+    "name": "Deino",
+    "forms": [
+      "Deino",
+      "✨ Deino",
+      "Shadow Deino",
+      "Purified Deino"
+    ]
+  },
+  {
+    "id": "zweilous",
+    "name": "Zweilous",
+    "forms": [
+      "Zweilous",
+      "✨ Zweilous",
+      "Shadow Zweilous",
+      "Purified Zweilous"
+    ]
+  },
+  {
+    "id": "hydreigon",
+    "name": "Hydreigon",
+    "forms": [
+      "Hydreigon",
+      "✨ Hydreigon",
+      "Shadow Hydreigon",
+      "Purified Hydreigon"
+    ]
+  },
+  {
+    "id": "larvesta",
+    "name": "Larvesta",
+    "forms": [
+      "Larvesta",
+      "✨ Larvesta",
+      "Shadow Larvesta",
+      "Purified Larvesta"
+    ]
+  },
+  {
+    "id": "volcarona",
+    "name": "Volcarona",
+    "forms": [
+      "Volcarona",
+      "✨ Volcarona",
+      "Shadow Volcarona",
+      "Purified Volcarona"
+    ]
+  },
+  {
+    "id": "cobalion",
+    "name": "Cobalion",
+    "forms": [
+      "Cobalion",
+      "✨ Cobalion",
+      "Shadow Cobalion",
+      "Purified Cobalion"
+    ]
+  },
+  {
+    "id": "terrakion",
+    "name": "Terrakion",
+    "forms": [
+      "Terrakion",
+      "✨ Terrakion",
+      "Shadow Terrakion",
+      "Purified Terrakion"
+    ]
+  },
+  {
+    "id": "virizion",
+    "name": "Virizion",
+    "forms": [
+      "Virizion",
+      "✨ Virizion",
+      "Shadow Virizion",
+      "Purified Virizion"
+    ]
+  },
+  {
+    "id": "tornadus",
+    "name": "Tornadus",
+    "forms": [
+      "Tornadus",
+      "✨ Tornadus",
+      "Shadow Tornadus",
+      "Purified Tornadus",
+      "Tornadus (Incarnate)",
+      "Tornadus (Therian)"
+    ]
+  },
+  {
+    "id": "thundurus",
+    "name": "Thundurus",
+    "forms": [
+      "Thundurus",
+      "✨ Thundurus",
+      "Shadow Thundurus",
+      "Purified Thundurus",
+      "Thundurus (Incarnate)",
+      "Thundurus (Therian)"
+    ]
+  },
+  {
+    "id": "landorus",
+    "name": "Landorus",
+    "forms": [
+      "Landorus",
+      "✨ Landorus",
+      "Shadow Landorus",
+      "Purified Landorus",
+      "Landorus (Incarnate)",
+      "Landorus (Therian)"
+    ]
+  },
+  {
+    "id": "reshiram",
+    "name": "Reshiram",
+    "forms": [
+      "Reshiram",
+      "✨ Reshiram",
+      "Shadow Reshiram",
+      "Purified Reshiram"
+    ]
+  },
+  {
+    "id": "zekrom",
+    "name": "Zekrom",
+    "forms": [
+      "Zekrom",
+      "✨ Zekrom",
+      "Shadow Zekrom",
+      "Purified Zekrom"
+    ]
+  },
+  {
+    "id": "kyurem",
+    "name": "Kyurem",
+    "forms": [
+      "Kyurem",
+      "✨ Kyurem",
+      "Shadow Kyurem",
+      "Purified Kyurem",
+      "White Kyurem",
+      "Black Kyurem"
+    ]
+  },
+  {
+    "id": "keldeo",
+    "name": "Keldeo",
+    "forms": [
+      "Keldeo",
+      "✨ Keldeo",
+      "Shadow Keldeo",
+      "Purified Keldeo",
+      "Keldeo (Ordinary)",
+      "Keldeo (Resolute)"
+    ]
+  },
+  {
+    "id": "meloetta",
+    "name": "Meloetta",
+    "forms": [
+      "Meloetta",
+      "✨ Meloetta",
+      "Shadow Meloetta",
+      "Purified Meloetta",
+      "Meloetta (Aria)",
+      "Meloetta (Pirouette)"
+    ]
+  },
+  {
+    "id": "genesect",
+    "name": "Genesect",
+    "forms": [
+      "Genesect",
+      "✨ Genesect",
+      "Shadow Genesect",
+      "Purified Genesect"
+    ]
+  },
+  {
+    "id": "chespin",
+    "name": "Chespin",
+    "forms": [
+      "Chespin",
+      "✨ Chespin",
+      "Shadow Chespin",
+      "Purified Chespin"
+    ]
+  },
+  {
+    "id": "quilladin",
+    "name": "Quilladin",
+    "forms": [
+      "Quilladin",
+      "✨ Quilladin",
+      "Shadow Quilladin",
+      "Purified Quilladin"
+    ]
+  },
+  {
+    "id": "chesnaught",
+    "name": "Chesnaught",
+    "forms": [
+      "Chesnaught",
+      "✨ Chesnaught",
+      "Shadow Chesnaught",
+      "Purified Chesnaught"
+    ]
+  },
+  {
+    "id": "fennekin",
+    "name": "Fennekin",
+    "forms": [
+      "Fennekin",
+      "✨ Fennekin",
+      "Shadow Fennekin",
+      "Purified Fennekin"
+    ]
+  },
+  {
+    "id": "braixen",
+    "name": "Braixen",
+    "forms": [
+      "Braixen",
+      "✨ Braixen",
+      "Shadow Braixen",
+      "Purified Braixen"
+    ]
+  },
+  {
+    "id": "delphox",
+    "name": "Delphox",
+    "forms": [
+      "Delphox",
+      "✨ Delphox",
+      "Shadow Delphox",
+      "Purified Delphox"
+    ]
+  },
+  {
+    "id": "froakie",
+    "name": "Froakie",
+    "forms": [
+      "Froakie",
+      "✨ Froakie",
+      "Shadow Froakie",
+      "Purified Froakie"
+    ]
+  },
+  {
+    "id": "frogadier",
+    "name": "Frogadier",
+    "forms": [
+      "Frogadier",
+      "✨ Frogadier",
+      "Shadow Frogadier",
+      "Purified Frogadier"
+    ]
+  },
+  {
+    "id": "greninja",
+    "name": "Greninja",
+    "forms": [
+      "Greninja",
+      "✨ Greninja",
+      "Shadow Greninja",
+      "Purified Greninja",
+      "Ash-Greninja"
+    ]
+  },
+  {
+    "id": "bunnelby",
+    "name": "Bunnelby",
+    "forms": [
+      "Bunnelby",
+      "✨ Bunnelby",
+      "Shadow Bunnelby",
+      "Purified Bunnelby"
+    ]
+  },
+  {
+    "id": "diggersby",
+    "name": "Diggersby",
+    "forms": [
+      "Diggersby",
+      "✨ Diggersby",
+      "Shadow Diggersby",
+      "Purified Diggersby"
+    ]
+  },
+  {
+    "id": "fletchling",
+    "name": "Fletchling",
+    "forms": [
+      "Fletchling",
+      "✨ Fletchling",
+      "Shadow Fletchling",
+      "Purified Fletchling"
+    ]
+  },
+  {
+    "id": "fletchinder",
+    "name": "Fletchinder",
+    "forms": [
+      "Fletchinder",
+      "✨ Fletchinder",
+      "Shadow Fletchinder",
+      "Purified Fletchinder"
+    ]
+  },
+  {
+    "id": "talonflame",
+    "name": "Talonflame",
+    "forms": [
+      "Talonflame",
+      "✨ Talonflame",
+      "Shadow Talonflame",
+      "Purified Talonflame"
+    ]
+  },
+  {
+    "id": "scatterbug",
+    "name": "Scatterbug",
+    "forms": [
+      "Scatterbug",
+      "✨ Scatterbug",
+      "Shadow Scatterbug",
+      "Purified Scatterbug"
+    ]
+  },
+  {
+    "id": "spewpa",
+    "name": "Spewpa",
+    "forms": [
+      "Spewpa",
+      "✨ Spewpa",
+      "Shadow Spewpa",
+      "Purified Spewpa"
+    ]
+  },
+  {
+    "id": "vivillon",
+    "name": "Vivillon",
+    "forms": [
+      "Vivillon",
+      "✨ Vivillon",
+      "Shadow Vivillon",
+      "Purified Vivillon",
+      "Vivillon (various patterns)"
+    ]
+  },
+  {
+    "id": "litleo",
+    "name": "Litleo",
+    "forms": [
+      "Litleo",
+      "✨ Litleo",
+      "Shadow Litleo",
+      "Purified Litleo"
+    ]
+  },
+  {
+    "id": "pyroar",
+    "name": "Pyroar",
+    "forms": [
+      "Pyroar",
+      "✨ Pyroar",
+      "Shadow Pyroar",
+      "Purified Pyroar",
+      "Pyroar (Male)",
+      "Pyroar (Female)"
+    ]
+  },
+  {
+    "id": "flabebe",
+    "name": "Flabébé",
+    "forms": [
+      "Flabébé",
+      "✨ Flabébé",
+      "Shadow Flabébé",
+      "Purified Flabébé"
+    ]
+  },
+  {
+    "id": "floette",
+    "name": "Floette",
+    "forms": [
+      "Floette",
+      "✨ Floette",
+      "Shadow Floette",
+      "Purified Floette",
+      "Floette (Eternal Flower)"
+    ]
+  },
+  {
+    "id": "florges",
+    "name": "Florges",
+    "forms": [
+      "Florges",
+      "✨ Florges",
+      "Shadow Florges",
+      "Purified Florges"
+    ]
+  },
+  {
+    "id": "skiddo",
+    "name": "Skiddo",
+    "forms": [
+      "Skiddo",
+      "✨ Skiddo",
+      "Shadow Skiddo",
+      "Purified Skiddo"
+    ]
+  },
+  {
+    "id": "gogoat",
+    "name": "Gogoat",
+    "forms": [
+      "Gogoat",
+      "✨ Gogoat",
+      "Shadow Gogoat",
+      "Purified Gogoat"
+    ]
+  },
+  {
+    "id": "pancham",
+    "name": "Pancham",
+    "forms": [
+      "Pancham",
+      "✨ Pancham",
+      "Shadow Pancham",
+      "Purified Pancham"
+    ]
+  },
+  {
+    "id": "pangoro",
+    "name": "Pangoro",
+    "forms": [
+      "Pangoro",
+      "✨ Pangoro",
+      "Shadow Pangoro",
+      "Purified Pangoro"
+    ]
+  },
+  {
+    "id": "furfrou",
+    "name": "Furfrou",
+    "forms": [
+      "Furfrou",
+      "✨ Furfrou",
+      "Shadow Furfrou",
+      "Purified Furfrou"
+    ]
+  },
+  {
+    "id": "espurr",
+    "name": "Espurr",
+    "forms": [
+      "Espurr",
+      "✨ Espurr",
+      "Shadow Espurr",
+      "Purified Espurr"
+    ]
+  },
+  {
+    "id": "meowstic",
+    "name": "Meowstic",
+    "forms": [
+      "Meowstic",
+      "✨ Meowstic",
+      "Shadow Meowstic",
+      "Purified Meowstic"
+    ]
+  },
+  {
+    "id": "honedge",
+    "name": "Honedge",
+    "forms": [
+      "Honedge",
+      "✨ Honedge",
+      "Shadow Honedge",
+      "Purified Honedge"
+    ]
+  },
+  {
+    "id": "doublade",
+    "name": "Doublade",
+    "forms": [
+      "Doublade",
+      "✨ Doublade",
+      "Shadow Doublade",
+      "Purified Doublade"
+    ]
+  },
+  {
+    "id": "aegislash",
+    "name": "Aegislash",
+    "forms": [
+      "Aegislash",
+      "✨ Aegislash",
+      "Shadow Aegislash",
+      "Purified Aegislash"
+    ]
+  },
+  {
+    "id": "spritzee",
+    "name": "Spritzee",
+    "forms": [
+      "Spritzee",
+      "✨ Spritzee",
+      "Shadow Spritzee",
+      "Purified Spritzee"
+    ]
+  },
+  {
+    "id": "aromatisse",
+    "name": "Aromatisse",
+    "forms": [
+      "Aromatisse",
+      "✨ Aromatisse",
+      "Shadow Aromatisse",
+      "Purified Aromatisse"
+    ]
+  },
+  {
+    "id": "swirlix",
+    "name": "Swirlix",
+    "forms": [
+      "Swirlix",
+      "✨ Swirlix",
+      "Shadow Swirlix",
+      "Purified Swirlix"
+    ]
+  },
+  {
+    "id": "slurpuff",
+    "name": "Slurpuff",
+    "forms": [
+      "Slurpuff",
+      "✨ Slurpuff",
+      "Shadow Slurpuff",
+      "Purified Slurpuff"
+    ]
+  },
+  {
+    "id": "inkay",
+    "name": "Inkay",
+    "forms": [
+      "Inkay",
+      "✨ Inkay",
+      "Shadow Inkay",
+      "Purified Inkay"
+    ]
+  },
+  {
+    "id": "malamar",
+    "name": "Malamar",
+    "forms": [
+      "Malamar",
+      "✨ Malamar",
+      "Shadow Malamar",
+      "Purified Malamar"
+    ]
+  },
+  {
+    "id": "binacle",
+    "name": "Binacle",
+    "forms": [
+      "Binacle",
+      "✨ Binacle",
+      "Shadow Binacle",
+      "Purified Binacle"
+    ]
+  },
+  {
+    "id": "barbaracle",
+    "name": "Barbaracle",
+    "forms": [
+      "Barbaracle",
+      "✨ Barbaracle",
+      "Shadow Barbaracle",
+      "Purified Barbaracle"
+    ]
+  },
+  {
+    "id": "skrelp",
+    "name": "Skrelp",
+    "forms": [
+      "Skrelp",
+      "✨ Skrelp",
+      "Shadow Skrelp",
+      "Purified Skrelp"
+    ]
+  },
+  {
+    "id": "dragalge",
+    "name": "Dragalge",
+    "forms": [
+      "Dragalge",
+      "✨ Dragalge",
+      "Shadow Dragalge",
+      "Purified Dragalge"
+    ]
+  },
+  {
+    "id": "clauncher",
+    "name": "Clauncher",
+    "forms": [
+      "Clauncher",
+      "✨ Clauncher",
+      "Shadow Clauncher",
+      "Purified Clauncher"
+    ]
+  },
+  {
+    "id": "clawitzer",
+    "name": "Clawitzer",
+    "forms": [
+      "Clawitzer",
+      "✨ Clawitzer",
+      "Shadow Clawitzer",
+      "Purified Clawitzer"
+    ]
+  },
+  {
+    "id": "helioptile",
+    "name": "Helioptile",
+    "forms": [
+      "Helioptile",
+      "✨ Helioptile",
+      "Shadow Helioptile",
+      "Purified Helioptile"
+    ]
+  },
+  {
+    "id": "heliolisk",
+    "name": "Heliolisk",
+    "forms": [
+      "Heliolisk",
+      "✨ Heliolisk",
+      "Shadow Heliolisk",
+      "Purified Heliolisk"
+    ]
+  },
+  {
+    "id": "tyrunt",
+    "name": "Tyrunt",
+    "forms": [
+      "Tyrunt",
+      "✨ Tyrunt",
+      "Shadow Tyrunt",
+      "Purified Tyrunt"
+    ]
+  },
+  {
+    "id": "tyrantrum",
+    "name": "Tyrantrum",
+    "forms": [
+      "Tyrantrum",
+      "✨ Tyrantrum",
+      "Shadow Tyrantrum",
+      "Purified Tyrantrum"
+    ]
+  },
+  {
+    "id": "amaura",
+    "name": "Amaura",
+    "forms": [
+      "Amaura",
+      "✨ Amaura",
+      "Shadow Amaura",
+      "Purified Amaura"
+    ]
+  },
+  {
+    "id": "aurorus",
+    "name": "Aurorus",
+    "forms": [
+      "Aurorus",
+      "✨ Aurorus",
+      "Shadow Aurorus",
+      "Purified Aurorus"
+    ]
+  },
+  {
+    "id": "sylveon",
+    "name": "Sylveon",
+    "forms": [
+      "Sylveon",
+      "✨ Sylveon",
+      "Shadow Sylveon",
+      "Purified Sylveon"
+    ]
+  },
+  {
+    "id": "hawlucha",
+    "name": "Hawlucha",
+    "forms": [
+      "Hawlucha",
+      "✨ Hawlucha",
+      "Shadow Hawlucha",
+      "Purified Hawlucha"
+    ]
+  },
+  {
+    "id": "dedenne",
+    "name": "Dedenne",
+    "forms": [
+      "Dedenne",
+      "✨ Dedenne",
+      "Shadow Dedenne",
+      "Purified Dedenne"
+    ]
+  },
+  {
+    "id": "carbink",
+    "name": "Carbink",
+    "forms": [
+      "Carbink",
+      "✨ Carbink",
+      "Shadow Carbink",
+      "Purified Carbink"
+    ]
+  },
+  {
+    "id": "goomy",
+    "name": "Goomy",
+    "forms": [
+      "Goomy",
+      "✨ Goomy",
+      "Shadow Goomy",
+      "Purified Goomy"
+    ]
+  },
+  {
+    "id": "sliggoo",
+    "name": "Sliggoo",
+    "forms": [
+      "Sliggoo",
+      "✨ Sliggoo",
+      "Shadow Sliggoo",
+      "Purified Sliggoo"
+    ]
+  },
+  {
+    "id": "goodra",
+    "name": "Goodra",
+    "forms": [
+      "Goodra",
+      "✨ Goodra",
+      "Shadow Goodra",
+      "Purified Goodra"
+    ]
+  },
+  {
+    "id": "klefki",
+    "name": "Klefki",
+    "forms": [
+      "Klefki",
+      "✨ Klefki",
+      "Shadow Klefki",
+      "Purified Klefki"
+    ]
+  },
+  {
+    "id": "phantump",
+    "name": "Phantump",
+    "forms": [
+      "Phantump",
+      "✨ Phantump",
+      "Shadow Phantump",
+      "Purified Phantump"
+    ]
+  },
+  {
+    "id": "trevenant",
+    "name": "Trevenant",
+    "forms": [
+      "Trevenant",
+      "✨ Trevenant",
+      "Shadow Trevenant",
+      "Purified Trevenant"
+    ]
+  },
+  {
+    "id": "pumpkaboo",
+    "name": "Pumpkaboo",
+    "forms": [
+      "Pumpkaboo",
+      "✨ Pumpkaboo",
+      "Shadow Pumpkaboo",
+      "Purified Pumpkaboo",
+      "Pumpkaboo (Super Size)"
+    ]
+  },
+  {
+    "id": "gourgeist",
+    "name": "Gourgeist",
+    "forms": [
+      "Gourgeist",
+      "✨ Gourgeist",
+      "Shadow Gourgeist",
+      "Purified Gourgeist",
+      "Gourgeist (Super Size)"
+    ]
+  },
+  {
+    "id": "bergmite",
+    "name": "Bergmite",
+    "forms": [
+      "Bergmite",
+      "✨ Bergmite",
+      "Shadow Bergmite",
+      "Purified Bergmite"
+    ]
+  },
+  {
+    "id": "avalugg",
+    "name": "Avalugg",
+    "forms": [
+      "Avalugg",
+      "✨ Avalugg",
+      "Shadow Avalugg",
+      "Purified Avalugg"
+    ]
+  },
+  {
+    "id": "noibat",
+    "name": "Noibat",
+    "forms": [
+      "Noibat",
+      "✨ Noibat",
+      "Shadow Noibat",
+      "Purified Noibat"
+    ]
+  },
+  {
+    "id": "noivern",
+    "name": "Noivern",
+    "forms": [
+      "Noivern",
+      "✨ Noivern",
+      "Shadow Noivern",
+      "Purified Noivern"
+    ]
+  },
+  {
+    "id": "xerneas",
+    "name": "Xerneas",
+    "forms": [
+      "Xerneas",
+      "✨ Xerneas",
+      "Shadow Xerneas",
+      "Purified Xerneas"
+    ]
+  },
+  {
+    "id": "yveltal",
+    "name": "Yveltal",
+    "forms": [
+      "Yveltal",
+      "✨ Yveltal",
+      "Shadow Yveltal",
+      "Purified Yveltal"
+    ]
+  },
+  {
+    "id": "zygarde",
+    "name": "Zygarde",
+    "forms": [
+      "Zygarde",
+      "✨ Zygarde",
+      "Shadow Zygarde",
+      "Purified Zygarde",
+      "Zygarde (10%)",
+      "Zygarde (50%)",
+      "Zygarde (Complete)"
+    ]
+  },
+  {
+    "id": "diancie",
+    "name": "Diancie",
+    "forms": [
+      "Diancie",
+      "✨ Diancie",
+      "Shadow Diancie",
+      "Purified Diancie"
+    ]
+  },
+  {
+    "id": "hoopa",
+    "name": "Hoopa",
+    "forms": [
+      "Hoopa",
+      "✨ Hoopa",
+      "Shadow Hoopa",
+      "Purified Hoopa",
+      "Hoopa (Confined)",
+      "Hoopa (Unbound)"
+    ]
+  },
+  {
+    "id": "volcanion",
+    "name": "Volcanion",
+    "forms": [
+      "Volcanion",
+      "✨ Volcanion",
+      "Shadow Volcanion",
+      "Purified Volcanion"
+    ]
+  },
+  {
+    "id": "rowlet",
+    "name": "Rowlet",
+    "forms": [
+      "Rowlet",
+      "✨ Rowlet",
+      "Shadow Rowlet",
+      "Purified Rowlet"
+    ]
+  },
+  {
+    "id": "dartrix",
+    "name": "Dartrix",
+    "forms": [
+      "Dartrix",
+      "✨ Dartrix",
+      "Shadow Dartrix",
+      "Purified Dartrix"
+    ]
+  },
+  {
+    "id": "decidueye",
+    "name": "Decidueye",
+    "forms": [
+      "Decidueye",
+      "✨ Decidueye",
+      "Shadow Decidueye",
+      "Purified Decidueye"
+    ]
+  },
+  {
+    "id": "litten",
+    "name": "Litten",
+    "forms": [
+      "Litten",
+      "✨ Litten",
+      "Shadow Litten",
+      "Purified Litten"
+    ]
+  },
+  {
+    "id": "torracat",
+    "name": "Torracat",
+    "forms": [
+      "Torracat",
+      "✨ Torracat",
+      "Shadow Torracat",
+      "Purified Torracat"
+    ]
+  },
+  {
+    "id": "incineroar",
+    "name": "Incineroar",
+    "forms": [
+      "Incineroar",
+      "✨ Incineroar",
+      "Shadow Incineroar",
+      "Purified Incineroar"
+    ]
+  },
+  {
+    "id": "popplio",
+    "name": "Popplio",
+    "forms": [
+      "Popplio",
+      "✨ Popplio",
+      "Shadow Popplio",
+      "Purified Popplio"
+    ]
+  },
+  {
+    "id": "brionne",
+    "name": "Brionne",
+    "forms": [
+      "Brionne",
+      "✨ Brionne",
+      "Shadow Brionne",
+      "Purified Brionne"
+    ]
+  },
+  {
+    "id": "primarina",
+    "name": "Primarina",
+    "forms": [
+      "Primarina",
+      "✨ Primarina",
+      "Shadow Primarina",
+      "Purified Primarina"
+    ]
+  },
+  {
+    "id": "pikipek",
+    "name": "Pikipek",
+    "forms": [
+      "Pikipek",
+      "✨ Pikipek",
+      "Shadow Pikipek",
+      "Purified Pikipek"
+    ]
+  },
+  {
+    "id": "trumbeak",
+    "name": "Trumbeak",
+    "forms": [
+      "Trumbeak",
+      "✨ Trumbeak",
+      "Shadow Trumbeak",
+      "Purified Trumbeak"
+    ]
+  },
+  {
+    "id": "toucannon",
+    "name": "Toucannon",
+    "forms": [
+      "Toucannon",
+      "✨ Toucannon",
+      "Shadow Toucannon",
+      "Purified Toucannon"
+    ]
+  },
+  {
+    "id": "yungoos",
+    "name": "Yungoos",
+    "forms": [
+      "Yungoos",
+      "✨ Yungoos",
+      "Shadow Yungoos",
+      "Purified Yungoos"
+    ]
+  },
+  {
+    "id": "gumshoos",
+    "name": "Gumshoos",
+    "forms": [
+      "Gumshoos",
+      "✨ Gumshoos",
+      "Shadow Gumshoos",
+      "Purified Gumshoos"
+    ]
+  },
+  {
+    "id": "grubbin",
+    "name": "Grubbin",
+    "forms": [
+      "Grubbin",
+      "✨ Grubbin",
+      "Shadow Grubbin",
+      "Purified Grubbin"
+    ]
+  },
+  {
+    "id": "charjabug",
+    "name": "Charjabug",
+    "forms": [
+      "Charjabug",
+      "✨ Charjabug",
+      "Shadow Charjabug",
+      "Purified Charjabug"
+    ]
+  },
+  {
+    "id": "vikavolt",
+    "name": "Vikavolt",
+    "forms": [
+      "Vikavolt",
+      "✨ Vikavolt",
+      "Shadow Vikavolt",
+      "Purified Vikavolt"
+    ]
+  },
+  {
+    "id": "crabrawler",
+    "name": "Crabrawler",
+    "forms": [
+      "Crabrawler",
+      "✨ Crabrawler",
+      "Shadow Crabrawler",
+      "Purified Crabrawler"
+    ]
+  },
+  {
+    "id": "crabominable",
+    "name": "Crabominable",
+    "forms": [
+      "Crabominable",
+      "✨ Crabominable",
+      "Shadow Crabominable",
+      "Purified Crabominable"
+    ]
+  },
+  {
+    "id": "oricorio",
+    "name": "Oricorio",
+    "forms": [
+      "Oricorio",
+      "✨ Oricorio",
+      "Shadow Oricorio",
+      "Purified Oricorio",
+      "Oricorio (Baile)",
+      "Oricorio (Pom-Pom)",
+      "Oricorio (Pa'u)",
+      "Oricorio (Sensu)"
+    ]
+  },
+  {
+    "id": "cutiefly",
+    "name": "Cutiefly",
+    "forms": [
+      "Cutiefly",
+      "✨ Cutiefly",
+      "Shadow Cutiefly",
+      "Purified Cutiefly"
+    ]
+  },
+  {
+    "id": "ribombee",
+    "name": "Ribombee",
+    "forms": [
+      "Ribombee",
+      "✨ Ribombee",
+      "Shadow Ribombee",
+      "Purified Ribombee"
+    ]
+  },
+  {
+    "id": "rockruff",
+    "name": "Rockruff",
+    "forms": [
+      "Rockruff",
+      "✨ Rockruff",
+      "Shadow Rockruff",
+      "Purified Rockruff",
+      "Event Rockruff"
+    ]
+  },
+  {
+    "id": "lycanroc",
+    "name": "Lycanroc",
+    "forms": [
+      "Lycanroc",
+      "✨ Lycanroc",
+      "Shadow Lycanroc",
+      "Purified Lycanroc",
+      "Lycanroc (Midday)",
+      "Lycanroc (Midnight)",
+      "Lycanroc (Dusk)"
+    ]
+  },
+  {
+    "id": "wishiwashi",
+    "name": "Wishiwashi",
+    "forms": [
+      "Wishiwashi",
+      "✨ Wishiwashi",
+      "Shadow Wishiwashi",
+      "Purified Wishiwashi",
+      "Wishiwashi (Solo)",
+      "Wishiwashi (School)"
+    ]
+  },
+  {
+    "id": "mareanie",
+    "name": "Mareanie",
+    "forms": [
+      "Mareanie",
+      "✨ Mareanie",
+      "Shadow Mareanie",
+      "Purified Mareanie"
+    ]
+  },
+  {
+    "id": "toxapex",
+    "name": "Toxapex",
+    "forms": [
+      "Toxapex",
+      "✨ Toxapex",
+      "Shadow Toxapex",
+      "Purified Toxapex"
+    ]
+  },
+  {
+    "id": "mudbray",
+    "name": "Mudbray",
+    "forms": [
+      "Mudbray",
+      "✨ Mudbray",
+      "Shadow Mudbray",
+      "Purified Mudbray"
+    ]
+  },
+  {
+    "id": "mudsdale",
+    "name": "Mudsdale",
+    "forms": [
+      "Mudsdale",
+      "✨ Mudsdale",
+      "Shadow Mudsdale",
+      "Purified Mudsdale"
+    ]
+  },
+  {
+    "id": "dewpider",
+    "name": "Dewpider",
+    "forms": [
+      "Dewpider",
+      "✨ Dewpider",
+      "Shadow Dewpider",
+      "Purified Dewpider"
+    ]
+  },
+  {
+    "id": "araquanid",
+    "name": "Araquanid",
+    "forms": [
+      "Araquanid",
+      "✨ Araquanid",
+      "Shadow Araquanid",
+      "Purified Araquanid"
+    ]
+  },
+  {
+    "id": "fomantis",
+    "name": "Fomantis",
+    "forms": [
+      "Fomantis",
+      "✨ Fomantis",
+      "Shadow Fomantis",
+      "Purified Fomantis"
+    ]
+  },
+  {
+    "id": "lurantis",
+    "name": "Lurantis",
+    "forms": [
+      "Lurantis",
+      "✨ Lurantis",
+      "Shadow Lurantis",
+      "Purified Lurantis"
+    ]
+  },
+  {
+    "id": "morelull",
+    "name": "Morelull",
+    "forms": [
+      "Morelull",
+      "✨ Morelull",
+      "Shadow Morelull",
+      "Purified Morelull"
+    ]
+  },
+  {
+    "id": "shiinotic",
+    "name": "Shiinotic",
+    "forms": [
+      "Shiinotic",
+      "✨ Shiinotic",
+      "Shadow Shiinotic",
+      "Purified Shiinotic"
+    ]
+  },
+  {
+    "id": "salandit",
+    "name": "Salandit",
+    "forms": [
+      "Salandit",
+      "✨ Salandit",
+      "Shadow Salandit",
+      "Purified Salandit"
+    ]
+  },
+  {
+    "id": "salazzle",
+    "name": "Salazzle",
+    "forms": [
+      "Salazzle",
+      "✨ Salazzle",
+      "Shadow Salazzle",
+      "Purified Salazzle"
+    ]
+  },
+  {
+    "id": "stufful",
+    "name": "Stufful",
+    "forms": [
+      "Stufful",
+      "✨ Stufful",
+      "Shadow Stufful",
+      "Purified Stufful"
+    ]
+  },
+  {
+    "id": "bewear",
+    "name": "Bewear",
+    "forms": [
+      "Bewear",
+      "✨ Bewear",
+      "Shadow Bewear",
+      "Purified Bewear"
+    ]
+  },
+  {
+    "id": "bounsweet",
+    "name": "Bounsweet",
+    "forms": [
+      "Bounsweet",
+      "✨ Bounsweet",
+      "Shadow Bounsweet",
+      "Purified Bounsweet"
+    ]
+  },
+  {
+    "id": "steenee",
+    "name": "Steenee",
+    "forms": [
+      "Steenee",
+      "✨ Steenee",
+      "Shadow Steenee",
+      "Purified Steenee"
+    ]
+  },
+  {
+    "id": "tsareena",
+    "name": "Tsareena",
+    "forms": [
+      "Tsareena",
+      "✨ Tsareena",
+      "Shadow Tsareena",
+      "Purified Tsareena"
+    ]
+  },
+  {
+    "id": "comfey",
+    "name": "Comfey",
+    "forms": [
+      "Comfey",
+      "✨ Comfey",
+      "Shadow Comfey",
+      "Purified Comfey"
+    ]
+  },
+  {
+    "id": "oranguru",
+    "name": "Oranguru",
+    "forms": [
+      "Oranguru",
+      "✨ Oranguru",
+      "Shadow Oranguru",
+      "Purified Oranguru"
+    ]
+  },
+  {
+    "id": "passimian",
+    "name": "Passimian",
+    "forms": [
+      "Passimian",
+      "✨ Passimian",
+      "Shadow Passimian",
+      "Purified Passimian"
+    ]
+  },
+  {
+    "id": "wimpod",
+    "name": "Wimpod",
+    "forms": [
+      "Wimpod",
+      "✨ Wimpod",
+      "Shadow Wimpod",
+      "Purified Wimpod"
+    ]
+  },
+  {
+    "id": "golisopod",
+    "name": "Golisopod",
+    "forms": [
+      "Golisopod",
+      "✨ Golisopod",
+      "Shadow Golisopod",
+      "Purified Golisopod"
+    ]
+  },
+  {
+    "id": "sandygast",
+    "name": "Sandygast",
+    "forms": [
+      "Sandygast",
+      "✨ Sandygast",
+      "Shadow Sandygast",
+      "Purified Sandygast"
+    ]
+  },
+  {
+    "id": "palossand",
+    "name": "Palossand",
+    "forms": [
+      "Palossand",
+      "✨ Palossand",
+      "Shadow Palossand",
+      "Purified Palossand"
+    ]
+  },
+  {
+    "id": "pyukumuku",
+    "name": "Pyukumuku",
+    "forms": [
+      "Pyukumuku",
+      "✨ Pyukumuku",
+      "Shadow Pyukumuku",
+      "Purified Pyukumuku"
+    ]
+  },
+  {
+    "id": "type_null",
+    "name": "Type: Null",
+    "forms": [
+      "Type: Null",
+      "✨ Type: Null",
+      "Shadow Type: Null",
+      "Purified Type: Null"
+    ]
+  },
+  {
+    "id": "silvally",
+    "name": "Silvally",
+    "forms": [
+      "Silvally",
+      "✨ Silvally",
+      "Shadow Silvally",
+      "Purified Silvally",
+      "Silvally (All Types)"
+    ]
+  },
+  {
+    "id": "minior",
+    "name": "Minior",
+    "forms": [
+      "Minior",
+      "✨ Minior",
+      "Shadow Minior",
+      "Purified Minior",
+      "Minior (Core)",
+      "Minior (Meteor)"
+    ]
+  },
+  {
+    "id": "komala",
+    "name": "Komala",
+    "forms": [
+      "Komala",
+      "✨ Komala",
+      "Shadow Komala",
+      "Purified Komala"
+    ]
+  },
+  {
+    "id": "turtonator",
+    "name": "Turtonator",
+    "forms": [
+      "Turtonator",
+      "✨ Turtonator",
+      "Shadow Turtonator",
+      "Purified Turtonator"
+    ]
+  },
+  {
+    "id": "togedemaru",
+    "name": "Togedemaru",
+    "forms": [
+      "Togedemaru",
+      "✨ Togedemaru",
+      "Shadow Togedemaru",
+      "Purified Togedemaru"
+    ]
+  },
+  {
+    "id": "mimikyu",
+    "name": "Mimikyu",
+    "forms": [
+      "Mimikyu",
+      "✨ Mimikyu",
+      "Shadow Mimikyu",
+      "Purified Mimikyu",
+      "Mimikyu (Disguised)",
+      "Mimikyu (Busted)",
+      "Mimikyu Costume Pikachu"
+    ]
+  },
+  {
+    "id": "bruxish",
+    "name": "Bruxish",
+    "forms": [
+      "Bruxish",
+      "✨ Bruxish",
+      "Shadow Bruxish",
+      "Purified Bruxish"
+    ]
+  },
+  {
+    "id": "drampa",
+    "name": "Drampa",
+    "forms": [
+      "Drampa",
+      "✨ Drampa",
+      "Shadow Drampa",
+      "Purified Drampa"
+    ]
+  },
+  {
+    "id": "dhelmise",
+    "name": "Dhelmise",
+    "forms": [
+      "Dhelmise",
+      "✨ Dhelmise",
+      "Shadow Dhelmise",
+      "Purified Dhelmise"
+    ]
+  },
+  {
+    "id": "jangmo_o",
+    "name": "Jangmo-o",
+    "forms": [
+      "Jangmo-o",
+      "✨ Jangmo-o",
+      "Shadow Jangmo-o",
+      "Purified Jangmo-o"
+    ]
+  },
+  {
+    "id": "hakamo_o",
+    "name": "Hakamo-o",
+    "forms": [
+      "Hakamo-o",
+      "✨ Hakamo-o",
+      "Shadow Hakamo-o",
+      "Purified Hakamo-o"
+    ]
+  },
+  {
+    "id": "kommo_o",
+    "name": "Kommo-o",
+    "forms": [
+      "Kommo-o",
+      "✨ Kommo-o",
+      "Shadow Kommo-o",
+      "Purified Kommo-o"
+    ]
+  },
+  {
+    "id": "tapu_koko",
+    "name": "Tapu Koko",
+    "forms": [
+      "Tapu Koko",
+      "✨ Tapu Koko",
+      "Shadow Tapu Koko",
+      "Purified Tapu Koko"
+    ]
+  },
+  {
+    "id": "tapu_lele",
+    "name": "Tapu Lele",
+    "forms": [
+      "Tapu Lele",
+      "✨ Tapu Lele",
+      "Shadow Tapu Lele",
+      "Purified Tapu Lele"
+    ]
+  },
+  {
+    "id": "tapu_bulu",
+    "name": "Tapu Bulu",
+    "forms": [
+      "Tapu Bulu",
+      "✨ Tapu Bulu",
+      "Shadow Tapu Bulu",
+      "Purified Tapu Bulu"
+    ]
+  },
+  {
+    "id": "tapu_fini",
+    "name": "Tapu Fini",
+    "forms": [
+      "Tapu Fini",
+      "✨ Tapu Fini",
+      "Shadow Tapu Fini",
+      "Purified Tapu Fini"
+    ]
+  },
+  {
+    "id": "cosmog",
+    "name": "Cosmog",
+    "forms": [
+      "Cosmog",
+      "✨ Cosmog",
+      "Shadow Cosmog",
+      "Purified Cosmog"
+    ]
+  },
+  {
+    "id": "cosmoem",
+    "name": "Cosmoem",
+    "forms": [
+      "Cosmoem",
+      "✨ Cosmoem",
+      "Shadow Cosmoem",
+      "Purified Cosmoem"
+    ]
+  },
+  {
+    "id": "solgaleo",
+    "name": "Solgaleo",
+    "forms": [
+      "Solgaleo",
+      "✨ Solgaleo",
+      "Shadow Solgaleo",
+      "Purified Solgaleo"
+    ]
+  },
+  {
+    "id": "lunala",
+    "name": "Lunala",
+    "forms": [
+      "Lunala",
+      "✨ Lunala",
+      "Shadow Lunala",
+      "Purified Lunala"
+    ]
+  },
+  {
+    "id": "nihilego",
+    "name": "Nihilego",
+    "forms": [
+      "Nihilego",
+      "✨ Nihilego",
+      "Shadow Nihilego",
+      "Purified Nihilego"
+    ]
+  },
+  {
+    "id": "buzzwole",
+    "name": "Buzzwole",
+    "forms": [
+      "Buzzwole",
+      "✨ Buzzwole",
+      "Shadow Buzzwole",
+      "Purified Buzzwole"
+    ]
+  },
+  {
+    "id": "pheromosa",
+    "name": "Pheromosa",
+    "forms": [
+      "Pheromosa",
+      "✨ Pheromosa",
+      "Shadow Pheromosa",
+      "Purified Pheromosa"
+    ]
+  },
+  {
+    "id": "xurkitree",
+    "name": "Xurkitree",
+    "forms": [
+      "Xurkitree",
+      "✨ Xurkitree",
+      "Shadow Xurkitree",
+      "Purified Xurkitree"
+    ]
+  },
+  {
+    "id": "celesteela",
+    "name": "Celesteela",
+    "forms": [
+      "Celesteela",
+      "✨ Celesteela",
+      "Shadow Celesteela",
+      "Purified Celesteela"
+    ]
+  },
+  {
+    "id": "kartana",
+    "name": "Kartana",
+    "forms": [
+      "Kartana",
+      "✨ Kartana",
+      "Shadow Kartana",
+      "Purified Kartana"
+    ]
+  },
+  {
+    "id": "guzzlord",
+    "name": "Guzzlord",
+    "forms": [
+      "Guzzlord",
+      "✨ Guzzlord",
+      "Shadow Guzzlord",
+      "Purified Guzzlord"
+    ]
+  },
+  {
+    "id": "necrozma",
+    "name": "Necrozma",
+    "forms": [
+      "Necrozma",
+      "✨ Necrozma",
+      "Shadow Necrozma",
+      "Purified Necrozma",
+      "Dusk Mane Necrozma",
+      "Dawn Wings Necrozma",
+      "Ultra Necrozma"
+    ]
+  },
+  {
+    "id": "magearna",
+    "name": "Magearna",
+    "forms": [
+      "Magearna",
+      "✨ Magearna",
+      "Shadow Magearna",
+      "Purified Magearna"
+    ]
+  },
+  {
+    "id": "marshadow",
+    "name": "Marshadow",
+    "forms": [
+      "Marshadow",
+      "✨ Marshadow",
+      "Shadow Marshadow",
+      "Purified Marshadow"
+    ]
+  },
+  {
+    "id": "poipole",
+    "name": "Poipole",
+    "forms": [
+      "Poipole",
+      "✨ Poipole",
+      "Shadow Poipole",
+      "Purified Poipole"
+    ]
+  },
+  {
+    "id": "naganadel",
+    "name": "Naganadel",
+    "forms": [
+      "Naganadel",
+      "✨ Naganadel",
+      "Shadow Naganadel",
+      "Purified Naganadel"
+    ]
+  },
+  {
+    "id": "stakataka",
+    "name": "Stakataka",
+    "forms": [
+      "Stakataka",
+      "✨ Stakataka",
+      "Shadow Stakataka",
+      "Purified Stakataka"
+    ]
+  },
+  {
+    "id": "blacephalon",
+    "name": "Blacephalon",
+    "forms": [
+      "Blacephalon",
+      "✨ Blacephalon",
+      "Shadow Blacephalon",
+      "Purified Blacephalon"
+    ]
+  },
+  {
+    "id": "zeraora",
+    "name": "Zeraora",
+    "forms": [
+      "Zeraora",
+      "✨ Zeraora",
+      "Shadow Zeraora",
+      "Purified Zeraora"
+    ]
+  },
+  {
+    "id": "meltan",
+    "name": "Meltan",
+    "forms": [
+      "Meltan",
+      "✨ Meltan",
+      "Shadow Meltan",
+      "Purified Meltan"
+    ]
+  },
+  {
+    "id": "melmetal",
+    "name": "Melmetal",
+    "forms": [
+      "Melmetal",
+      "✨ Melmetal",
+      "Shadow Melmetal",
+      "Purified Melmetal"
+    ]
+  },
+  {
+    "id": "grookey",
+    "name": "Grookey",
+    "forms": [
+      "Grookey",
+      "✨ Grookey",
+      "Shadow Grookey",
+      "Purified Grookey"
+    ]
+  },
+  {
+    "id": "thwackey",
+    "name": "Thwackey",
+    "forms": [
+      "Thwackey",
+      "✨ Thwackey",
+      "Shadow Thwackey",
+      "Purified Thwackey"
+    ]
+  },
+  {
+    "id": "rillaboom",
+    "name": "Rillaboom",
+    "forms": [
+      "Rillaboom",
+      "✨ Rillaboom",
+      "Shadow Rillaboom",
+      "Purified Rillaboom"
+    ]
+  },
+  {
+    "id": "scorbunny",
+    "name": "Scorbunny",
+    "forms": [
+      "Scorbunny",
+      "✨ Scorbunny",
+      "Shadow Scorbunny",
+      "Purified Scorbunny"
+    ]
+  },
+  {
+    "id": "raboot",
+    "name": "Raboot",
+    "forms": [
+      "Raboot",
+      "✨ Raboot",
+      "Shadow Raboot",
+      "Purified Raboot"
+    ]
+  },
+  {
+    "id": "cinderace",
+    "name": "Cinderace",
+    "forms": [
+      "Cinderace",
+      "✨ Cinderace",
+      "Shadow Cinderace",
+      "Purified Cinderace"
+    ]
+  },
+  {
+    "id": "sobble",
+    "name": "Sobble",
+    "forms": [
+      "Sobble",
+      "✨ Sobble",
+      "Shadow Sobble",
+      "Purified Sobble"
+    ]
+  },
+  {
+    "id": "drizzile",
+    "name": "Drizzile",
+    "forms": [
+      "Drizzile",
+      "✨ Drizzile",
+      "Shadow Drizzile",
+      "Purified Drizzile"
+    ]
+  },
+  {
+    "id": "inteleon",
+    "name": "Inteleon",
+    "forms": [
+      "Inteleon",
+      "✨ Inteleon",
+      "Shadow Inteleon",
+      "Purified Inteleon"
+    ]
+  },
+  {
+    "id": "skwovet",
+    "name": "Skwovet",
+    "forms": [
+      "Skwovet",
+      "✨ Skwovet",
+      "Shadow Skwovet",
+      "Purified Skwovet"
+    ]
+  },
+  {
+    "id": "greedent",
+    "name": "Greedent",
+    "forms": [
+      "Greedent",
+      "✨ Greedent",
+      "Shadow Greedent",
+      "Purified Greedent"
+    ]
+  },
+  {
+    "id": "rookidee",
+    "name": "Rookidee",
+    "forms": [
+      "Rookidee",
+      "✨ Rookidee",
+      "Shadow Rookidee",
+      "Purified Rookidee"
+    ]
+  },
+  {
+    "id": "corvisquire",
+    "name": "Corvisquire",
+    "forms": [
+      "Corvisquire",
+      "✨ Corvisquire",
+      "Shadow Corvisquire",
+      "Purified Corvisquire"
+    ]
+  },
+  {
+    "id": "corviknight",
+    "name": "Corviknight",
+    "forms": [
+      "Corviknight",
+      "✨ Corviknight",
+      "Shadow Corviknight",
+      "Purified Corviknight"
+    ]
+  },
+  {
+    "id": "blipbug",
+    "name": "Blipbug",
+    "forms": [
+      "Blipbug",
+      "✨ Blipbug",
+      "Shadow Blipbug",
+      "Purified Blipbug"
+    ]
+  },
+  {
+    "id": "dottler",
+    "name": "Dottler",
+    "forms": [
+      "Dottler",
+      "✨ Dottler",
+      "Shadow Dottler",
+      "Purified Dottler"
+    ]
+  },
+  {
+    "id": "orbeetle",
+    "name": "Orbeetle",
+    "forms": [
+      "Orbeetle",
+      "✨ Orbeetle",
+      "Shadow Orbeetle",
+      "Purified Orbeetle"
+    ]
+  },
+  {
+    "id": "nickit",
+    "name": "Nickit",
+    "forms": [
+      "Nickit",
+      "✨ Nickit",
+      "Shadow Nickit",
+      "Purified Nickit"
+    ]
+  },
+  {
+    "id": "thievul",
+    "name": "Thievul",
+    "forms": [
+      "Thievul",
+      "✨ Thievul",
+      "Shadow Thievul",
+      "Purified Thievul"
+    ]
+  },
+  {
+    "id": "gossifleur",
+    "name": "Gossifleur",
+    "forms": [
+      "Gossifleur",
+      "✨ Gossifleur",
+      "Shadow Gossifleur",
+      "Purified Gossifleur"
+    ]
+  },
+  {
+    "id": "eldegoss",
+    "name": "Eldegoss",
+    "forms": [
+      "Eldegoss",
+      "✨ Eldegoss",
+      "Shadow Eldegoss",
+      "Purified Eldegoss"
+    ]
+  },
+  {
+    "id": "wooloo",
+    "name": "Wooloo",
+    "forms": [
+      "Wooloo",
+      "✨ Wooloo",
+      "Shadow Wooloo",
+      "Purified Wooloo"
+    ]
+  },
+  {
+    "id": "dubwool",
+    "name": "Dubwool",
+    "forms": [
+      "Dubwool",
+      "✨ Dubwool",
+      "Shadow Dubwool",
+      "Purified Dubwool"
+    ]
+  },
+  {
+    "id": "chewtle",
+    "name": "Chewtle",
+    "forms": [
+      "Chewtle",
+      "✨ Chewtle",
+      "Shadow Chewtle",
+      "Purified Chewtle"
+    ]
+  },
+  {
+    "id": "drednaw",
+    "name": "Drednaw",
+    "forms": [
+      "Drednaw",
+      "✨ Drednaw",
+      "Shadow Drednaw",
+      "Purified Drednaw"
+    ]
+  },
+  {
+    "id": "yamper",
+    "name": "Yamper",
+    "forms": [
+      "Yamper",
+      "✨ Yamper",
+      "Shadow Yamper",
+      "Purified Yamper"
+    ]
+  },
+  {
+    "id": "boltund",
+    "name": "Boltund",
+    "forms": [
+      "Boltund",
+      "✨ Boltund",
+      "Shadow Boltund",
+      "Purified Boltund"
+    ]
+  },
+  {
+    "id": "rolycoly",
+    "name": "Rolycoly",
+    "forms": [
+      "Rolycoly",
+      "✨ Rolycoly",
+      "Shadow Rolycoly",
+      "Purified Rolycoly"
+    ]
+  },
+  {
+    "id": "carkol",
+    "name": "Carkol",
+    "forms": [
+      "Carkol",
+      "✨ Carkol",
+      "Shadow Carkol",
+      "Purified Carkol"
+    ]
+  },
+  {
+    "id": "coalossal",
+    "name": "Coalossal",
+    "forms": [
+      "Coalossal",
+      "✨ Coalossal",
+      "Shadow Coalossal",
+      "Purified Coalossal"
+    ]
+  },
+  {
+    "id": "applin",
+    "name": "Applin",
+    "forms": [
+      "Applin",
+      "✨ Applin",
+      "Shadow Applin",
+      "Purified Applin"
+    ]
+  },
+  {
+    "id": "flapple",
+    "name": "Flapple",
+    "forms": [
+      "Flapple",
+      "✨ Flapple",
+      "Shadow Flapple",
+      "Purified Flapple"
+    ]
+  },
+  {
+    "id": "appletun",
+    "name": "Appletun",
+    "forms": [
+      "Appletun",
+      "✨ Appletun",
+      "Shadow Appletun",
+      "Purified Appletun"
+    ]
+  },
+  {
+    "id": "dipplin",
+    "name": "Dipplin",
+    "forms": [
+      "Dipplin",
+      "✨ Dipplin",
+      "Shadow Dipplin",
+      "Purified Dipplin"
+    ]
+  },
+  {
+    "id": "silicobra",
+    "name": "Silicobra",
+    "forms": [
+      "Silicobra",
+      "✨ Silicobra",
+      "Shadow Silicobra",
+      "Purified Silicobra"
+    ]
+  },
+  {
+    "id": "sandaconda",
+    "name": "Sandaconda",
+    "forms": [
+      "Sandaconda",
+      "✨ Sandaconda",
+      "Shadow Sandaconda",
+      "Purified Sandaconda"
+    ]
+  },
+  {
+    "id": "cramorant",
+    "name": "Cramorant",
+    "forms": [
+      "Cramorant",
+      "✨ Cramorant",
+      "Shadow Cramorant",
+      "Purified Cramorant",
+      "Cramorant (Gulping)",
+      "Cramorant (Gorging)"
+    ]
+  },
+  {
+    "id": "arrokuda",
+    "name": "Arrokuda",
+    "forms": [
+      "Arrokuda",
+      "✨ Arrokuda",
+      "Shadow Arrokuda",
+      "Purified Arrokuda"
+    ]
+  },
+  {
+    "id": "barraskewda",
+    "name": "Barraskewda",
+    "forms": [
+      "Barraskewda",
+      "✨ Barraskewda",
+      "Shadow Barraskewda",
+      "Purified Barraskewda"
+    ]
+  },
+  {
+    "id": "toxel",
+    "name": "Toxel",
+    "forms": [
+      "Toxel",
+      "✨ Toxel",
+      "Shadow Toxel",
+      "Purified Toxel"
+    ]
+  },
+  {
+    "id": "toxtricity",
+    "name": "Toxtricity",
+    "forms": [
+      "Toxtricity",
+      "✨ Toxtricity",
+      "Shadow Toxtricity",
+      "Purified Toxtricity",
+      "Toxtricity (Amped)",
+      "Toxtricity (Low Key)"
+    ]
+  },
+  {
+    "id": "sizzlipede",
+    "name": "Sizzlipede",
+    "forms": [
+      "Sizzlipede",
+      "✨ Sizzlipede",
+      "Shadow Sizzlipede",
+      "Purified Sizzlipede"
+    ]
+  },
+  {
+    "id": "centiskorch",
+    "name": "Centiskorch",
+    "forms": [
+      "Centiskorch",
+      "✨ Centiskorch",
+      "Shadow Centiskorch",
+      "Purified Centiskorch"
+    ]
+  },
+  {
+    "id": "clobbopus",
+    "name": "Clobbopus",
+    "forms": [
+      "Clobbopus",
+      "✨ Clobbopus",
+      "Shadow Clobbopus",
+      "Purified Clobbopus"
+    ]
+  },
+  {
+    "id": "grapploct",
+    "name": "Grapploct",
+    "forms": [
+      "Grapploct",
+      "✨ Grapploct",
+      "Shadow Grapploct",
+      "Purified Grapploct"
+    ]
+  },
+  {
+    "id": "sinistea",
+    "name": "Sinistea",
+    "forms": [
+      "Sinistea",
+      "✨ Sinistea",
+      "Shadow Sinistea",
+      "Purified Sinistea"
+    ]
+  },
+  {
+    "id": "polteageist",
+    "name": "Polteageist",
+    "forms": [
+      "Polteageist",
+      "✨ Polteageist",
+      "Shadow Polteageist",
+      "Purified Polteageist"
+    ]
+  },
+  {
+    "id": "hatenna",
+    "name": "Hatenna",
+    "forms": [
+      "Hatenna",
+      "✨ Hatenna",
+      "Shadow Hatenna",
+      "Purified Hatenna"
+    ]
+  },
+  {
+    "id": "hattrem",
+    "name": "Hattrem",
+    "forms": [
+      "Hattrem",
+      "✨ Hattrem",
+      "Shadow Hattrem",
+      "Purified Hattrem"
+    ]
+  },
+  {
+    "id": "hatterene",
+    "name": "Hatterene",
+    "forms": [
+      "Hatterene",
+      "✨ Hatterene",
+      "Shadow Hatterene",
+      "Purified Hatterene"
+    ]
+  },
+  {
+    "id": "impidimp",
+    "name": "Impidimp",
+    "forms": [
+      "Impidimp",
+      "✨ Impidimp",
+      "Shadow Impidimp",
+      "Purified Impidimp"
+    ]
+  },
+  {
+    "id": "morgrem",
+    "name": "Morgrem",
+    "forms": [
+      "Morgrem",
+      "✨ Morgrem",
+      "Shadow Morgrem",
+      "Purified Morgrem"
+    ]
+  },
+  {
+    "id": "grimmsnarl",
+    "name": "Grimmsnarl",
+    "forms": [
+      "Grimmsnarl",
+      "✨ Grimmsnarl",
+      "Shadow Grimmsnarl",
+      "Purified Grimmsnarl"
+    ]
+  },
+  {
+    "id": "obstagoon",
+    "name": "Obstagoon",
+    "forms": [
+      "Obstagoon",
+      "✨ Obstagoon",
+      "Shadow Obstagoon",
+      "Purified Obstagoon"
+    ]
+  },
+  {
+    "id": "perrserker",
+    "name": "Perrserker",
+    "forms": [
+      "Perrserker",
+      "✨ Perrserker",
+      "Shadow Perrserker",
+      "Purified Perrserker"
+    ]
+  },
+  {
+    "id": "cursola",
+    "name": "Cursola",
+    "forms": [
+      "Cursola",
+      "✨ Cursola",
+      "Shadow Cursola",
+      "Purified Cursola"
+    ]
+  },
+  {
+    "id": "sirfetchd",
+    "name": "Sirfetch’d",
+    "forms": [
+      "Sirfetch’d",
+      "✨ Sirfetch’d",
+      "Shadow Sirfetch’d",
+      "Purified Sirfetch’d"
+    ]
+  },
+  {
+    "id": "mr_rime",
+    "name": "Mr. Rime",
+    "forms": [
+      "Mr. Rime",
+      "✨ Mr. Rime",
+      "Shadow Mr. Rime",
+      "Purified Mr. Rime"
+    ]
+  },
+  {
+    "id": "runerigus",
+    "name": "Runerigus",
+    "forms": [
+      "Runerigus",
+      "✨ Runerigus",
+      "Shadow Runerigus",
+      "Purified Runerigus"
+    ]
+  },
+  {
+    "id": "milcery",
+    "name": "Milcery",
+    "forms": [
+      "Milcery",
+      "✨ Milcery",
+      "Shadow Milcery",
+      "Purified Milcery"
+    ]
+  },
+  {
+    "id": "alcremie",
+    "name": "Alcremie",
+    "forms": [
+      "Alcremie",
+      "✨ Alcremie",
+      "Shadow Alcremie",
+      "Purified Alcremie",
+      "Alcremie (All Creams)"
+    ]
+  },
+  {
+    "id": "falinks",
+    "name": "Falinks",
+    "forms": [
+      "Falinks",
+      "✨ Falinks",
+      "Shadow Falinks",
+      "Purified Falinks"
+    ]
+  },
+  {
+    "id": "pincurchin",
+    "name": "Pincurchin",
+    "forms": [
+      "Pincurchin",
+      "✨ Pincurchin",
+      "Shadow Pincurchin",
+      "Purified Pincurchin"
+    ]
+  },
+  {
+    "id": "snom",
+    "name": "Snom",
+    "forms": [
+      "Snom",
+      "✨ Snom",
+      "Shadow Snom",
+      "Purified Snom"
+    ]
+  },
+  {
+    "id": "frosmoth",
+    "name": "Frosmoth",
+    "forms": [
+      "Frosmoth",
+      "✨ Frosmoth",
+      "Shadow Frosmoth",
+      "Purified Frosmoth"
+    ]
+  },
+  {
+    "id": "stonjourner",
+    "name": "Stonjourner",
+    "forms": [
+      "Stonjourner",
+      "✨ Stonjourner",
+      "Shadow Stonjourner",
+      "Purified Stonjourner"
+    ]
+  },
+  {
+    "id": "eiscue",
+    "name": "Eiscue",
+    "forms": [
+      "Eiscue",
+      "✨ Eiscue",
+      "Shadow Eiscue",
+      "Purified Eiscue",
+      "Eiscue (Ice Face)",
+      "Eiscue (Noice Face)"
+    ]
+  },
+  {
+    "id": "indeedee",
+    "name": "Indeedee",
+    "forms": [
+      "Indeedee",
+      "✨ Indeedee",
+      "Shadow Indeedee",
+      "Purified Indeedee"
+    ]
+  },
+  {
+    "id": "morpeko",
+    "name": "Morpeko",
+    "forms": [
+      "Morpeko",
+      "✨ Morpeko",
+      "Shadow Morpeko",
+      "Purified Morpeko",
+      "Morpeko (Full Belly)",
+      "Morpeko (Hangry)"
+    ]
+  },
+  {
+    "id": "cufant",
+    "name": "Cufant",
+    "forms": [
+      "Cufant",
+      "✨ Cufant",
+      "Shadow Cufant",
+      "Purified Cufant"
+    ]
+  },
+  {
+    "id": "copperajah",
+    "name": "Copperajah",
+    "forms": [
+      "Copperajah",
+      "✨ Copperajah",
+      "Shadow Copperajah",
+      "Purified Copperajah"
+    ]
+  },
+  {
+    "id": "dracozolt",
+    "name": "Dracozolt",
+    "forms": [
+      "Dracozolt",
+      "✨ Dracozolt",
+      "Shadow Dracozolt",
+      "Purified Dracozolt"
+    ]
+  },
+  {
+    "id": "arctozolt",
+    "name": "Arctozolt",
+    "forms": [
+      "Arctozolt",
+      "✨ Arctozolt",
+      "Shadow Arctozolt",
+      "Purified Arctozolt"
+    ]
+  },
+  {
+    "id": "dracovish",
+    "name": "Dracovish",
+    "forms": [
+      "Dracovish",
+      "✨ Dracovish",
+      "Shadow Dracovish",
+      "Purified Dracovish"
+    ]
+  },
+  {
+    "id": "arctovish",
+    "name": "Arctovish",
+    "forms": [
+      "Arctovish",
+      "✨ Arctovish",
+      "Shadow Arctovish",
+      "Purified Arctovish"
+    ]
+  },
+  {
+    "id": "duraludon",
+    "name": "Duraludon",
+    "forms": [
+      "Duraludon",
+      "✨ Duraludon",
+      "Shadow Duraludon",
+      "Purified Duraludon"
+    ]
+  },
+  {
+    "id": "dreepy",
+    "name": "Dreepy",
+    "forms": [
+      "Dreepy",
+      "✨ Dreepy",
+      "Shadow Dreepy",
+      "Purified Dreepy"
+    ]
+  },
+  {
+    "id": "drakloak",
+    "name": "Drakloak",
+    "forms": [
+      "Drakloak",
+      "✨ Drakloak",
+      "Shadow Drakloak",
+      "Purified Drakloak"
+    ]
+  },
+  {
+    "id": "dragapult",
+    "name": "Dragapult",
+    "forms": [
+      "Dragapult",
+      "✨ Dragapult",
+      "Shadow Dragapult",
+      "Purified Dragapult"
+    ]
+  },
+  {
+    "id": "zacian",
+    "name": "Zacian",
+    "forms": [
+      "Zacian",
+      "✨ Zacian",
+      "Shadow Zacian",
+      "Purified Zacian",
+      "Zacian (Hero of Many Battles)",
+      "Zacian (Crowned Sword)"
+    ]
+  },
+  {
+    "id": "zamazenta",
+    "name": "Zamazenta",
+    "forms": [
+      "Zamazenta",
+      "✨ Zamazenta",
+      "Shadow Zamazenta",
+      "Purified Zamazenta",
+      "Zamazenta (Hero of Many Battles)",
+      "Zamazenta (Crowned Shield)"
+    ]
+  },
+  {
+    "id": "eternatus",
+    "name": "Eternatus",
+    "forms": [
+      "Eternatus",
+      "✨ Eternatus",
+      "Shadow Eternatus",
+      "Purified Eternatus",
+      "Eternamax Eternatus"
+    ]
+  },
+  {
+    "id": "kubfu",
+    "name": "Kubfu",
+    "forms": [
+      "Kubfu",
+      "✨ Kubfu",
+      "Shadow Kubfu",
+      "Purified Kubfu"
+    ]
+  },
+  {
+    "id": "urshifu",
+    "name": "Urshifu",
+    "forms": [
+      "Urshifu",
+      "✨ Urshifu",
+      "Shadow Urshifu",
+      "Purified Urshifu",
+      "Urshifu (Single Strike)",
+      "Urshifu (Rapid Strike)"
+    ]
+  },
+  {
+    "id": "zarude",
+    "name": "Zarude",
+    "forms": [
+      "Zarude",
+      "✨ Zarude",
+      "Shadow Zarude",
+      "Purified Zarude"
+    ]
+  },
+  {
+    "id": "regieleki",
+    "name": "Regieleki",
+    "forms": [
+      "Regieleki",
+      "✨ Regieleki",
+      "Shadow Regieleki",
+      "Purified Regieleki"
+    ]
+  },
+  {
+    "id": "regidrago",
+    "name": "Regidrago",
+    "forms": [
+      "Regidrago",
+      "✨ Regidrago",
+      "Shadow Regidrago",
+      "Purified Regidrago"
+    ]
+  },
+  {
+    "id": "glastrier",
+    "name": "Glastrier",
+    "forms": [
+      "Glastrier",
+      "✨ Glastrier",
+      "Shadow Glastrier",
+      "Purified Glastrier"
+    ]
+  },
+  {
+    "id": "spectrier",
+    "name": "Spectrier",
+    "forms": [
+      "Spectrier",
+      "✨ Spectrier",
+      "Shadow Spectrier",
+      "Purified Spectrier"
+    ]
+  },
+  {
+    "id": "calyrex",
+    "name": "Calyrex",
+    "forms": [
+      "Calyrex",
+      "✨ Calyrex",
+      "Shadow Calyrex",
+      "Purified Calyrex",
+      "Ice Rider Calyrex",
+      "Shadow Rider Calyrex"
+    ]
+  },
+  {
+    "id": "sprigatito",
+    "name": "Sprigatito",
+    "forms": [
+      "Sprigatito",
+      "✨ Sprigatito",
+      "Shadow Sprigatito",
+      "Purified Sprigatito"
+    ]
+  },
+  {
+    "id": "floragato",
+    "name": "Floragato",
+    "forms": [
+      "Floragato",
+      "✨ Floragato",
+      "Shadow Floragato",
+      "Purified Floragato"
+    ]
+  },
+  {
+    "id": "meowscarada",
+    "name": "Meowscarada",
+    "forms": [
+      "Meowscarada",
+      "✨ Meowscarada",
+      "Shadow Meowscarada",
+      "Purified Meowscarada"
+    ]
+  },
+  {
+    "id": "fuecoco",
+    "name": "Fuecoco",
+    "forms": [
+      "Fuecoco",
+      "✨ Fuecoco",
+      "Shadow Fuecoco",
+      "Purified Fuecoco"
+    ]
+  },
+  {
+    "id": "crocalor",
+    "name": "Crocalor",
+    "forms": [
+      "Crocalor",
+      "✨ Crocalor",
+      "Shadow Crocalor",
+      "Purified Crocalor"
+    ]
+  },
+  {
+    "id": "skeledirge",
+    "name": "Skeledirge",
+    "forms": [
+      "Skeledirge",
+      "✨ Skeledirge",
+      "Shadow Skeledirge",
+      "Purified Skeledirge"
+    ]
+  },
+  {
+    "id": "quaxly",
+    "name": "Quaxly",
+    "forms": [
+      "Quaxly",
+      "✨ Quaxly",
+      "Shadow Quaxly",
+      "Purified Quaxly"
+    ]
+  },
+  {
+    "id": "quaxwell",
+    "name": "Quaxwell",
+    "forms": [
+      "Quaxwell",
+      "✨ Quaxwell",
+      "Shadow Quaxwell",
+      "Purified Quaxwell"
+    ]
+  },
+  {
+    "id": "quaquaval",
+    "name": "Quaquaval",
+    "forms": [
+      "Quaquaval",
+      "✨ Quaquaval",
+      "Shadow Quaquaval",
+      "Purified Quaquaval"
+    ]
+  },
+  {
+    "id": "lechonk",
+    "name": "Lechonk",
+    "forms": [
+      "Lechonk",
+      "✨ Lechonk",
+      "Shadow Lechonk",
+      "Purified Lechonk"
+    ]
+  },
+  {
+    "id": "oinkologne",
+    "name": "Oinkologne",
+    "forms": [
+      "Oinkologne",
+      "✨ Oinkologne",
+      "Shadow Oinkologne",
+      "Purified Oinkologne"
+    ]
+  },
+  {
+    "id": "tarountula",
+    "name": "Tarountula",
+    "forms": [
+      "Tarountula",
+      "✨ Tarountula",
+      "Shadow Tarountula",
+      "Purified Tarountula"
+    ]
+  },
+  {
+    "id": "spidops",
+    "name": "Spidops",
+    "forms": [
+      "Spidops",
+      "✨ Spidops",
+      "Shadow Spidops",
+      "Purified Spidops"
+    ]
+  },
+  {
+    "id": "nymble",
+    "name": "Nymble",
+    "forms": [
+      "Nymble",
+      "✨ Nymble",
+      "Shadow Nymble",
+      "Purified Nymble"
+    ]
+  },
+  {
+    "id": "lokix",
+    "name": "Lokix",
+    "forms": [
+      "Lokix",
+      "✨ Lokix",
+      "Shadow Lokix",
+      "Purified Lokix"
+    ]
+  },
+  {
+    "id": "pawmi",
+    "name": "Pawmi",
+    "forms": [
+      "Pawmi",
+      "✨ Pawmi",
+      "Shadow Pawmi",
+      "Purified Pawmi"
+    ]
+  },
+  {
+    "id": "pawmo",
+    "name": "Pawmo",
+    "forms": [
+      "Pawmo",
+      "✨ Pawmo",
+      "Shadow Pawmo",
+      "Purified Pawmo"
+    ]
+  },
+  {
+    "id": "pawmot",
+    "name": "Pawmot",
+    "forms": [
+      "Pawmot",
+      "✨ Pawmot",
+      "Shadow Pawmot",
+      "Purified Pawmot"
+    ]
+  },
+  {
+    "id": "tandemaus",
+    "name": "Tandemaus",
+    "forms": [
+      "Tandemaus",
+      "✨ Tandemaus",
+      "Shadow Tandemaus",
+      "Purified Tandemaus"
+    ]
+  },
+  {
+    "id": "maushold",
+    "name": "Maushold",
+    "forms": [
+      "Maushold",
+      "✨ Maushold",
+      "Shadow Maushold",
+      "Purified Maushold"
+    ]
+  },
+  {
+    "id": "fidough",
+    "name": "Fidough",
+    "forms": [
+      "Fidough",
+      "✨ Fidough",
+      "Shadow Fidough",
+      "Purified Fidough"
+    ]
+  },
+  {
+    "id": "dachsbun",
+    "name": "Dachsbun",
+    "forms": [
+      "Dachsbun",
+      "✨ Dachsbun",
+      "Shadow Dachsbun",
+      "Purified Dachsbun"
+    ]
+  },
+  {
+    "id": "smoliv",
+    "name": "Smoliv",
+    "forms": [
+      "Smoliv",
+      "✨ Smoliv",
+      "Shadow Smoliv",
+      "Purified Smoliv"
+    ]
+  },
+  {
+    "id": "dolliv",
+    "name": "Dolliv",
+    "forms": [
+      "Dolliv",
+      "✨ Dolliv",
+      "Shadow Dolliv",
+      "Purified Dolliv"
+    ]
+  },
+  {
+    "id": "arboliva",
+    "name": "Arboliva",
+    "forms": [
+      "Arboliva",
+      "✨ Arboliva",
+      "Shadow Arboliva",
+      "Purified Arboliva"
+    ]
+  },
+  {
+    "id": "squawkabilly",
+    "name": "Squawkabilly",
+    "forms": [
+      "Squawkabilly",
+      "✨ Squawkabilly",
+      "Shadow Squawkabilly",
+      "Purified Squawkabilly"
+    ]
+  },
+  {
+    "id": "nacli",
+    "name": "Nacli",
+    "forms": [
+      "Nacli",
+      "✨ Nacli",
+      "Shadow Nacli",
+      "Purified Nacli"
+    ]
+  },
+  {
+    "id": "naclstack",
+    "name": "Naclstack",
+    "forms": [
+      "Naclstack",
+      "✨ Naclstack",
+      "Shadow Naclstack",
+      "Purified Naclstack"
+    ]
+  },
+  {
+    "id": "garganacl",
+    "name": "Garganacl",
+    "forms": [
+      "Garganacl",
+      "✨ Garganacl",
+      "Shadow Garganacl",
+      "Purified Garganacl"
+    ]
+  },
+  {
+    "id": "charcadet",
+    "name": "Charcadet",
+    "forms": [
+      "Charcadet",
+      "✨ Charcadet",
+      "Shadow Charcadet",
+      "Purified Charcadet"
+    ]
+  },
+  {
+    "id": "armarouge",
+    "name": "Armarouge",
+    "forms": [
+      "Armarouge",
+      "✨ Armarouge",
+      "Shadow Armarouge",
+      "Purified Armarouge"
+    ]
+  },
+  {
+    "id": "ceruledge",
+    "name": "Ceruledge",
+    "forms": [
+      "Ceruledge",
+      "✨ Ceruledge",
+      "Shadow Ceruledge",
+      "Purified Ceruledge"
+    ]
+  },
+  {
+    "id": "tadbulb",
+    "name": "Tadbulb",
+    "forms": [
+      "Tadbulb",
+      "✨ Tadbulb",
+      "Shadow Tadbulb",
+      "Purified Tadbulb"
+    ]
+  },
+  {
+    "id": "bellibolt",
+    "name": "Bellibolt",
+    "forms": [
+      "Bellibolt",
+      "✨ Bellibolt",
+      "Shadow Bellibolt",
+      "Purified Bellibolt"
+    ]
+  },
+  {
+    "id": "wattrel",
+    "name": "Wattrel",
+    "forms": [
+      "Wattrel",
+      "✨ Wattrel",
+      "Shadow Wattrel",
+      "Purified Wattrel"
+    ]
+  },
+  {
+    "id": "kilowattrel",
+    "name": "Kilowattrel",
+    "forms": [
+      "Kilowattrel",
+      "✨ Kilowattrel",
+      "Shadow Kilowattrel",
+      "Purified Kilowattrel"
+    ]
+  },
+  {
+    "id": "maschiff",
+    "name": "Maschiff",
+    "forms": [
+      "Maschiff",
+      "✨ Maschiff",
+      "Shadow Maschiff",
+      "Purified Maschiff"
+    ]
+  },
+  {
+    "id": "mabosstiff",
+    "name": "Mabosstiff",
+    "forms": [
+      "Mabosstiff",
+      "✨ Mabosstiff",
+      "Shadow Mabosstiff",
+      "Purified Mabosstiff"
+    ]
+  },
+  {
+    "id": "shroodle",
+    "name": "Shroodle",
+    "forms": [
+      "Shroodle",
+      "✨ Shroodle",
+      "Shadow Shroodle",
+      "Purified Shroodle"
+    ]
+  },
+  {
+    "id": "grafaiai",
+    "name": "Grafaiai",
+    "forms": [
+      "Grafaiai",
+      "✨ Grafaiai",
+      "Shadow Grafaiai",
+      "Purified Grafaiai"
+    ]
+  },
+  {
+    "id": "bramblin",
+    "name": "Bramblin",
+    "forms": [
+      "Bramblin",
+      "✨ Bramblin",
+      "Shadow Bramblin",
+      "Purified Bramblin"
+    ]
+  },
+  {
+    "id": "brambleghast",
+    "name": "Brambleghast",
+    "forms": [
+      "Brambleghast",
+      "✨ Brambleghast",
+      "Shadow Brambleghast",
+      "Purified Brambleghast"
+    ]
+  },
+  {
+    "id": "toedscool",
+    "name": "Toedscool",
+    "forms": [
+      "Toedscool",
+      "✨ Toedscool",
+      "Shadow Toedscool",
+      "Purified Toedscool"
+    ]
+  },
+  {
+    "id": "toedscruel",
+    "name": "Toedscruel",
+    "forms": [
+      "Toedscruel",
+      "✨ Toedscruel",
+      "Shadow Toedscruel",
+      "Purified Toedscruel"
+    ]
+  },
+  {
+    "id": "klawf",
+    "name": "Klawf",
+    "forms": [
+      "Klawf",
+      "✨ Klawf",
+      "Shadow Klawf",
+      "Purified Klawf"
+    ]
+  },
+  {
+    "id": "capsakid",
+    "name": "Capsakid",
+    "forms": [
+      "Capsakid",
+      "✨ Capsakid",
+      "Shadow Capsakid",
+      "Purified Capsakid"
+    ]
+  },
+  {
+    "id": "scovillain",
+    "name": "Scovillain",
+    "forms": [
+      "Scovillain",
+      "✨ Scovillain",
+      "Shadow Scovillain",
+      "Purified Scovillain"
+    ]
+  },
+  {
+    "id": "rellor",
+    "name": "Rellor",
+    "forms": [
+      "Rellor",
+      "✨ Rellor",
+      "Shadow Rellor",
+      "Purified Rellor"
+    ]
+  },
+  {
+    "id": "rabsca",
+    "name": "Rabsca",
+    "forms": [
+      "Rabsca",
+      "✨ Rabsca",
+      "Shadow Rabsca",
+      "Purified Rabsca"
+    ]
+  },
+  {
+    "id": "flittle",
+    "name": "Flittle",
+    "forms": [
+      "Flittle",
+      "✨ Flittle",
+      "Shadow Flittle",
+      "Purified Flittle"
+    ]
+  },
+  {
+    "id": "espathra",
+    "name": "Espathra",
+    "forms": [
+      "Espathra",
+      "✨ Espathra",
+      "Shadow Espathra",
+      "Purified Espathra"
+    ]
+  },
+  {
+    "id": "tinkatink",
+    "name": "Tinkatink",
+    "forms": [
+      "Tinkatink",
+      "✨ Tinkatink",
+      "Shadow Tinkatink",
+      "Purified Tinkatink"
+    ]
+  },
+  {
+    "id": "tinkatuff",
+    "name": "Tinkatuff",
+    "forms": [
+      "Tinkatuff",
+      "✨ Tinkatuff",
+      "Shadow Tinkatuff",
+      "Purified Tinkatuff"
+    ]
+  },
+  {
+    "id": "tinkaton",
+    "name": "Tinkaton",
+    "forms": [
+      "Tinkaton",
+      "✨ Tinkaton",
+      "Shadow Tinkaton",
+      "Purified Tinkaton"
+    ]
+  },
+  {
+    "id": "wiglett",
+    "name": "Wiglett",
+    "forms": [
+      "Wiglett",
+      "✨ Wiglett",
+      "Shadow Wiglett",
+      "Purified Wiglett"
+    ]
+  },
+  {
+    "id": "wugtrio",
+    "name": "Wugtrio",
+    "forms": [
+      "Wugtrio",
+      "✨ Wugtrio",
+      "Shadow Wugtrio",
+      "Purified Wugtrio"
+    ]
+  },
+  {
+    "id": "bombirdier",
+    "name": "Bombirdier",
+    "forms": [
+      "Bombirdier",
+      "✨ Bombirdier",
+      "Shadow Bombirdier",
+      "Purified Bombirdier"
+    ]
+  },
+  {
+    "id": "finizen",
+    "name": "Finizen",
+    "forms": [
+      "Finizen",
+      "✨ Finizen",
+      "Shadow Finizen",
+      "Purified Finizen"
+    ]
+  },
+  {
+    "id": "palafin",
+    "name": "Palafin",
+    "forms": [
+      "Palafin",
+      "✨ Palafin",
+      "Shadow Palafin",
+      "Purified Palafin",
+      "Palafin (Zero)",
+      "Palafin (Hero)"
+    ]
+  },
+  {
+    "id": "varoom",
+    "name": "Varoom",
+    "forms": [
+      "Varoom",
+      "✨ Varoom",
+      "Shadow Varoom",
+      "Purified Varoom"
+    ]
+  },
+  {
+    "id": "revavroom",
+    "name": "Revavroom",
+    "forms": [
+      "Revavroom",
+      "✨ Revavroom",
+      "Shadow Revavroom",
+      "Purified Revavroom"
+    ]
+  },
+  {
+    "id": "cyclizar",
+    "name": "Cyclizar",
+    "forms": [
+      "Cyclizar",
+      "✨ Cyclizar",
+      "Shadow Cyclizar",
+      "Purified Cyclizar"
+    ]
+  },
+  {
+    "id": "orthworm",
+    "name": "Orthworm",
+    "forms": [
+      "Orthworm",
+      "✨ Orthworm",
+      "Shadow Orthworm",
+      "Purified Orthworm"
+    ]
+  },
+  {
+    "id": "glimmet",
+    "name": "Glimmet",
+    "forms": [
+      "Glimmet",
+      "✨ Glimmet",
+      "Shadow Glimmet",
+      "Purified Glimmet"
+    ]
+  },
+  {
+    "id": "glimmora",
+    "name": "Glimmora",
+    "forms": [
+      "Glimmora",
+      "✨ Glimmora",
+      "Shadow Glimmora",
+      "Purified Glimmora"
+    ]
+  },
+  {
+    "id": "greavard",
+    "name": "Greavard",
+    "forms": [
+      "Greavard",
+      "✨ Greavard",
+      "Shadow Greavard",
+      "Purified Greavard"
+    ]
+  },
+  {
+    "id": "houndstone",
+    "name": "Houndstone",
+    "forms": [
+      "Houndstone",
+      "✨ Houndstone",
+      "Shadow Houndstone",
+      "Purified Houndstone"
+    ]
+  },
+  {
+    "id": "flamigo",
+    "name": "Flamigo",
+    "forms": [
+      "Flamigo",
+      "✨ Flamigo",
+      "Shadow Flamigo",
+      "Purified Flamigo"
+    ]
+  },
+  {
+    "id": "cetoddle",
+    "name": "Cetoddle",
+    "forms": [
+      "Cetoddle",
+      "✨ Cetoddle",
+      "Shadow Cetoddle",
+      "Purified Cetoddle"
+    ]
+  },
+  {
+    "id": "cetitan",
+    "name": "Cetitan",
+    "forms": [
+      "Cetitan",
+      "✨ Cetitan",
+      "Shadow Cetitan",
+      "Purified Cetitan"
+    ]
+  },
+  {
+    "id": "veluza",
+    "name": "Veluza",
+    "forms": [
+      "Veluza",
+      "✨ Veluza",
+      "Shadow Veluza",
+      "Purified Veluza"
+    ]
+  },
+  {
+    "id": "dondozo",
+    "name": "Dondozo",
+    "forms": [
+      "Dondozo",
+      "✨ Dondozo",
+      "Shadow Dondozo",
+      "Purified Dondozo"
+    ]
+  },
+  {
+    "id": "tatsugiri",
+    "name": "Tatsugiri",
+    "forms": [
+      "Tatsugiri",
+      "✨ Tatsugiri",
+      "Shadow Tatsugiri",
+      "Purified Tatsugiri",
+      "Tatsugiri (Curly)",
+      "Tatsugiri (Droopy)",
+      "Tatsugiri (Stretchy)"
+    ]
+  },
+  {
+    "id": "annihilape",
+    "name": "Annihilape",
+    "forms": [
+      "Annihilape",
+      "✨ Annihilape",
+      "Shadow Annihilape",
+      "Purified Annihilape"
+    ]
+  },
+  {
+    "id": "clodsire",
+    "name": "Clodsire",
+    "forms": [
+      "Clodsire",
+      "✨ Clodsire",
+      "Shadow Clodsire",
+      "Purified Clodsire"
+    ]
+  },
+  {
+    "id": "farigiraf",
+    "name": "Farigiraf",
+    "forms": [
+      "Farigiraf",
+      "✨ Farigiraf",
+      "Shadow Farigiraf",
+      "Purified Farigiraf"
+    ]
+  },
+  {
+    "id": "dudunsparce",
+    "name": "Dudunsparce",
+    "forms": [
+      "Dudunsparce",
+      "✨ Dudunsparce",
+      "Shadow Dudunsparce",
+      "Purified Dudunsparce"
+    ]
+  },
+  {
+    "id": "kingambit",
+    "name": "Kingambit",
+    "forms": [
+      "Kingambit",
+      "✨ Kingambit",
+      "Shadow Kingambit",
+      "Purified Kingambit"
+    ]
+  },
+  {
+    "id": "great_tusk",
+    "name": "Great Tusk",
+    "forms": [
+      "Great Tusk",
+      "✨ Great Tusk",
+      "Shadow Great Tusk",
+      "Purified Great Tusk"
+    ]
+  },
+  {
+    "id": "scream_tail",
+    "name": "Scream Tail",
+    "forms": [
+      "Scream Tail",
+      "✨ Scream Tail",
+      "Shadow Scream Tail",
+      "Purified Scream Tail"
+    ]
+  },
+  {
+    "id": "brute_bonnet",
+    "name": "Brute Bonnet",
+    "forms": [
+      "Brute Bonnet",
+      "✨ Brute Bonnet",
+      "Shadow Brute Bonnet",
+      "Purified Brute Bonnet"
+    ]
+  },
+  {
+    "id": "flutter_mane",
+    "name": "Flutter Mane",
+    "forms": [
+      "Flutter Mane",
+      "✨ Flutter Mane",
+      "Shadow Flutter Mane",
+      "Purified Flutter Mane"
+    ]
+  },
+  {
+    "id": "slither_wing",
+    "name": "Slither Wing",
+    "forms": [
+      "Slither Wing",
+      "✨ Slither Wing",
+      "Shadow Slither Wing",
+      "Purified Slither Wing"
+    ]
+  },
+  {
+    "id": "sandy_shocks",
+    "name": "Sandy Shocks",
+    "forms": [
+      "Sandy Shocks",
+      "✨ Sandy Shocks",
+      "Shadow Sandy Shocks",
+      "Purified Sandy Shocks"
+    ]
+  },
+  {
+    "id": "iron_treads",
+    "name": "Iron Treads",
+    "forms": [
+      "Iron Treads",
+      "✨ Iron Treads",
+      "Shadow Iron Treads",
+      "Purified Iron Treads"
+    ]
+  },
+  {
+    "id": "iron_bundle",
+    "name": "Iron Bundle",
+    "forms": [
+      "Iron Bundle",
+      "✨ Iron Bundle",
+      "Shadow Iron Bundle",
+      "Purified Iron Bundle"
+    ]
+  },
+  {
+    "id": "iron_hands",
+    "name": "Iron Hands",
+    "forms": [
+      "Iron Hands",
+      "✨ Iron Hands",
+      "Shadow Iron Hands",
+      "Purified Iron Hands"
+    ]
+  },
+  {
+    "id": "iron_jugulis",
+    "name": "Iron Jugulis",
+    "forms": [
+      "Iron Jugulis",
+      "✨ Iron Jugulis",
+      "Shadow Iron Jugulis",
+      "Purified Iron Jugulis"
+    ]
+  },
+  {
+    "id": "iron_moth",
+    "name": "Iron Moth",
+    "forms": [
+      "Iron Moth",
+      "✨ Iron Moth",
+      "Shadow Iron Moth",
+      "Purified Iron Moth"
+    ]
+  },
+  {
+    "id": "iron_thorns",
+    "name": "Iron Thorns",
+    "forms": [
+      "Iron Thorns",
+      "✨ Iron Thorns",
+      "Shadow Iron Thorns",
+      "Purified Iron Thorns"
+    ]
+  },
+  {
+    "id": "frigibax",
+    "name": "Frigibax",
+    "forms": [
+      "Frigibax",
+      "✨ Frigibax",
+      "Shadow Frigibax",
+      "Purified Frigibax"
+    ]
+  },
+  {
+    "id": "arctibax",
+    "name": "Arctibax",
+    "forms": [
+      "Arctibax",
+      "✨ Arctibax",
+      "Shadow Arctibax",
+      "Purified Arctibax"
+    ]
+  },
+  {
+    "id": "baxcalibur",
+    "name": "Baxcalibur",
+    "forms": [
+      "Baxcalibur",
+      "✨ Baxcalibur",
+      "Shadow Baxcalibur",
+      "Purified Baxcalibur"
+    ]
+  },
+  {
+    "id": "gimmighoul",
+    "name": "Gimmighoul",
+    "forms": [
+      "Gimmighoul",
+      "✨ Gimmighoul",
+      "Shadow Gimmighoul",
+      "Purified Gimmighoul"
+    ]
+  },
+  {
+    "id": "gholdengo",
+    "name": "Gholdengo",
+    "forms": [
+      "Gholdengo",
+      "✨ Gholdengo",
+      "Shadow Gholdengo",
+      "Purified Gholdengo"
+    ]
+  },
+  {
+    "id": "wo_chien",
+    "name": "Wo-Chien",
+    "forms": [
+      "Wo-Chien",
+      "✨ Wo-Chien",
+      "Shadow Wo-Chien",
+      "Purified Wo-Chien"
+    ]
+  },
+  {
+    "id": "chien_pao",
+    "name": "Chien-Pao",
+    "forms": [
+      "Chien-Pao",
+      "✨ Chien-Pao",
+      "Shadow Chien-Pao",
+      "Purified Chien-Pao"
+    ]
+  },
+  {
+    "id": "ting_lu",
+    "name": "Ting-Lu",
+    "forms": [
+      "Ting-Lu",
+      "✨ Ting-Lu",
+      "Shadow Ting-Lu",
+      "Purified Ting-Lu"
+    ]
+  },
+  {
+    "id": "chi_yu",
+    "name": "Chi-Yu",
+    "forms": [
+      "Chi-Yu",
+      "✨ Chi-Yu",
+      "Shadow Chi-Yu",
+      "Purified Chi-Yu"
+    ]
+  },
+  {
+    "id": "roaring_moon",
+    "name": "Roaring Moon",
+    "forms": [
+      "Roaring Moon",
+      "✨ Roaring Moon",
+      "Shadow Roaring Moon",
+      "Purified Roaring Moon"
+    ]
+  },
+  {
+    "id": "iron_valiant",
+    "name": "Iron Valiant",
+    "forms": [
+      "Iron Valiant",
+      "✨ Iron Valiant",
+      "Shadow Iron Valiant",
+      "Purified Iron Valiant"
+    ]
+  },
+  {
+    "id": "koraidon",
+    "name": "Koraidon",
+    "forms": [
+      "Koraidon",
+      "✨ Koraidon",
+      "Shadow Koraidon",
+      "Purified Koraidon"
+    ]
+  },
+  {
+    "id": "miraidon",
+    "name": "Miraidon",
+    "forms": [
+      "Miraidon",
+      "✨ Miraidon",
+      "Shadow Miraidon",
+      "Purified Miraidon"
+    ]
+  },
+  {
+    "id": "walking_wake",
+    "name": "Walking Wake",
+    "forms": [
+      "Walking Wake",
+      "✨ Walking Wake",
+      "Shadow Walking Wake",
+      "Purified Walking Wake"
+    ]
+  },
+  {
+    "id": "iron_leaves",
+    "name": "Iron Leaves",
+    "forms": [
+      "Iron Leaves",
+      "✨ Iron Leaves",
+      "Shadow Iron Leaves",
+      "Purified Iron Leaves"
+    ]
+  },
+  {
+    "id": "dipplin",
+    "name": "Dipplin",
+    "forms": [
+      "Dipplin",
+      "✨ Dipplin",
+      "Shadow Dipplin",
+      "Purified Dipplin"
+    ]
+  },
+  {
+    "id": "poltchageist",
+    "name": "Poltchageist",
+    "forms": [
+      "Poltchageist",
+      "✨ Poltchageist",
+      "Shadow Poltchageist",
+      "Purified Poltchageist"
+    ]
+  },
+  {
+    "id": "sinistcha",
+    "name": "Sinistcha",
+    "forms": [
+      "Sinistcha",
+      "✨ Sinistcha",
+      "Shadow Sinistcha",
+      "Purified Sinistcha"
+    ]
+  },
+  {
+    "id": "okidogi",
+    "name": "Okidogi",
+    "forms": [
+      "Okidogi",
+      "✨ Okidogi",
+      "Shadow Okidogi",
+      "Purified Okidogi"
+    ]
+  },
+  {
+    "id": "munkidori",
+    "name": "Munkidori",
+    "forms": [
+      "Munkidori",
+      "✨ Munkidori",
+      "Shadow Munkidori",
+      "Purified Munkidori"
+    ]
+  },
+  {
+    "id": "fezandipiti",
+    "name": "Fezandipiti",
+    "forms": [
+      "Fezandipiti",
+      "✨ Fezandipiti",
+      "Shadow Fezandipiti",
+      "Purified Fezandipiti"
+    ]
+  },
+  {
+    "id": "ogerpon",
+    "name": "Ogerpon",
+    "forms": [
+      "Ogerpon",
+      "✨ Ogerpon",
+      "Shadow Ogerpon",
+      "Purified Ogerpon",
+      "Ogerpon (Teal Mask)",
+      "Ogerpon (Wellspring Mask)",
+      "Ogerpon (Hearthflame Mask)",
+      "Ogerpon (Cornerstone Mask)"
+    ]
+  },
+  {
+    "id": "archaludon",
+    "name": "Archaludon",
+    "forms": [
+      "Archaludon",
+      "✨ Archaludon",
+      "Shadow Archaludon",
+      "Purified Archaludon"
+    ]
+  },
+  {
+    "id": "hydrapple",
+    "name": "Hydrapple",
+    "forms": [
+      "Hydrapple",
+      "✨ Hydrapple",
+      "Shadow Hydrapple",
+      "Purified Hydrapple"
+    ]
+  },
+  {
+    "id": "gouging_fire",
+    "name": "Gouging Fire",
+    "forms": [
+      "Gouging Fire",
+      "✨ Gouging Fire",
+      "Shadow Gouging Fire",
+      "Purified Gouging Fire"
+    ]
+  },
+  {
+    "id": "raging_bolt",
+    "name": "Raging Bolt",
+    "forms": [
+      "Raging Bolt",
+      "✨ Raging Bolt",
+      "Shadow Raging Bolt",
+      "Purified Raging Bolt"
+    ]
+  },
+  {
+    "id": "iron_boulder",
+    "name": "Iron Boulder",
+    "forms": [
+      "Iron Boulder",
+      "✨ Iron Boulder",
+      "Shadow Iron Boulder",
+      "Purified Iron Boulder"
+    ]
+  },
+  {
+    "id": "iron_crown",
+    "name": "Iron Crown",
+    "forms": [
+      "Iron Crown",
+      "✨ Iron Crown",
+      "Shadow Iron Crown",
+      "Purified Iron Crown"
+    ]
+  },
+  {
+    "id": "terapagos",
+    "name": "Terapagos",
+    "forms": [
+      "Terapagos",
+      "✨ Terapagos",
+      "Shadow Terapagos",
+      "Purified Terapagos",
+      "Terapagos (Normal)",
+      "Terapagos (Terastal)",
+      "Terapagos (Stellar)"
+    ]
+  },
+  {
+    "id": "pecharunt",
+    "name": "Pecharunt",
+    "forms": [
+      "Pecharunt",
+      "✨ Pecharunt",
+      "Shadow Pecharunt",
+      "Purified Pecharunt"
+    ]
+  },
+  {
+    "id": "growlithe",
+    "name": "Growlithe",
+    "forms": [
+      "Growlithe",
+      "✨ Growlithe",
+      "Shadow Growlithe",
+      "Purified Growlithe",
+      "Hisuian Growlithe"
+    ]
+  },
+  {
+    "id": "arcanine",
+    "name": "Arcanine",
+    "forms": [
+      "Arcanine",
+      "✨ Arcanine",
+      "Shadow Arcanine",
+      "Purified Arcanine",
+      "Hisuian Arcanine"
+    ]
+  },
+  {
+    "id": "voltorb",
+    "name": "Voltorb",
+    "forms": [
+      "Voltorb",
+      "✨ Voltorb",
+      "Shadow Voltorb",
+      "Purified Voltorb",
+      "Hisuian Voltorb"
+    ]
+  },
+  {
+    "id": "electrode",
+    "name": "Electrode",
+    "forms": [
+      "Electrode",
+      "✨ Electrode",
+      "Shadow Electrode",
+      "Purified Electrode",
+      "Hisuian Electrode"
+    ]
+  },
+  {
+    "id": "typhlosion",
+    "name": "Typhlosion",
+    "forms": [
+      "Typhlosion",
+      "✨ Typhlosion",
+      "Shadow Typhlosion",
+      "Purified Typhlosion",
+      "Hisuian Typhlosion"
+    ]
+  },
+  {
+    "id": "samurott",
+    "name": "Samurott",
+    "forms": [
+      "Samurott",
+      "✨ Samurott",
+      "Shadow Samurott",
+      "Purified Samurott",
+      "Hisuian Samurott"
+    ]
+  },
+  {
+    "id": "decidueye",
+    "name": "Decidueye",
+    "forms": [
+      "Decidueye",
+      "✨ Decidueye",
+      "Shadow Decidueye",
+      "Purified Decidueye",
+      "Hisuian Decidueye"
+    ]
+  },
+  {
+    "id": "zorua",
+    "name": "Zorua",
+    "forms": [
+      "Zorua",
+      "✨ Zorua",
+      "Shadow Zorua",
+      "Purified Zorua",
+      "Hisuian Zorua"
+    ]
+  },
+  {
+    "id": "zoroark",
+    "name": "Zoroark",
+    "forms": [
+      "Zoroark",
+      "✨ Zoroark",
+      "Shadow Zoroark",
+      "Purified Zoroark",
+      "Hisuian Zoroark"
+    ]
+  },
+  {
+    "id": "braviary",
+    "name": "Braviary",
+    "forms": [
+      "Braviary",
+      "✨ Braviary",
+      "Shadow Braviary",
+      "Purified Braviary",
+      "Hisuian Braviary"
+    ]
+  },
+  {
+    "id": "lilligant",
+    "name": "Lilligant",
+    "forms": [
+      "Lilligant",
+      "✨ Lilligant",
+      "Shadow Lilligant",
+      "Purified Lilligant",
+      "Hisuian Lilligant"
+    ]
+  },
+  {
+    "id": "qwilfish",
+    "name": "Qwilfish",
+    "forms": [
+      "Qwilfish",
+      "✨ Qwilfish",
+      "Shadow Qwilfish",
+      "Purified Qwilfish",
+      "Hisuian Qwilfish"
+    ]
+  },
+  {
+    "id": "sneasel",
+    "name": "Sneasel",
+    "forms": [
+      "Sneasel",
+      "✨ Sneasel",
+      "Shadow Sneasel",
+      "Purified Sneasel",
+      "Hisuian Sneasel"
+    ]
+  },
+  {
+    "id": "basculin",
+    "name": "Basculin",
+    "forms": [
+      "Basculin",
+      "✨ Basculin",
+      "Shadow Basculin",
+      "Purified Basculin",
+      "Basculin (White-Striped)"
+    ]
+  },
+  {
+    "id": "avalugg",
+    "name": "Avalugg",
+    "forms": [
+      "Avalugg",
+      "✨ Avalugg",
+      "Shadow Avalugg",
+      "Purified Avalugg",
+      "Hisuian Avalugg"
+    ]
+  },
+  {
+    "id": "sliggoo",
+    "name": "Sliggoo",
+    "forms": [
+      "Sliggoo",
+      "✨ Sliggoo",
+      "Shadow Sliggoo",
+      "Purified Sliggoo",
+      "Hisuian Sliggoo"
+    ]
+  },
+  {
+    "id": "goodra",
+    "name": "Goodra",
+    "forms": [
+      "Goodra",
+      "✨ Goodra",
+      "Shadow Goodra",
+      "Purified Goodra",
+      "Hisuian Goodra"
+    ]
+  },
+  {
+    "id": "wyrdeer",
+    "name": "Wyrdeer",
+    "forms": [
+      "Wyrdeer",
+      "✨ Wyrdeer",
+      "Shadow Wyrdeer",
+      "Purified Wyrdeer"
+    ]
+  },
+  {
+    "id": "kleavor",
+    "name": "Kleavor",
+    "forms": [
+      "Kleavor",
+      "✨ Kleavor",
+      "Shadow Kleavor",
+      "Purified Kleavor"
+    ]
+  },
+  {
+    "id": "ursaluna",
+    "name": "Ursaluna",
+    "forms": [
+      "Ursaluna",
+      "✨ Ursaluna",
+      "Shadow Ursaluna",
+      "Purified Ursaluna"
+    ]
+  },
+  {
+    "id": "basculegion",
+    "name": "Basculegion",
+    "forms": [
+      "Basculegion",
+      "✨ Basculegion",
+      "Shadow Basculegion",
+      "Purified Basculegion",
+      "Basculegion (Male)",
+      "Basculegion (Female)"
+    ]
+  },
+  {
+    "id": "sneasler",
+    "name": "Sneasler",
+    "forms": [
+      "Sneasler",
+      "✨ Sneasler",
+      "Shadow Sneasler",
+      "Purified Sneasler"
+    ]
+  },
+  {
+    "id": "overqwil",
+    "name": "Overqwil",
+    "forms": [
+      "Overqwil",
+      "✨ Overqwil",
+      "Shadow Overqwil",
+      "Purified Overqwil"
+    ]
+  },
+  {
+    "id": "enamorus",
+    "name": "Enamorus",
+    "forms": [
+      "Enamorus",
+      "✨ Enamorus",
+      "Shadow Enamorus",
+      "Purified Enamorus",
+      "Enamorus (Incarnate)",
+      "Enamorus (Therian)"
+    ]
+  }
+]
