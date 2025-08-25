@@ -8,12 +8,13 @@ import {
   SafeAreaView,
   Platform,
 } from 'react-native';
-import { auth } from '../../services/supabase';
+import { authService, TEST_ACCOUNTS } from '../../services/auth';
 import { useAppStore } from '../../stores/appStore';
 import { COLORS } from '../../constants';
 
 const AuthScreen = () => {
   const [isLoading, setIsLoading] = useState(false);
+  const [showTestAccounts, setShowTestAccounts] = useState(false);
   const { setLoading, setAuthenticated, setBrowsingWithoutAccount } = useAppStore();
 
   const handleAppleSignIn = async () => {
@@ -21,7 +22,7 @@ const AuthScreen = () => {
       setIsLoading(true);
       setLoading(true);
 
-      const { error } = await auth.signInWithApple();
+      const { error } = await authService.signInWithApple();
 
       if (error) {
         console.error('Apple sign in error:', error);
@@ -47,7 +48,7 @@ const AuthScreen = () => {
       setIsLoading(true);
       setLoading(true);
 
-      const { error } = await auth.signInWithGoogle();
+      const { error } = await authService.signInWithGoogle();
 
       if (error) {
         console.error('Google sign in error:', error);
@@ -74,6 +75,60 @@ const AuthScreen = () => {
     setBrowsingWithoutAccount(true);
     setAuthenticated(true); // This will allow navigation to main app
     // Note: We're not setting a user, so auth checks will still catch this
+  };
+
+  const handleTestAccountSignIn = async (accountKey: keyof typeof TEST_ACCOUNTS) => {
+    try {
+      setIsLoading(true);
+      setLoading(true);
+
+      const account = TEST_ACCOUNTS[accountKey];
+      const { error } = await authService.signInWithTestAccount(
+        account.email,
+        account.password
+      );
+
+      if (error) {
+        // Try to create the account if it doesn't exist
+        const { error: createError } = await authService.createTestAccount(
+          account.email,
+          account.password,
+          account.userData
+        );
+
+        if (createError) {
+          console.error('Test account creation error:', createError);
+          Alert.alert(
+            'Test Account Error',
+            `Failed to create test account: ${createError.message}`
+          );
+          return;
+        }
+
+        // Try signing in again after creating the account
+        const { error: signInError } = await authService.signInWithTestAccount(
+          account.email,
+          account.password
+        );
+
+        if (signInError) {
+          console.error('Test account sign in error:', signInError);
+          Alert.alert(
+            'Test Account Error',
+            `Failed to sign in with test account: ${signInError.message}`
+          );
+        }
+      }
+    } catch (error) {
+      console.error('Test account error:', error);
+      Alert.alert(
+        'Test Account Error',
+        'An unexpected error occurred with the test account.'
+      );
+    } finally {
+      setIsLoading(false);
+      setLoading(false);
+    }
   };
 
   return (
@@ -124,6 +179,78 @@ const AuthScreen = () => {
                 Browse Without Account
               </Text>
             </TouchableOpacity>
+
+            {/* Development Test Accounts */}
+            <TouchableOpacity
+              onPress={() => setShowTestAccounts(!showTestAccounts)}
+              style={styles.devButtonContainer}
+            >
+              <Text style={styles.devButtonText}>
+                🧪 Development Test Accounts
+              </Text>
+            </TouchableOpacity>
+
+            {showTestAccounts && (
+              <View style={styles.testAccountsContainer}>
+                <Text style={styles.testAccountsTitle}>Test Accounts for Multi-User Testing:</Text>
+                
+                <View style={styles.testAccountsGrid}>
+                  <TouchableOpacity
+                    style={styles.testAccountButton}
+                    onPress={() => handleTestAccountSignIn('HOST_1')}
+                    disabled={isLoading}
+                  >
+                    <Text style={styles.testAccountButtonText}>🏠 Host 1</Text>
+                    <Text style={styles.testAccountSubtext}>RaidHost_1 (Mystic L45)</Text>
+                  </TouchableOpacity>
+
+                  <TouchableOpacity
+                    style={styles.testAccountButton}
+                    onPress={() => handleTestAccountSignIn('HOST_2')}
+                    disabled={isLoading}
+                  >
+                    <Text style={styles.testAccountButtonText}>🏠 Host 2</Text>
+                    <Text style={styles.testAccountSubtext}>RaidHost_2 (Valor L42)</Text>
+                  </TouchableOpacity>
+
+                  <TouchableOpacity
+                    style={styles.testAccountButton}
+                    onPress={() => handleTestAccountSignIn('TRADER_1')}
+                    disabled={isLoading}
+                  >
+                    <Text style={styles.testAccountButtonText}>🔄 Trader 1</Text>
+                    <Text style={styles.testAccountSubtext}>PokéTrader_1 (Instinct L38)</Text>
+                  </TouchableOpacity>
+
+                  <TouchableOpacity
+                    style={styles.testAccountButton}
+                    onPress={() => handleTestAccountSignIn('TRADER_2')}
+                    disabled={isLoading}
+                  >
+                    <Text style={styles.testAccountButtonText}>🔄 Trader 2</Text>
+                    <Text style={styles.testAccountSubtext}>PokéTrader_2 (Mystic L40)</Text>
+                  </TouchableOpacity>
+
+                  <TouchableOpacity
+                    style={styles.testAccountButton}
+                    onPress={() => handleTestAccountSignIn('GUEST_1')}
+                    disabled={isLoading}
+                  >
+                    <Text style={styles.testAccountButtonText}>👤 Guest 1</Text>
+                    <Text style={styles.testAccountSubtext}>RaidGuest_1 (Valor L35)</Text>
+                  </TouchableOpacity>
+
+                  <TouchableOpacity
+                    style={styles.testAccountButton}
+                    onPress={() => handleTestAccountSignIn('GUEST_2')}
+                    disabled={isLoading}
+                  >
+                    <Text style={styles.testAccountButtonText}>👤 Guest 2</Text>
+                    <Text style={styles.testAccountSubtext}>RaidGuest_2 (Instinct L37)</Text>
+                  </TouchableOpacity>
+                </View>
+              </View>
+            )}
           </View>
         </View>
 
@@ -229,6 +356,57 @@ const styles = StyleSheet.create({
     color: COLORS.TEXT_LIGHT,
     textAlign: 'center',
     lineHeight: 18,
+  },
+  devButtonContainer: {
+    alignItems: 'center',
+    paddingVertical: 12,
+    marginTop: 8,
+  },
+  devButtonText: {
+    color: COLORS.TEXT_SECONDARY,
+    fontSize: 12,
+    textDecorationLine: 'underline',
+  },
+  testAccountsContainer: {
+    backgroundColor: COLORS.SURFACE,
+    borderRadius: 12,
+    padding: 16,
+    marginTop: 16,
+    borderWidth: 1,
+    borderColor: COLORS.BORDER,
+  },
+  testAccountsTitle: {
+    fontSize: 14,
+    fontWeight: '600',
+    color: COLORS.TEXT_PRIMARY,
+    marginBottom: 12,
+    textAlign: 'center',
+  },
+  testAccountsGrid: {
+    flexDirection: 'row',
+    flexWrap: 'wrap',
+    gap: 8,
+    justifyContent: 'space-between',
+  },
+  testAccountButton: {
+    backgroundColor: COLORS.BACKGROUND,
+    borderRadius: 8,
+    padding: 12,
+    width: '48%',
+    alignItems: 'center',
+    borderWidth: 1,
+    borderColor: COLORS.BORDER,
+  },
+  testAccountButtonText: {
+    fontSize: 12,
+    fontWeight: '600',
+    color: COLORS.TEXT_PRIMARY,
+    marginBottom: 4,
+  },
+  testAccountSubtext: {
+    fontSize: 10,
+    color: COLORS.TEXT_SECONDARY,
+    textAlign: 'center',
   },
 });
 

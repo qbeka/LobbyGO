@@ -41,7 +41,8 @@ export default {
     },
     plugins: [
       'expo-notifications',
-      'sentry-expo'
+      'sentry-expo',
+      'expo-web-browser'
     ],
     extra: {
       supabaseUrl: process.env.EXPO_PUBLIC_SUPABASE_URL,

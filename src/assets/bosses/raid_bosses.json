@@ -49,7 +49,6 @@
       "sprite": "assets/sprites/25.png",
       "aliases": ["Dapper Pikachu"]
     },
-
     {
       "id": "shadow_bellsprout",
       "name": "Shadow Bellsprout",
@@ -130,7 +129,6 @@
       "sprite": "assets/sprites/377.png",
       "aliases": []
     },
-  
     {
       "id": "eternatus_max",
       "name": "Eternamax Eternatus",
@@ -146,8 +144,8 @@
       "name": "Gigantamax Lapras",
       "tier": "Max",
       "raid_type": "Gigantamax",
-      "catch_cp_100_no_weather": 0,
-      "catch_cp_100_weather": 0,
+      "catch_cp_100_no_weather": 1509,
+      "catch_cp_100_weather": 1886,
       "sprite": "assets/sprites/131.png",
       "aliases": ["G-max Lapras"]
     },
@@ -156,8 +154,8 @@
       "name": "Gigantamax Snorlax",
       "tier": "Max",
       "raid_type": "Gigantamax",
-      "catch_cp_100_no_weather": 0,
-      "catch_cp_100_weather": 0,
+      "catch_cp_100_no_weather": 1843,
+      "catch_cp_100_weather": 2304,
       "sprite": "assets/sprites/143.png",
       "aliases": ["G-max Snorlax"]
     },
@@ -166,8 +164,8 @@
       "name": "Gigantamax Gengar",
       "tier": "Max",
       "raid_type": "Gigantamax",
-      "catch_cp_100_no_weather": 0,
-      "catch_cp_100_weather": 0,
+      "catch_cp_100_no_weather": 1644,
+      "catch_cp_100_weather": 2055,
       "sprite": "assets/sprites/94.png",
       "aliases": ["G-max Gengar"]
     },
@@ -176,8 +174,8 @@
       "name": "Gigantamax Inteleon",
       "tier": "Max",
       "raid_type": "Gigantamax",
-      "catch_cp_100_no_weather": 0,
-      "catch_cp_100_weather": 0,
+      "catch_cp_100_no_weather": 1504,
+      "catch_cp_100_weather": 1880,
       "sprite": "assets/sprites/818.png",
       "aliases": ["G-max Inteleon"]
     },
@@ -186,8 +184,8 @@
       "name": "Gigantamax Venusaur",
       "tier": "Max",
       "raid_type": "Gigantamax",
-      "catch_cp_100_no_weather": 0,
-      "catch_cp_100_weather": 0,
+      "catch_cp_100_no_weather": 1554,
+      "catch_cp_100_weather": 1943,
       "sprite": "assets/sprites/3.png",
       "aliases": ["G-max Venusaur"]
     },
@@ -196,8 +194,8 @@
       "name": "Gigantamax Machamp",
       "tier": "Max",
       "raid_type": "Gigantamax",
-      "catch_cp_100_no_weather": 0,
-      "catch_cp_100_weather": 0,
+      "catch_cp_100_no_weather": 1746,
+      "catch_cp_100_weather": 2183,
       "sprite": "assets/sprites/68.png",
       "aliases": ["G-max Machamp"]
     },
@@ -206,8 +204,8 @@
       "name": "Gigantamax Toxtricity (Amped Form)",
       "tier": "Max",
       "raid_type": "Gigantamax",
-      "catch_cp_100_no_weather": 0,
-      "catch_cp_100_weather": 0,
+      "catch_cp_100_no_weather": 1486,
+      "catch_cp_100_weather": 1858,
       "sprite": "assets/sprites/849.png",
       "aliases": ["G-max Toxtricity (Amped)"]
     },
@@ -216,8 +214,8 @@
       "name": "Gigantamax Rillaboom",
       "tier": "Max",
       "raid_type": "Gigantamax",
-      "catch_cp_100_no_weather": 0,
-      "catch_cp_100_weather": 0,
+      "catch_cp_100_no_weather": 1899,
+      "catch_cp_100_weather": 2374,
       "sprite": "assets/sprites/812.png",
       "aliases": ["G-max Rillaboom"]
     },
@@ -226,8 +224,8 @@
       "name": "Gigantamax Charizard",
       "tier": "Max",
       "raid_type": "Gigantamax",
-      "catch_cp_100_no_weather": 0,
-      "catch_cp_100_weather": 0,
+      "catch_cp_100_no_weather": 1651,
+      "catch_cp_100_weather": 2064,
       "sprite": "assets/sprites/6.png",
       "aliases": ["G-max Charizard"]
     },
@@ -236,8 +234,8 @@
       "name": "Gigantamax Butterfree",
       "tier": "Max",
       "raid_type": "Gigantamax",
-      "catch_cp_100_no_weather": 0,
-      "catch_cp_100_weather": 0,
+      "catch_cp_100_no_weather": 943,
+      "catch_cp_100_weather": 1179,
       "sprite": "assets/sprites/12.png",
       "aliases": ["G-max Butterfree"]
     },
@@ -246,8 +244,8 @@
       "name": "Gigantamax Kingler",
       "tier": "Max",
       "raid_type": "Gigantamax",
-      "catch_cp_100_no_weather": 0,
-      "catch_cp_100_weather": 0,
+      "catch_cp_100_no_weather": 1666,
+      "catch_cp_100_weather": 2083,
       "sprite": "assets/sprites/99.png",
       "aliases": ["G-max Kingler"]
     },
@@ -256,8 +254,8 @@
       "name": "Gigantamax Blastoise",
       "tier": "Max",
       "raid_type": "Gigantamax",
-      "catch_cp_100_no_weather": 0,
-      "catch_cp_100_weather": 0,
+      "catch_cp_100_no_weather": 1409,
+      "catch_cp_100_weather": 1761,
       "sprite": "assets/sprites/9.png",
       "aliases": ["G-max Blastoise"]
     },
@@ -266,8 +264,8 @@
       "name": "Gigantamax Cinderace",
       "tier": "Max",
       "raid_type": "Gigantamax",
-      "catch_cp_100_no_weather": 0,
-      "catch_cp_100_weather": 0,
+      "catch_cp_100_no_weather": 1724,
+      "catch_cp_100_weather": 2156,
       "sprite": "assets/sprites/815.png",
       "aliases": ["G-max Cinderace"]
     },
@@ -276,8 +274,8 @@
       "name": "Gigantamax Toxtricity (Low Key Form)",
       "tier": "Max",
       "raid_type": "Gigantamax",
-      "catch_cp_100_no_weather": 0,
-      "catch_cp_100_weather": 0,
+      "catch_cp_100_no_weather": 1486,
+      "catch_cp_100_weather": 1858,
       "sprite": "assets/sprites/849.png",
       "aliases": ["G-max Toxtricity (Low Key)"]
     }
