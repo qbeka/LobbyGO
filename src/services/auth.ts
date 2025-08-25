@@ -1,5 +1,6 @@
 import { makeRedirectUri } from 'expo-auth-session';
 import * as WebBrowser from 'expo-web-browser';
+import * as Linking from 'expo-linking';
 import { supabase } from './supabase';
 import { Platform } from 'react-native';
 
@@ -8,13 +9,15 @@ WebBrowser.maybeCompleteAuthSession();
 
 // Create OAuth helper functions
 export const authService = {
-  // Sign in with Google using Expo AuthSession
+  // Sign in with Google using proper Expo flow
   signInWithGoogle: async () => {
     try {
-      // Create redirect URI for Expo Go
+      console.log('Starting Google OAuth...');
+
+      // Create the redirect URI for Expo Go
       const redirectTo = makeRedirectUri({
-        scheme: 'raidlink', // Your app scheme
-        path: '/auth/callback',
+        scheme: 'exp', // This is critical for Expo Go
+        path: 'auth/callback',
       });
 
       console.log('Google OAuth redirect URI:', redirectTo);
@@ -37,30 +40,43 @@ export const authService = {
 
       // Open the auth URL in the browser
       if (data?.url) {
+        console.log('Opening OAuth URL:', data.url);
+        
+        // Use openAuthSessionAsync for proper OAuth flow
         const result = await WebBrowser.openAuthSessionAsync(
           data.url,
           redirectTo
         );
-
-        if (result.type === 'success') {
-          // Extract the URL parameters
-          const url = result.url;
-          const urlParams = new URL(url);
-          const accessToken = urlParams.searchParams.get('access_token');
-          const refreshToken = urlParams.searchParams.get('refresh_token');
-
-          if (accessToken) {
+        
+        console.log('OAuth result:', result);
+        
+        if (result.type === 'success' && result.url) {
+          // Parse the URL to extract tokens
+          const url = new URL(result.url);
+          const fragment = url.hash.substring(1);
+          const params = new URLSearchParams(fragment);
+          
+          const access_token = params.get('access_token');
+          const refresh_token = params.get('refresh_token');
+          
+          if (access_token) {
             // Set the session in Supabase
             const { data: sessionData, error: sessionError } = await supabase.auth.setSession({
-              access_token: accessToken,
-              refresh_token: refreshToken || '',
+              access_token,
+              refresh_token: refresh_token || '',
             });
-
-            return { data: sessionData, error: sessionError };
+            
+            if (sessionError) {
+              console.error('Session error:', sessionError);
+              return { data: null, error: sessionError };
+            }
+            
+            console.log('Google OAuth successful!');
+            return { data: sessionData, error: null };
           }
         }
-
-        return { data: null, error: new Error('OAuth cancelled or failed') };
+        
+        return { data: null, error: new Error('OAuth was cancelled or failed') };
       }
 
       return { data: null, error: new Error('No OAuth URL provided') };
@@ -70,7 +86,7 @@ export const authService = {
     }
   },
 
-  // Sign in with Apple using Expo AuthSession
+  // Sign in with Apple using proper Expo flow
   signInWithApple: async () => {
     try {
       // Apple Sign In is only available on iOS
@@ -78,10 +94,12 @@ export const authService = {
         return { data: null, error: new Error('Apple Sign In is only available on iOS') };
       }
 
-      // Create redirect URI for Expo Go
+      console.log('Starting Apple OAuth...');
+
+      // Create the redirect URI for Expo Go
       const redirectTo = makeRedirectUri({
-        scheme: 'raidlink',
-        path: '/auth/callback',
+        scheme: 'exp', // This is critical for Expo Go
+        path: 'auth/callback',
       });
 
       console.log('Apple OAuth redirect URI:', redirectTo);
@@ -100,73 +118,48 @@ export const authService = {
 
       // Open the auth URL in the browser
       if (data?.url) {
+        console.log('Opening Apple OAuth URL:', data.url);
+        
+        // Use openAuthSessionAsync for proper OAuth flow
         const result = await WebBrowser.openAuthSessionAsync(
           data.url,
           redirectTo
         );
-
-        if (result.type === 'success') {
-          // Extract the URL parameters
-          const url = result.url;
-          const urlParams = new URL(url);
-          const accessToken = urlParams.searchParams.get('access_token');
-          const refreshToken = urlParams.searchParams.get('refresh_token');
-
-          if (accessToken) {
+        
+        console.log('Apple OAuth result:', result);
+        
+        if (result.type === 'success' && result.url) {
+          // Parse the URL to extract tokens
+          const url = new URL(result.url);
+          const fragment = url.hash.substring(1);
+          const params = new URLSearchParams(fragment);
+          
+          const access_token = params.get('access_token');
+          const refresh_token = params.get('refresh_token');
+          
+          if (access_token) {
             // Set the session in Supabase
             const { data: sessionData, error: sessionError } = await supabase.auth.setSession({
-              access_token: accessToken,
-              refresh_token: refreshToken || '',
+              access_token,
+              refresh_token: refresh_token || '',
             });
-
-            return { data: sessionData, error: sessionError };
+            
+            if (sessionError) {
+              console.error('Apple session error:', sessionError);
+              return { data: null, error: sessionError };
+            }
+            
+            console.log('Apple OAuth successful!');
+            return { data: sessionData, error: null };
           }
         }
-
-        return { data: null, error: new Error('OAuth cancelled or failed') };
+        
+        return { data: null, error: new Error('Apple OAuth was cancelled or failed') };
       }
 
-      return { data: null, error: new Error('No OAuth URL provided') };
+      return { data: null, error: new Error('No Apple OAuth URL provided') };
     } catch (error) {
       console.error('Apple sign in error:', error);
-      return { data: null, error: error as Error };
-    }
-  },
-
-  // Test authentication with dummy accounts for development
-  signInWithTestAccount: async (email: string, password: string) => {
-    try {
-      const { data, error } = await supabase.auth.signInWithPassword({
-        email,
-        password,
-      });
-
-      return { data, error };
-    } catch (error) {
-      console.error('Test account sign in error:', error);
-      return { data: null, error: error as Error };
-    }
-  },
-
-  // Create test accounts for development
-  createTestAccount: async (email: string, password: string, userData?: {
-    trainer_name?: string;
-    friend_code?: string;
-    level?: number;
-    team?: 'Mystic' | 'Valor' | 'Instinct';
-  }) => {
-    try {
-      const { data, error } = await supabase.auth.signUp({
-        email,
-        password,
-        options: {
-          data: userData || {},
-        },
-      });
-
-      return { data, error };
-    } catch (error) {
-      console.error('Test account creation error:', error);
       return { data: null, error: error as Error };
     }
   },
@@ -202,69 +195,5 @@ export const authService = {
       console.error('Get session error:', error);
       return { data: null, error: error as Error };
     }
-  },
-};
-
-// Test account configurations for development
-export const TEST_ACCOUNTS = {
-  HOST_1: {
-    email: 'host1@lobbygo.test',
-    password: 'testhost123',
-    userData: {
-      trainer_name: 'RaidHost_1',
-      friend_code: '1234 5678 9012',
-      level: 45,
-      team: 'Mystic' as const,
-    },
-  },
-  HOST_2: {
-    email: 'host2@lobbygo.test',
-    password: 'testhost123',
-    userData: {
-      trainer_name: 'RaidHost_2',
-      friend_code: '2345 6789 0123',
-      level: 42,
-      team: 'Valor' as const,
-    },
-  },
-  TRADER_1: {
-    email: 'trader1@lobbygo.test',
-    password: 'testtrader123',
-    userData: {
-      trainer_name: 'PokéTrader_1',
-      friend_code: '3456 7890 1234',
-      level: 38,
-      team: 'Instinct' as const,
-    },
-  },
-  TRADER_2: {
-    email: 'trader2@lobbygo.test',
-    password: 'testtrader123',
-    userData: {
-      trainer_name: 'PokéTrader_2',
-      friend_code: '4567 8901 2345',
-      level: 40,
-      team: 'Mystic' as const,
-    },
-  },
-  GUEST_1: {
-    email: 'guest1@lobbygo.test',
-    password: 'testguest123',
-    userData: {
-      trainer_name: 'RaidGuest_1',
-      friend_code: '5678 9012 3456',
-      level: 35,
-      team: 'Valor' as const,
-    },
-  },
-  GUEST_2: {
-    email: 'guest2@lobbygo.test',
-    password: 'testguest123',
-    userData: {
-      trainer_name: 'RaidGuest_2',
-      friend_code: '6789 0123 4567',
-      level: 37,
-      team: 'Instinct' as const,
-    },
   },
 };

@@ -33,6 +33,20 @@ export default {
         'VIBRATE',
         'WAKE_LOCK',
       ],
+      intentFilters: [
+        {
+          action: 'VIEW',
+          autoVerify: true,
+          data: [
+            {
+              scheme: 'https',
+              host: 'isfriyfggtqvmoelqbly.supabase.co',
+              pathPrefix: '/auth/v1/callback'
+            }
+          ],
+          category: ['BROWSABLE', 'DEFAULT']
+        }
+      ]
     },
     ios: {
       supportsTablet: true,
